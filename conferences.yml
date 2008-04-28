@@ -331,13 +331,13 @@
 - begin: 0:0:0 01/01/2008
   cc: il
   city: Tel Aviv
-  conf_id: hack2007il
+  conf_id: hack2008il
   continent: Asia
   country: Israel
   end: 0:0:0 05/01/2008
   genre: hackathon
   name: Israeli Pub crawl/Hackathon
-  status: ok
+  status: canceled
   type: grassroot
   url: http://act.perl.org.il/ilpw2007/hackathon.html
 - act_open: 0:0:0 15/09/2007
