@@ -71,6 +71,12 @@
   country: Italy
   end: 0:0:0 19/09/2008
   genre: workshop
+  languages:
+    - Italian
+    - English
+  lc:
+    - it
+    - en
   name: Italian Perl Workshop
   status: ok
   type: grassroot
@@ -111,6 +117,12 @@
   country: Portugal
   end: 0:0:0 07/06/2008
   genre: workshop
+  languages:
+    - Portuguese
+    - English
+  lc:
+    - pt
+    - en
   name: Portuguese Perl Workshop
   status: ok
   type: grassroot
@@ -124,6 +136,12 @@
   country: France
   end: 0:0:0 31/05/2008
   genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
   name: French Perl Workshop
   status: ok
   type: grassroot
@@ -189,6 +207,12 @@
   country: Croatia
   end: 0:0:0 15/04/2008
   genre: workshop
+  languages:
+    - Croatian
+    - English
+  lc:
+    - hr
+    - en
   name: Croatian Perl Workshop
   status: ok
   type: grassroot
@@ -238,6 +262,14 @@
   country: Ukraine
   end: 0:0:0 23/02/2008
   genre: workshop
+  languages:
+    - Ukrainian
+    - Russian
+    - English
+  lc:
+    - uk
+    - ru
+    - en
   name: Ukrainian Perl Workshop
   status: ok
   type: grassroot
@@ -263,6 +295,12 @@
   country: Germany
   end: 0:0:0 15/02/2008
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -276,6 +314,12 @@
   country: Israel
   end: 0:0:0 31/12/2007
   genre: workshop
+  languages:
+    - Hebrew
+    - English
+  lc:
+    - he
+    - en
   name: Perl Workshop in Israel
   status: ok
   type: grassroot
@@ -301,6 +345,10 @@
   country: United Kingdom
   end: 0:0:0 01/12/2007
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: London Perl Workshop
   status: ok
   type: grassroot
@@ -326,6 +374,12 @@
   country: France
   end: 0:0:0 17/11/2007
   genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
   name: French Perl Workshop
   status: ok
   type: grassroot
@@ -352,6 +406,14 @@
   country: Belgium
   end: 0:0:0 27/10/2007
   genre: workshop
+  languages:
+    - English
+    - French
+    - Dutch
+  lc:
+    - en
+    - fr
+    - nl
   name: Belgian Perl Workshop
   status: ok
   type: grassroot
@@ -364,6 +426,10 @@
   country: Russia
   end: 0:0:0 26/10/2007
   genre: workshop
+  languages:
+    - Russian
+  lc:
+    - ru
   name: Russian Perl Workshop
   status: ok
   type: grassroot
@@ -490,6 +556,10 @@
   country: Netherlands
   end: 0:0:0 16/03/2007
   genre: workshop
+  languages:
+    - Dutch
+  lc:
+    - nl
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
@@ -503,6 +573,12 @@
   country: Netherlands
   end: 0:0:0 04/03/2007
   genre: hackathon
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
   name: European Perl Hackathon
   status: ok
   type: grassroot
@@ -539,6 +615,10 @@
   country: Germany
   end: 0:0:0 23/02/2007
   genre: workshop
+  languages:
+    - German
+  lc:
+    - de
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -551,6 +631,10 @@
   country: United Kingdom
   end: 0:0:0 09/12/2006
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: London Perl Workshop
   status: ok
   type: grassroot
@@ -576,6 +660,12 @@
   country: France
   end: 0:0:0 26/11/2006
   genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
   name: French Perl Workshop
   status: ok
   type: grassroot
@@ -653,6 +743,10 @@
   country: Norway
   end: 0:0:0 16/06/2006
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: Nordic Perl Workshop
   status: ok
   type: grassroot
@@ -666,6 +760,12 @@
   country: Austria
   end: 0:0:0 09/06/2006
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: Austrian Perl Workshop
   status: ok
   type: grassroot
@@ -678,6 +778,10 @@
   country: Netherlands
   end: 0:0:0 17/05/2006
   genre: workshop
+  languages:
+    - Dutch
+  lc:
+    - nl
   name: Dutch Perl Workshop
   part_of: SANE 2006
   status: ok
@@ -716,6 +820,12 @@
   country: Germany
   end: 0:0:0 03/03/2006
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -728,6 +838,12 @@
   country: Israel
   end: 0:0:0 28/02/2006
   genre: osdc
+  languages:
+    - Hebrew
+    - English
+  lc:
+    - he
+    - en
   name: OSDC Israel
   status: ok
   type: grassroot
@@ -752,6 +868,10 @@
   country: United Kingdom
   end: 0:0:0 26/11/2005
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: London Perl Workshop
   status: ok
   type: grassroot
@@ -778,6 +898,12 @@
   country: Hungary
   end: 0:0:0 22/10/2005
   genre: workshop
+  languages:
+    - Hungarian
+    - English
+  lc:
+    - hu
+    - en
   name: Hungarian Perl Workshop
   status: ok
   type: grassroot
@@ -831,6 +957,10 @@
   country: France
   end: 0:0:0 10/06/2005
   genre: workshop
+  languages:
+    - French
+  lc:
+    - fr
   name: French Perl Workshop
   status: ok
   type: grassroot
@@ -844,6 +974,12 @@
   country: Austria
   end: 0:0:0 10/06/2005
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: Austrian Perl Workshop
   status: ok
   type: grassroot
@@ -880,6 +1016,10 @@
   country: Netherlands
   end: 0:0:0 25/02/2005
   genre: workshop
+  languages:
+    - Dutch
+  lc:
+    - nl
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
@@ -892,6 +1032,12 @@
   country: Israel
   end: 0:0:0 17/02/2005
   genre: yapc
+  languages:
+    - Hebrew
+    - English
+  lc:
+    - he
+    - en
   name: YAPC Israel
   status: ok
   type: grassroot
@@ -904,6 +1050,12 @@
   country: Germany
   end: 0:0:0 11/02/2005
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -929,6 +1081,10 @@
   country: United Kingdom
   end: 0:0:0 01/12/2004
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: London Perl Workshop
   status: ok
   type: grassroot
@@ -954,6 +1110,12 @@
   country: Hungary
   end: 0:0:0 28/08/2004
   genre: workshop
+  languages:
+    - Hungarian
+    - English
+  lc:
+    - hu
+    - en
   name: Hungarian Perl Workshop
   status: ok
   type: grassroot
@@ -966,6 +1128,12 @@
   country: Italy
   end: 0:0:0 20/07/2004
   genre: workshop
+  languages:
+    - Italian
+    - English
+  lc:
+    - it
+    - en
   name: Italian Perl Workshop
   status: ok
   type: grassroot
@@ -978,6 +1146,12 @@
   country: Germany
   end: 0:0:0 01/07/2004
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -1003,6 +1177,12 @@
   country: France
   end: 0:0:0 07/06/2004
   genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
   name: French Perl Workshop
   status: ok
   type: grassroot
@@ -1015,6 +1195,12 @@
   country: Austria
   end: 0:0:0 22/05/2004
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: Austrian Perl Workshop
   status: ok
   type: grassroot
@@ -1027,6 +1213,10 @@
   country: Denmark
   end: 0:0:0 28/03/2004
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: Nordic Perl Workshop
   status: ok
   type: grassroot
@@ -1039,6 +1229,10 @@
   country: Netherlands
   end: 0:0:0 05/03/2004
   genre: workshop
+  languages:
+    - Dutch
+  lc:
+    - nl
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
@@ -1051,6 +1245,12 @@
   country: Israel
   end: 0:0:0 26/02/2004
   genre: yapc
+  languages:
+    - Hebrew
+    - English
+  lc:
+    - he
+    - en
   name: YAPC Israel
   status: ok
   type: grassroot
@@ -1102,6 +1302,12 @@
   country: Israel
   end: 0:0:0 11/05/2003
   genre: yapc
+  languages:
+    - Hebrew
+    - English
+  lc:
+    - he
+    - en
   name: YAPC Israel
   status: ok
   type: grassroot
@@ -1114,6 +1320,12 @@
   country: Germany
   end: 0:0:0 07/05/2003
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -1126,6 +1338,10 @@
   country: Denmark
   end: 0:0:0 26/03/2003
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: Scandinavian Perl Workshop
   status: ok
   type: grassroot
@@ -1153,6 +1369,12 @@
   country: Hungary
   end: 0:0:0 26/08/2002
   genre: workshop
+  languages:
+    - Hungarian
+    - English
+  lc:
+    - he
+    - en
   name: Hungarian Perl Workshop
   status: ok
   type: grassroot
@@ -1171,12 +1393,18 @@
   url: http://www.yapc.org/America/previous-years/2002/
 - begin: 0:0:0 13/02/2002
   cc: de
-  city: Bonn-Rhein-Sieg
+  city: 'Sankt Augustin, Bonn-Rhein-Sieg'
   conf_id: gpw2002
   continent: Europe
   country: Germany
   end: 0:0:0 15/02/2002
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -1210,12 +1438,18 @@
   url: http://www.yapc.org/America/previous-years/2001/
 - begin: 0:0:0 28/02/2001
   cc: de
-  city: Bonn-Rhein-Sieg
+  city: 'Sankt Augustin, Bonn-Rhein-Sieg'
   conf_id: gpw2001
   continent: Europe
   country: Germany
   end: 0:0:0 02/03/2001
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -1249,12 +1483,18 @@
   url: http://www.yapc.org/America/previous-years/19100/
 - begin: 0:0:0 08/03/2000
   cc: de
-  city: Bonn-Rhein-Sieg
+  city: 'Sankt Augustin, Bonn-Rhein-Sieg'
   conf_id: gpw2000
   continent: Europe
   country: Germany
   end: 0:0:0 10/03/2000
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
@@ -1273,14 +1513,19 @@
   url: http://www.yapc.org/America/previous-years/1999/
 - begin: 0:0:0 17/02/1999
   cc: de
-  city: Sankt Augustin
+  city: 'Sankt Augustin, Bonn-Rhein-Sieg'
   conf_id: gpw1999
   continent: Europe
   country: Germany
   end: 0:0:0 19/02/1999
   genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
   name: German Perl Workshop
   status: ok
   type: grassroot
   url: http://www.perl-workshop.de/en/1999/
-
