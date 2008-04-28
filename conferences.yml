@@ -267,18 +267,6 @@
   status: ok
   type: grassroot
   url: http://www.perl-workshop.de/en/2008/
-- begin: 2007
-  cc: il
-  city: ''
-  conf_id: osdc2007il!
-  continent: Asia
-  country: Israel
-  end: 2007
-  genre: osdc
-  name: OSDC Israel
-  status: canceled
-  type: grassroot
-  url: http://www.osdc.org.il/2007/
 - act_open: 0:0:0 15/09/2007
   begin: 0:0:0 31/12/2007
   cc: il
@@ -286,7 +274,7 @@
   conf_id: ilpw2007
   continent: Asia
   country: Israel
-  end: 0:0:0 05/01/2008
+  end: 0:0:0 31/12/2007
   genre: workshop
   name: Perl Workshop in Israel
   status: ok
@@ -519,6 +507,30 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/hack2007nl/
+- begin: 0:0:0 xx/02/2007
+  cc: il
+  city: ''
+  conf_id: osdc2007il!
+  continent: Asia
+  country: Israel
+  end: 0:0:0 xx/02/2007
+  genre: osdc
+  name: OSDC Israel
+  status: canceled
+  type: grassroot
+  url: http://www.osdc.org.il/2007/
+- begin: 0:0:0 01/01/2008
+  cc: il
+  city: Tel Aviv
+  conf_id: hack2007il
+  continent: Asia
+  country: Israel
+  end: 0:0:0 05/01/2008
+  genre: hackathon
+  name: Israeli Pub crawl/Hackathon
+  status: ok
+  type: grassroot
+  url: http://act.perl.org.il/ilpw2007/hackathon.html
 - begin: 0:0:0 21/02/2007
   cc: de
   city: Munich
