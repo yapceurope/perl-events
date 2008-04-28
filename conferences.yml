@@ -1,8 +1,31 @@
+# Perl conferences information
+# Gathered by Philippe Bruhat (BooK)
+# Free to use, don't forget to give credit/link back
+#
+# Fields:
+# - act_open: date of opening of the Act conference website
+# - attendees: number of attendees
+# - begin: beginning date of the conference
+# - cc: country code (isoi 3166)
+# - city: city name (optional region/state)
+# - conf_id: Act-like conference id
+# - continent: continent name, in a 5 continents world view 
+# - country: country name
+# - end: end date of the conference
+# - genre: workshop | hackathon | yapc | osdc
+# - languages: languages of the conference list
+# - lc: language codes of the conference (iso 639)
+# - name: conference name
+# - part_of: larger conference this conference was part of
+# - status: ok | canceled | unknown
+# - theme: theme of the conference
+# - type: grassroot | business
+# - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2008
   cc: us
-  city: Pittsburgh
+  city: 'Pittsburgh, PA'
   conf_id: ppw2008
   continent: America
   country: United States
