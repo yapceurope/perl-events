@@ -328,6 +328,18 @@
   status: ok
   type: grassroot
   url: http://www.perl-workshop.de/en/2008/
+- begin: 0:0:0 01/01/2008
+  cc: il
+  city: Tel Aviv
+  conf_id: hack2007il
+  continent: Asia
+  country: Israel
+  end: 0:0:0 05/01/2008
+  genre: hackathon
+  name: Israeli Pub crawl/Hackathon
+  status: ok
+  type: grassroot
+  url: http://act.perl.org.il/ilpw2007/hackathon.html
 - act_open: 0:0:0 15/09/2007
   begin: 0:0:0 31/12/2007
   cc: il
@@ -523,18 +535,6 @@
   status: ok
   type: grassroot
   url: http://www.perlfoundation.org/hackathon-toronto/index.cgi
-- begin: 0:0:0 10/03/2007
-  cc: us
-  city: 'Boston, MA'
-  conf_id: nepw2007
-  continent: America
-  country: United States
-  end: 0:0:0 10/03/2007
-  genre: workshop
-  name: New England Perl Workshop
-  status: canceled
-  type: grassroot
-  url: http://www.neperlworkshop.org/
 - begin: 0:0:0 14/04/2007
   cc: tw
   city: Taipei
@@ -587,6 +587,18 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/wiki/wiki.cgi?2007
+- begin: 0:0:0 10/03/2007
+  cc: us
+  city: 'Boston, MA'
+  conf_id: nepw2007
+  continent: America
+  country: United States
+  end: 0:0:0 10/03/2007
+  genre: workshop
+  name: New England Perl Workshop
+  status: canceled
+  type: grassroot
+  url: http://www.neperlworkshop.org/
 - act_open: 0:0:0 27/01/2007
   begin: 0:0:0 02/03/2007
   cc: nl
@@ -618,18 +630,6 @@
   status: canceled
   type: grassroot
   url: http://www.osdc.org.il/2007/
-- begin: 0:0:0 01/01/2008
-  cc: il
-  city: Tel Aviv
-  conf_id: hack2007il
-  continent: Asia
-  country: Israel
-  end: 0:0:0 05/01/2008
-  genre: hackathon
-  name: Israeli Pub crawl/Hackathon
-  status: ok
-  type: grassroot
-  url: http://act.perl.org.il/ilpw2007/hackathon.html
 - begin: 0:0:0 21/02/2007
   cc: de
   city: Munich
