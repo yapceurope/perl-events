@@ -520,9 +520,9 @@
   end: 0:0:0 28/04/2007
   genre: hackathon
   name: Toronto Hackathon
-  status: unknown
+  status: ok
   type: grassroot
-  url: ~
+  url: http://www.perlfoundation.org/hackathon-toronto/index.cgi
 - begin: 0:0:0 10/03/2007
   cc: us
   city: 'Boston, MA'
