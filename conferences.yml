@@ -1,0 +1,1274 @@
+---
+- act_open: 0:0:0 xx/xx/2008
+  begin: 0:0:0 xx/xx/2008
+  cc: us
+  city: Pittsburgh
+  conf_id: ppw2008
+  continent: America
+  country: United States
+  end: 0:0:0 xx/xx/2008
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2008
+  begin: 0:0:0 xx/xx/2008
+  cc: ru
+  city: ''
+  conf_id: rpw2008
+  continent: Europe
+  country: Russia
+  end: 0:0:0 xx/xx/2008
+  genre: workshop
+  name: Far East Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 xx/10/2008
+  cc: au
+  city: Sydney
+  conf_id: osdc2008au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 xx/10/2008
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://www.osdc.com.au/2008/
+- begin: 0:0:0 xx/10/2008
+  cc: at
+  city: Vienna
+  conf_id: apw2008
+  continent: Europe
+  country: Austria
+  end: 0:0:0 xx/10/2008
+  genre: workshop
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 12/04/2008
+  begin: 0:0:0 11/10/2008
+  cc: by
+  city: Minsk
+  conf_id: minsk2008
+  continent: Europe
+  country: Belarus
+  end: 0:0:0 11/10/2008
+  genre: workshop
+  name: Belarusian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 10/03/2008
+  begin: 0:0:0 18/09/2008
+  cc: it
+  city: Pisa
+  conf_id: ipw2008
+  continent: Europe
+  country: Italy
+  end: 0:0:0 19/09/2008
+  genre: workshop
+  name: Italian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/ipw2008/
+- act_open: 0:0:0 01/12/2007
+  begin: 0:0:0 13/08/2008
+  cc: dk
+  city: Copenhagen
+  conf_id: ye2008
+  continent: Europe
+  country: Denmark
+  end: 0:0:0 15/08/2008
+  genre: yapc
+  name: YAPC Europe
+  status: ok
+  theme: Perl
+  type: grassroot
+  url: http://www.yapceurope2008.org/ye2008/
+- act_open: 0:0:0 17/12/2007
+  begin: 0:0:0 16/06/2008
+  cc: us
+  city: 'Chicago, IL'
+  conf_id: yn2008
+  continent: America
+  country: United States
+  end: 0:0:0 18/06/2008
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/yn2008/
+- act_open: 0:0:0 11/02/2008
+  begin: 0:0:0 06/06/2008
+  cc: pt
+  city: Braga
+  conf_id: ptpw2008
+  continent: Europe
+  country: Portugal
+  end: 0:0:0 07/06/2008
+  genre: workshop
+  name: Portuguese Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://workshop.perl.pt/ptpw2008/
+- act_open: 0:0:0 17/03/2008
+  begin: 0:0:0 30/05/2008
+  cc: fr
+  city: Albi
+  conf_id: fpw2008
+  continent: Europe
+  country: France
+  end: 0:0:0 31/05/2008
+  genre: workshop
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/fpw2008/
+- act_open: 0:0:0 13/04/2008
+  begin: 0:0:0 24/05/2008
+  cc: se
+  city: Stockholm
+  conf_id: npw2008
+  continent: Europe
+  country: Sweden
+  end: 0:0:0 25/05/2008
+  genre: workshop
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/npw2008/
+- act_open: 0:0:0 27/11/2007
+  begin: 0:0:0 17/05/2008
+  cc: ru
+  city: Moscow
+  conf_id: yr2008
+  continent: Europe
+  country: Russia
+  end: 0:0:0 18/05/2008
+  genre: yapc
+  name: YAPC Russia
+  status: ok
+  type: grassroot
+  url: http://event.perlrussia.ru/yr2008/
+- act_open: 0:0:0 06/02/2008
+  begin: 0:0:0 15/05/2008
+  cc: jp
+  city: Tokyo
+  conf_id: ya2008
+  continent: Asia
+  country: Japan
+  end: 0:0:0 16/05/2008
+  genre: yapc
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://conferences.yapcasia.org/ya2008/
+- begin: 0:0:0 17/04/2008
+  cc: br
+  city: Porto Alegre
+  conf_id: ys2008
+  continent: America
+  country: Brazil
+  end: 0:0:0 19/04/2008
+  genre: yapc
+  name: YAPC South America
+  part_of: FISL 9.0 (International Free Software Forum)
+  status: ok
+  type: grassroot
+  url: http://perl.org.br/bin/view/YAPC/SA2008/WebHomeEn
+- act_open: 0:0:0 11/04/2008
+  begin: 0:0:0 15/04/2008
+  cc: hr
+  city: Zagreb
+  conf_id: hrpw2008
+  continent: Europe
+  country: Croatia
+  end: 0:0:0 15/04/2008
+  genre: workshop
+  name: Croatian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/hrpw2008/
+- begin: 0:0:0 12/04/2008
+  cc: tw
+  city: Taipei
+  conf_id: osdc2008tw
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 13/04/2008
+  genre: osdc
+  name: OSDC.tw
+  status: ok
+  type: grassroot
+  url: http://www.osdc.tw/
+- begin: 0:0:0 05/04/2008
+  cc: no
+  city: Oslo
+  conf_id: hack2008no
+  continent: Europe
+  country: Norway
+  end: 0:0:0 07/04/2008
+  genre: hackathon
+  name: Oslo QA Hackathon
+  status: ok
+  type: grassroot
+  url: http://perl-qa.hexten.net/wiki/index.php/Oslo_QA_Hackathon_2008
+- begin: 0:0:0 29/02/2008
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2008
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 29/02/2008
+  genre: workshop
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/
+- act_open: 0:0:0 28/11/2007
+  begin: 0:0:0 23/02/2008
+  cc: ua
+  city: Kiev
+  conf_id: upw2008
+  continent: Europe
+  country: Ukraine
+  end: 0:0:0 23/02/2008
+  genre: workshop
+  name: Ukrainian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://event.perlukraine.org/upw2008/
+- act_open: 0:0:0 01/09/2007
+  begin: 0:0:0 16/02/2008
+  cc: us
+  city: 'Minneapolis, MN'
+  conf_id: mpw2008
+  continent: America
+  country: United States
+  end: 0:0:0 16/02/2008
+  genre: workshop
+  name: Frozen Perl
+  status: ok
+  type: grassroot
+  url: http://www.frozen-perl.org/mpw2008/
+- begin: 0:0:0 13/02/2008
+  cc: de
+  city: Erlangen
+  conf_id: gpw2008
+  continent: Europe
+  country: Germany
+  end: 0:0:0 15/02/2008
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2008/
+- begin: 2007
+  cc: il
+  city: ''
+  conf_id: osdc2007il!
+  continent: Asia
+  country: Israel
+  end: 2007
+  genre: osdc
+  name: OSDC Israel
+  status: canceled
+  type: grassroot
+  url: http://www.osdc.org.il/2007/
+- act_open: 0:0:0 15/09/2007
+  begin: 0:0:0 31/12/2007
+  cc: il
+  city: Ramat Efal
+  conf_id: ilpw2007
+  continent: Asia
+  country: Israel
+  end: 0:0:0 05/01/2008
+  genre: workshop
+  name: Perl Workshop in Israel
+  status: ok
+  type: grassroot
+  url: http://act.perl.org.il/ilpw2007/
+- begin: 0:0:0 14/12/2007
+  cc: us
+  city: 'Chicago, IL'
+  conf_id: hack2007us
+  continent: America
+  country: United States
+  end: 0:0:0 16/12/2007
+  genre: hackathon
+  name: Chicago Hackathon
+  status: ok
+  type: grassroot
+  url: http://perlcast.com/hackchicago2007/
+- act_open: 0:0:0 04/10/2007
+  begin: 0:0:0 01/12/2007
+  cc: gb
+  city: London
+  conf_id: lpw2007
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 01/12/2007
+  genre: workshop
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/lpw2007/
+- begin: 0:0:0 26/11/2007
+  cc: au
+  city: Brisbane
+  conf_id: osdc2007au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 29/11/2007
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://www.osdc.com.au/index2007.html
+- act_open: 0:0:0 29/08/2007
+  begin: 0:0:0 16/11/2007
+  cc: fr
+  city: Lyon
+  conf_id: fpw2007
+  continent: Europe
+  country: France
+  end: 0:0:0 17/11/2007
+  genre: workshop
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/2007/
+- begin: 0:0:0 09/11/2007
+  cc: br
+  city: São Paulo
+  conf_id: ybr2007
+  continent: America
+  country: Brazil
+  end: 0:0:0 11/11/2007
+  genre: yapc
+  name: YAPC Brazil
+  part_of: CONISLI (Congresso Internacional de Software Livre)
+  status: ok
+  type: grassroot
+  url: http://perl.org.br/bin/view/YAPC/BR2007/WebHome
+- act_open: 0:0:0 12/09/2007
+  begin: 0:0:0 27/10/2007
+  cc: be
+  city: Brussels
+  conf_id: bpw2007
+  continent: Europe
+  country: Belgium
+  end: 0:0:0 27/10/2007
+  genre: workshop
+  name: Belgian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/bpw2007/
+- begin: 0:0:0 26/10/2007
+  cc: ru
+  city: Moscow
+  conf_id: rpw2007
+  continent: Europe
+  country: Russia
+  end: 0:0:0 26/10/2007
+  genre: workshop
+  name: Russian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://2007.perlrussia.ru/en/
+- act_open: 0:0:0 22/06/2007
+  begin: 0:0:0 13/10/2007
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2007
+  continent: America
+  country: United States
+  end: 0:0:0 14/10/2007
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://pghpw.org/ppw2007/
+- act_open: 0:0:0 15/11/2006
+  attendees: 340
+  begin: 0:0:0 28/08/2007
+  cc: at
+  city: Vienna
+  conf_id: ye2007
+  continent: Europe
+  country: Austria
+  end: 0:0:0 30/08/2007
+  genre: yapc
+  name: YAPC Europe
+  status: ok
+  theme: Social Perl
+  type: grassroot
+  url: http://conferences.yapceurope.org/2007/
+- act_open: 0:0:0 25/01/2007
+  begin: 0:0:0 25/06/2007
+  cc: us
+  city: 'Houston, TX'
+  conf_id: yn2007
+  continent: America
+  country: United States
+  end: 0:0:0 27/06/2007
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/yn2007/
+- act_open: 0:0:0 05/02/2007
+  begin: 0:0:0 28/04/2007
+  cc: dk
+  city: Copenhagen
+  conf_id: npw2007
+  continent: Europe
+  country: Denmark
+  end: 0:0:0 29/04/2007
+  genre: workshop
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/npw2007/
+- begin: 0:0:0 28/04/2007
+  cc: ca
+  city: Toronto
+  conf_id: hack2007ca?
+  continent: America
+  country: Canada
+  end: 0:0:0 28/04/2007
+  genre: hackathon
+  name: Toronto Hackathon
+  status: unknown
+  type: grassroot
+  url: ~
+- begin: 0:0:0 10/03/2007
+  cc: us
+  city: 'Boston, MA'
+  conf_id: nepw2007?
+  continent: America
+  country: United States
+  end: 0:0:0 10/03/2007
+  genre: workshop
+  name: New England Perl Workshop
+  status: unknown
+  type: grassroot
+  url: http://www.neperlworkshop.org/
+- begin: 0:0:0 14/04/2007
+  cc: tw
+  city: Taipei
+  conf_id: osdc2007tw
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 15/04/2007
+  genre: osdc
+  name: OSDC.tw
+  status: ok
+  type: grassroot
+  url: http://www.osdc.tw/osdc2007/en/
+- begin: 0:0:0 11/04/2007
+  cc: br
+  city: Porto Alegre
+  conf_id: ys2007
+  continent: America
+  country: Brazil
+  end: 0:0:0 14/04/2007
+  genre: yapc
+  name: YAPC South America
+  status: ok
+  type: grassroot
+  url: http://perl.org.br/bin/view/YAPC/SA2007/
+- begin: 0:0:0 04/04/2007
+  cc: jp
+  city: Tokyo
+  conf_id: ya2007
+  continent: Asia
+  country: Japan
+  end: 0:0:0 05/04/2007
+  genre: yapc
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://tokyo2007.yapcasia.org/blog/
+- begin: 0:0:0 16/03/2007
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2007
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 16/03/2007
+  genre: workshop
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/wiki/wiki.cgi?2007
+- act_open: 0:0:0 27/01/2007
+  begin: 0:0:0 02/03/2007
+  cc: nl
+  city: Arnhem
+  conf_id: hack2007nl
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 04/03/2007
+  genre: hackathon
+  name: European Perl Hackathon
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/hack2007nl/
+- begin: 0:0:0 21/02/2007
+  cc: de
+  city: Munich
+  conf_id: gpw2007
+  continent: Europe
+  country: Germany
+  end: 0:0:0 23/02/2007
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2007/
+- begin: 0:0:0 09/12/2006
+  cc: gb
+  city: London
+  conf_id: lpw2006
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 09/12/2006
+  genre: workshop
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 05/12/2006
+  cc: au
+  city: Melbourne
+  conf_id: osdc2006au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 08/12/2006
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://www.osdc.com.au/2006.html
+- act_open: 0:0:0 02/03/2006
+  begin: 0:0:0 25/11/2006
+  cc: fr
+  city: Paris
+  conf_id: fpw2006
+  continent: Europe
+  country: France
+  end: 0:0:0 26/11/2006
+  genre: workshop
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/2006/
+- begin: 0:0:0 10/11/2006
+  cc: us
+  city: 'Crystal Lake, IL'
+  conf_id: hack2006us
+  continent: America
+  country: United States
+  end: 0:0:0 12/11/2006
+  genre: hackathon
+  name: Chicago Hackathon
+  status: ok
+  type: grassroot
+  url: http://hackathon.info/
+- begin: 0:0:0 03/11/2006
+  cc: br
+  city: São Paulo
+  conf_id: ys2006
+  continent: America
+  country: Brazil
+  end: 0:0:0 05/11/2006
+  genre: yapc
+  name: YAPC South America
+  part_of: CONISLI (Congresso Internacional de Software Livre)
+  status: ok
+  type: grassroot
+  url: http://perl.org.br/bin/view/YAPC/SA2006/WebHomeEn
+- attendees: 228
+  begin: 0:0:0 30/08/2006
+  cc: gb
+  city: Birmingham
+  conf_id: ye2006
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 01/09/2006
+  genre: yapc
+  name: YAPC Europe
+  status: ok
+  theme: The accessibility of Perl
+  type: grassroot
+  url: http://www.yapceurope.org/2006/
+- begin: 0:0:0 26/06/2006
+  cc: us
+  city: 'Chicago, IL'
+  conf_id: yn2006
+  continent: America
+  country: United States
+  end: 0:0:0 28/06/2006
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/2006/
+- act_open: 0:0:0 26/02/2006
+  begin: 0:0:0 22/06/2006
+  cc: it
+  city: Pisa
+  conf_id: ipw2006
+  continent: Europe
+  country: Italy
+  end: 0:0:0 23/06/2006
+  genre: workshop
+  name: Italian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/ipw2006/
+- act_open: 0:0:0 04/05/2006
+  begin: 0:0:0 15/06/2006
+  cc: no
+  city: Oslo
+  conf_id: npw2006
+  continent: Europe
+  country: Norway
+  end: 0:0:0 16/06/2006
+  genre: workshop
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.no/npw2006/
+- act_open: 0:0:0 09/05/2006
+  begin: 0:0:0 08/06/2006
+  cc: at
+  city: Vienna
+  conf_id: apw2006
+  continent: Europe
+  country: Austria
+  end: 0:0:0 09/06/2006
+  genre: workshop
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/apw2006/
+- begin: 0:0:0 17/05/2006
+  cc: nl
+  city: Delft
+  conf_id: nlpw2006
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 17/05/2006
+  genre: workshop
+  name: Dutch Perl Workshop
+  part_of: SANE 2006
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/wiki/wiki.cgi?2006
+- begin: 0:0:0 19/04/2006
+  cc: br
+  city: Porto Alegre
+  conf_id: ybr2006
+  continent: America
+  country: Brazil
+  end: 0:0:0 22/04/2006
+  genre: yapc
+  name: YAPC Brazil
+  part_of: 7º Fórum Internacional Software Livre
+  status: ok
+  type: grassroot
+  url: http://perl.org.br/bin/view/YAPC/YAPCBrasil2006
+- begin: 0:0:0 29/03/2006
+  cc: jp
+  city: Tokyo
+  conf_id: ya2006
+  continent: Asia
+  country: Japan
+  end: 0:0:0 30/03/2006
+  genre: yapc
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://tokyo.yapcasia.org/blog/
+- begin: 0:0:0 01/03/2006
+  cc: de
+  city: Bochum
+  conf_id: gpw2006
+  continent: Europe
+  country: Germany
+  end: 0:0:0 03/03/2006
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2006/
+- begin: 0:0:0 26/02/2006
+  cc: il
+  city: Netanya
+  conf_id: osdc2006il
+  continent: Asia
+  country: Israel
+  end: 0:0:0 28/02/2006
+  genre: osdc
+  name: OSDC Israel
+  status: ok
+  type: grassroot
+  url: http://www.osdc.org.il/2006/index.html
+- begin: 0:0:0 05/12/2005
+  cc: au
+  city: Melbourne
+  conf_id: osdc2005au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 07/12/2005
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 26/11/2005
+  cc: gb
+  city: London
+  conf_id: lpw2005
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 26/11/2005
+  genre: workshop
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 06/10/2005
+  begin: 0:0:0 22/10/2005
+  cc: se
+  city: Stockholm
+  conf_id: npw2005
+  continent: Europe
+  country: Sweden
+  end: 0:0:0 23/10/2005
+  genre: workshop
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.no/2005/
+- act_open: 0:0:0 06/10/2005
+  begin: 0:0:0 22/10/2005
+  cc: hu
+  city: Budapest
+  conf_id: hpw2005
+  continent: Europe
+  country: Hungary
+  end: 0:0:0 22/10/2005
+  genre: workshop
+  name: Hungarian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/hpw2005/
+- act_open: 0:0:0 22/03/2005
+  attendees: 215
+  begin: 0:0:0 31/08/2005
+  cc: pt
+  city: Braga
+  conf_id: ye2005
+  continent: Europe
+  country: Portugal
+  end: 0:0:0 02/09/2005
+  genre: yapc
+  name: YAPC Europe
+  status: ok
+  theme: Perl Everywhere
+  type: grassroot
+  url: http://conferences.yapceurope.org/ye2005/
+- begin: 0:0:0 27/06/2005
+  cc: ca
+  city: Toronto
+  conf_id: yn2005
+  continent: America
+  country: Canada
+  end: 0:0:0 29/06/2005
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/2005/
+- act_open: 0:0:0 12/04/2005
+  begin: 0:0:0 23/06/2005
+  cc: it
+  city: Pisa
+  conf_id: ipw2005
+  continent: Europe
+  country: Italy
+  end: 0:0:0 24/06/2005
+  genre: workshop
+  name: Italian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/ipw2005/
+- act_open: 0:0:0 22/03/2005
+  begin: 0:0:0 09/06/2005
+  cc: fr
+  city: Marseilles
+  conf_id: fpw2005
+  continent: Europe
+  country: France
+  end: 0:0:0 10/06/2005
+  genre: workshop
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/2005/
+- act_open: 0:0:0 22/03/2005
+  begin: 0:0:0 09/06/2005
+  cc: at
+  city: Vienna
+  conf_id: apw2005
+  continent: Europe
+  country: Austria
+  end: 0:0:0 10/06/2005
+  genre: workshop
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/apw2005/
+- begin: 0:0:0 01/06/2005
+  cc: br
+  city: Porto Alegre
+  conf_id: ybr2005
+  continent: America
+  country: Brazil
+  end: 0:0:0 05/06/2005
+  genre: yapc
+  name: YAPC Brazil
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 26/03/2005
+  cc: tw
+  city: Taipei
+  conf_id: ya2005
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 27/03/2005
+  genre: yapc
+  name: YAPC Taipei
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 25/02/2005
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2005
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 25/02/2005
+  genre: workshop
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/wiki/wiki.cgi?2005
+- begin: 0:0:0 17/02/2005
+  cc: il
+  city: Herzliya
+  conf_id: yil2005
+  continent: Asia
+  country: Israel
+  end: 0:0:0 17/02/2005
+  genre: yapc
+  name: YAPC Israel
+  status: ok
+  type: grassroot
+  url: http://www.perl.org.il/YAPC/2005/
+- begin: 0:0:0 09/02/2005
+  cc: de
+  city: Dresden
+  conf_id: gpw2005
+  continent: Europe
+  country: Germany
+  end: 0:0:0 11/02/2005
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2005/
+- begin: 0:0:0 01/12/2004
+  cc: au
+  city: Melbourne
+  conf_id: yau2004
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 03/12/2004
+  genre: yapc
+  name: YAPC Australia
+  part_of: OSDC.au
+  status: ok
+  type: grassroot
+  url: ''
+- begin: 0:0:0 01/12/2004
+  cc: gb
+  city: London
+  conf_id: lpw2004
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 01/12/2004
+  genre: workshop
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 15/09/2004
+  cc: gb
+  city: Belfast
+  conf_id: ye2004
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 17/09/2004
+  genre: yapc
+  name: YAPC Europe
+  status: ok
+  theme: Perl for Profit
+  type: grassroot
+  url: http://belfast.yapc.org/
+- begin: 0:0:0 28/08/2004
+  cc: hu
+  city: Budapest
+  conf_id: hpw2004
+  continent: Europe
+  country: Hungary
+  end: 0:0:0 28/08/2004
+  genre: workshop
+  name: Hungarian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 19/07/2004
+  cc: it
+  city: Pisa
+  conf_id: ipw2004
+  continent: Europe
+  country: Italy
+  end: 0:0:0 20/07/2004
+  genre: workshop
+  name: Italian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl.it/documenti/talks/ipw/2004/
+- begin: 0:0:0 29/06/2004
+  cc: de
+  city: Schorndorf
+  conf_id: gpw2004
+  continent: Europe
+  country: Germany
+  end: 0:0:0 01/07/2004
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2004/
+- begin: 0:0:0 16/06/2004
+  cc: us
+  city: 'Buffalo, NY'
+  conf_id: yn2004
+  continent: America
+  country: United States
+  end: 0:0:0 18/06/2004
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/2004/
+- act_open: 0:0:0 04/03/2004
+  begin: 0:0:0 06/06/2004
+  cc: fr
+  city: Paris
+  conf_id: fpw2004
+  continent: Europe
+  country: France
+  end: 0:0:0 07/06/2004
+  genre: workshop
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/2004/
+- begin: 0:0:0 20/05/2004
+  cc: at
+  city: Wien
+  conf_id: apw2004
+  continent: Europe
+  country: Austria
+  end: 0:0:0 22/05/2004
+  genre: workshop
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 27/03/2004
+  cc: dk
+  city: Copenhagen
+  conf_id: npw2004
+  continent: Europe
+  country: Denmark
+  end: 0:0:0 28/03/2004
+  genre: workshop
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.dk/2004/
+- begin: 0:0:0 05/03/2004
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2004
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 05/03/2004
+  genre: workshop
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 26/02/2004
+  cc: il
+  city: Herzliya
+  conf_id: yil2004
+  continent: Asia
+  country: Israel
+  end: 0:0:0 26/02/2004
+  genre: yapc
+  name: YAPC Israel
+  status: ok
+  type: grassroot
+  url: http://www.perl.org.il/YAPC/2004/
+- act_open: 0:0:0 14/04/2003
+  attendees: 220
+  begin: 0:0:0 23/07/2003
+  cc: fr
+  city: Paris
+  conf_id: ye2003
+  continent: Europe
+  country: France
+  end: 0:0:0 25/07/2003
+  genre: yapc
+  name: YAPC Europe
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/2003/
+- begin: 0:0:0 16/06/2003
+  cc: us
+  city: 'Boca Raton, FL'
+  conf_id: yn2003
+  continent: America
+  country: United States
+  end: 0:0:0 18/06/2003
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/2003/
+- begin: 0:0:0 15/05/2003
+  cc: ca
+  city: Ottawa
+  conf_id: yca2003
+  continent: America
+  country: Canada
+  end: 0:0:0 16/05/2003
+  genre: yapc
+  name: YAPC Canada
+  part_of: http://web.archive.org/web/20031206070406/http://yapc.ca/
+  status: ok
+  type: grassroot
+  url: ''
+- begin: 0:0:0 11/05/2003
+  cc: il
+  city: Haifa
+  conf_id: yil2003
+  continent: Asia
+  country: Israel
+  end: 0:0:0 11/05/2003
+  genre: yapc
+  name: YAPC Israel
+  status: ok
+  type: grassroot
+  url: http://www.perl.org.il/YAPC/2003/
+- begin: 0:0:0 05/05/2003
+  cc: de
+  city: Bonn
+  conf_id: gpw2003
+  continent: Europe
+  country: Germany
+  end: 0:0:0 07/05/2003
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2003/
+- begin: 0:0:0 25/03/2003
+  cc: dk
+  city: Copenhagen
+  conf_id: npw2003
+  continent: Europe
+  country: Denmark
+  end: 0:0:0 26/03/2003
+  genre: workshop
+  name: Scandinavian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.dk/2003/
+- attendees: 251
+  begin: 0:0:0 18/09/2002
+  cc: de
+  city: Munich
+  conf_id: ye2002
+  continent: Europe
+  country: Germany
+  end: 0:0:0 20/09/2002
+  genre: yapc
+  name: YAPC Europe
+  part_of: http://www.yapceurope.org/2002/
+  status: ok
+  theme: The Science of Perl
+  type: grassroot
+  url: ''
+- begin: 0:0:0 26/08/2002
+  cc: hu
+  city: Budapest
+  conf_id: hpw2002
+  continent: Europe
+  country: Hungary
+  end: 0:0:0 26/08/2002
+  genre: workshop
+  name: Hungarian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 26/06/2002
+  cc: us
+  city: 'Saint-Louis, MO'
+  conf_id: yn2002
+  continent: America
+  country: United States
+  end: 0:0:0 28/06/2002
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/2002/
+- begin: 0:0:0 13/02/2002
+  cc: de
+  city: Bonn-Rhein-Sieg
+  conf_id: gpw2002
+  continent: Europe
+  country: Germany
+  end: 0:0:0 15/02/2002
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2002/
+- attendees: '~ 300'
+  begin: 0:0:0 02/08/2001
+  cc: nl
+  city: Amsterdam
+  conf_id: ye2001
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 04/08/2001
+  genre: yapc
+  name: YAPC Europe
+  part_of: http://www.yapceurope.org/2001/
+  status: ok
+  theme: Secure Perl
+  type: grassroot
+  url: ''
+- begin: 0:0:0 13/06/2001
+  cc: ca
+  city: Montréal
+  conf_id: yn2001
+  continent: America
+  country: Canada
+  end: 0:0:0 15/06/2001
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/2001/
+- begin: 0:0:0 28/02/2001
+  cc: de
+  city: Bonn-Rhein-Sieg
+  conf_id: gpw2001
+  continent: Europe
+  country: Germany
+  end: 0:0:0 02/03/2001
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2001/
+- attendees: 170
+  begin: 0:0:0 22/09/2000
+  cc: gb
+  city: London
+  conf_id: ye2000
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 24/09/2000
+  genre: yapc
+  name: YAPC Europe
+  part_of: http://www.yapceurope.org/2000/
+  status: ok
+  theme: The Art of Perl
+  type: grassroot
+  url: ''
+- begin: 0:0:0 21/06/2000
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: yn2000
+  continent: America
+  country: United States
+  end: 0:0:0 23/06/2000
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/19100/
+- begin: 0:0:0 08/03/2000
+  cc: de
+  city: Bonn-Rhein-Sieg
+  conf_id: gpw2000
+  continent: Europe
+  country: Germany
+  end: 0:0:0 10/03/2000
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2000/
+- begin: 0:0:0 24/06/1999
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: yn1999
+  continent: America
+  country: United States
+  end: 0:0:0 25/06/1999
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://www.yapc.org/America/previous-years/1999/
+- begin: 0:0:0 17/02/1999
+  cc: de
+  city: Sankt Augustin
+  conf_id: gpw1999
+  continent: Europe
+  country: Germany
+  end: 0:0:0 19/02/1999
+  genre: workshop
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/1999/
+
