@@ -514,7 +514,7 @@
 - begin: 0:0:0 28/04/2007
   cc: ca
   city: Toronto
-  conf_id: hack2007ca?
+  conf_id: hack2007ca
   continent: America
   country: Canada
   end: 0:0:0 28/04/2007
@@ -526,13 +526,13 @@
 - begin: 0:0:0 10/03/2007
   cc: us
   city: 'Boston, MA'
-  conf_id: nepw2007?
+  conf_id: nepw2007
   continent: America
   country: United States
   end: 0:0:0 10/03/2007
   genre: workshop
   name: New England Perl Workshop
-  status: unknown
+  status: canceled
   type: grassroot
   url: http://www.neperlworkshop.org/
 - begin: 0:0:0 14/04/2007
@@ -609,7 +609,7 @@
 - begin: 0:0:0 xx/02/2007
   cc: il
   city: ''
-  conf_id: osdc2007il!
+  conf_id: osdc2007il
   continent: Asia
   country: Israel
   end: 0:0:0 xx/02/2007
