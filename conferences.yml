@@ -81,6 +81,14 @@
   country: Belarus
   end: 0:0:0 11/10/2008
   genre: workshop
+  lc:
+    - be
+    - ru
+    - en
+  languages:
+    - Belarusian
+    - Russian
+    - English
   name: Belarusian Perl Workshop
   status: ok
   type: grassroot
