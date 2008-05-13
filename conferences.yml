@@ -121,9 +121,13 @@
   country: Denmark
   end: 0:0:0 15/08/2008
   genre: yapc
+  languages:
+    - English
+  lc:
+    - en
   name: YAPC Europe
   status: ok
-  theme: Perl
+  theme: Beautiful Perl
   type: grassroot
   url: http://www.yapceurope2008.org/ye2008/
 - act_open: 0:0:0 17/12/2007
