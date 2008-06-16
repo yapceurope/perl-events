@@ -87,6 +87,8 @@
   city: Pisa
   conf_id: ipw2008
   continent: Europe
+  cost:
+    regular: 0
   country: Italy
   end: 0:0:0 19/09/2008
   genre: workshop
@@ -774,6 +776,8 @@
   city: Pisa
   conf_id: ipw2006
   continent: Europe
+  cost:
+    regular: 0
   country: Italy
   end: 0:0:0 23/06/2006
   genre: workshop
@@ -988,6 +992,9 @@
   city: Pisa
   conf_id: ipw2005
   continent: Europe
+  cost:
+    reduced: 35 EUR
+    regular: 50 EUR
   country: Italy
   end: 0:0:0 24/06/2005
   genre: workshop
