@@ -10,6 +10,7 @@
 # - city: city name (optional region/state)
 # - conf_id: Act-like conference id
 # - continent: continent name, in a 5 continents world view 
+# - cost: hash indexed by price name
 # - country: country name
 # - end: end date of the conference
 # - genre: workshop | hackathon | yapc | osdc
@@ -168,6 +169,9 @@
   city: Albi
   conf_id: fpw2008
   continent: Europe
+  cost:
+    reduced: 15 EUR
+    regular: 30 EUR
   country: France
   end: 0:0:0 31/05/2008
   genre: workshop
@@ -418,6 +422,9 @@
   city: Lyon
   conf_id: fpw2007
   continent: Europe
+  cost:
+    reduced: 15 EUR
+    regular: 30 EUR
   country: France
   end: 0:0:0 17/11/2007
   genre: workshop
@@ -692,6 +699,9 @@
   city: Paris
   conf_id: fpw2006
   continent: Europe
+  cost:
+    reduced: 15 EUR
+    regular: 25 EUR
   country: France
   end: 0:0:0 26/11/2006
   genre: workshop
@@ -989,6 +999,9 @@
   city: Marseilles
   conf_id: fpw2005
   continent: Europe
+  cost:
+    reduced: 15 EUR
+    regular: 25 EUR
   country: France
   end: 0:0:0 10/06/2005
   genre: workshop
@@ -1209,6 +1222,9 @@
   city: Paris
   conf_id: fpw2004
   continent: Europe
+  cost:
+    reduced: 15 EUR
+    regular: 25 EUR
   country: France
   end: 0:0:0 07/06/2004
   genre: workshop
@@ -1297,6 +1313,8 @@
   city: Paris
   conf_id: ye2003
   continent: Europe
+  cost:
+    regular: 99 EUR
   country: France
   end: 0:0:0 25/07/2003
   genre: yapc
