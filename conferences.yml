@@ -512,6 +512,10 @@
   city: Vienna
   conf_id: ye2007
   continent: Europe
+  cost:
+    business: 200 EUR
+    reduced: 80 EUR
+    regular: 100 EUR
   country: Austria
   end: 0:0:0 30/08/2007
   genre: yapc
@@ -750,6 +754,9 @@
   city: Birmingham
   conf_id: ye2006
   continent: Europe
+  cost:
+    business: 100 GBP
+    regular: 75 GBP
   country: United Kingdom
   end: 0:0:0 01/09/2006
   genre: yapc
@@ -966,6 +973,8 @@
   city: Braga
   conf_id: ye2005
   continent: Europe
+  cost:
+    regular: 89 EUR
   country: Portugal
   end: 0:0:0 02/09/2005
   genre: yapc
@@ -1151,6 +1160,8 @@
   city: Belfast
   conf_id: ye2004
   continent: Europe
+  cost:
+    regular: 65 GBP
   country: United Kingdom
   end: 0:0:0 17/09/2004
   genre: yapc
@@ -1477,6 +1488,8 @@
   city: Amsterdam
   conf_id: ye2001
   continent: Europe
+  cost:
+    regular: 99 EUR
   country: Netherlands
   end: 0:0:0 04/08/2001
   genre: yapc
