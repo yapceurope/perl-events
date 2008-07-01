@@ -23,6 +23,19 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 01/07/2008
+  begin: 0:0:0 01/02/2009
+  cc: il
+  city: ~
+  conf_id: osdc2009il
+  continent: Asia
+  country: Israel
+  end: 0:0:0 01/02/2009
+  genre: osdc
+  name: OSDC Israel
+  status: ok
+  type: grassroot
+  url: http://act.osdc.org.il/osdc2009il/
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2008
   cc: us
