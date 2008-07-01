@@ -61,13 +61,13 @@
   type: grassroot
   url: ~
 - act_open: 0:0:0 12/04/2008
-  begin: 0:0:0 11/10/2008
+  begin: 0:0:0 18/10/2008
   cc: by
   city: Minsk
   conf_id: minsk2008
   continent: Europe
   country: Belarus
-  end: 0:0:0 11/10/2008
+  end: 0:0:0 18/10/2008
   genre: workshop
   languages:
     - Belarusian
@@ -102,7 +102,7 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2008/
-- act_open: 0:0:0 xx/xx/2008
+- act_open: 0:0:0 30/06/2008
   begin: 0:0:0 13/09/2008
   cc: ru
   city: Vladivostok
