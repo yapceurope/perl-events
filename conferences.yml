@@ -492,6 +492,19 @@
   status: ok
   type: grassroot
   url: http://2007.perlrussia.ru/en/
+- act_open: 0:0:0 xx/xx/2008
+  begin: 0:0:0 11/10/2008
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2007
+  continent: America
+  country: United States
+  end: 0:0:0 12/10/2008
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://pghpw.org/ppw2008/
 - act_open: 0:0:0 22/06/2007
   begin: 0:0:0 13/10/2007
   cc: us
