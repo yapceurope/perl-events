@@ -23,6 +23,19 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 xx/xx/2009
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: yn2009
+  continent: America
+  country: United States
+  end: 0:0:0 xx/xx/2009
+  genre: yapc
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 01/07/2008
   begin: 0:0:0 01/02/2009
   cc: il
