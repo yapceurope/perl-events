@@ -32,6 +32,10 @@
   country: United States
   end: 0:0:0 xx/xx/2009
   genre: yapc
+  languages:
+    - English
+  lc:
+    - en
   name: YAPC North America
   status: ok
   type: grassroot
