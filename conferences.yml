@@ -24,6 +24,23 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 xx/xx/2009
+  cc: us
+  city: 'Orlando, FL'
+  conf_id: opw2009
+  continent: America
+  country: United States
+  end: 0:0:0 xx/xx/2009
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Perl Oasis
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 22/06/2009
   cc: us
   city: 'Pittsburgh, PA'
