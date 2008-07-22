@@ -59,6 +59,42 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 xx/05/2009
+  cc: ru
+  city: Moscow
+  conf_id: yr2009
+  continent: Europe
+  country: Russia
+  end: 0:0:0 xx/05/200r9
+  genre: yapc
+  name: YAPC Russia
+  nickname: May Perl
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 xx/03/2009
+  cc: ua
+  city: Odessa
+  conf_id: upw2009
+  continent: Europe
+  country: Ukraine
+  end: 0:0:0 xx/03/2009
+  genre: workshop
+  languages:
+    - Ukrainian
+    - Russian
+    - English
+  lc:
+    - uk
+    - ru
+    - en
+  name: Ukrainian Perl Workshop
+  nickname: Perl Mova
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 01/07/2008
   begin: 0:0:0 01/02/2009
   cc: il
