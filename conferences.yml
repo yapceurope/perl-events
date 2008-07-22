@@ -806,6 +806,18 @@
   status: ok
   type: grassroot
   url: http://perl.org.br/bin/view/YAPC/SA2006/WebHomeEn
+- begin: 0:0:0 23/09/2006
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2006
+  continent: America
+  country: United States
+  end: 0:0:0 23/09/2006
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://2006.pghpw.org/
 - attendees: 228
   begin: 0:0:0 30/08/2006
   cc: gb
