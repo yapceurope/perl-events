@@ -72,13 +72,13 @@
   status: ok
   type: grassroot
   url: http://act.osdc.org.il/osdc2009il/
-- begin: 0:0:0 xx/10/2008
+- begin: 0:0:0 02/12/2008
   cc: au
   city: Sydney
   conf_id: osdc2008au
   continent: Oceania
   country: Australia
-  end: 0:0:0 xx/10/2008
+  end: 0:0:0 05/12/2008
   genre: osdc
   name: OSDC.au
   status: ok
