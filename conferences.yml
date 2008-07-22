@@ -84,18 +84,6 @@
   status: ok
   type: grassroot
   url: http://www.osdc.com.au/2008/
-- begin: 0:0:0 xx/10/2008
-  cc: at
-  city: Vienna
-  conf_id: apw2008
-  continent: Europe
-  country: Austria
-  end: 0:0:0 xx/10/2008
-  genre: workshop
-  name: Austrian Perl Workshop
-  status: ok
-  type: grassroot
-  url: ~
 - act_open: 0:0:0 12/04/2008
   begin: 0:0:0 18/10/2008
   cc: by
