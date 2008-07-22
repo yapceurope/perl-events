@@ -131,6 +131,21 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 30/06/2008
+  begin: 0:0:0 26/09/2008
+  cc: ru
+  city: Vladivostok
+  conf_id: fe2008
+  continent: Europe
+  cost:
+    regular: 0
+  country: Russia
+  end: 0:0:0 26/09/2008
+  genre: workshop
+  name: Far East Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://event.perlrussia.ru/fe2008/
 - act_open: 0:0:0 10/03/2008
   begin: 0:0:0 18/09/2008
   cc: it
@@ -152,21 +167,6 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2008/
-- act_open: 0:0:0 30/06/2008
-  begin: 0:0:0 26/09/2008
-  cc: ru
-  city: Vladivostok
-  conf_id: fe2008
-  continent: Europe
-  cost:
-    regular: 0
-  country: Russia
-  end: 0:0:0 26/09/2008
-  genre: workshop
-  name: Far East Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://event.perlrussia.ru/fe2008/
 - act_open: 0:0:0 01/12/2007
   begin: 0:0:0 13/08/2008
   cc: dk
