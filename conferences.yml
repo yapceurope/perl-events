@@ -17,6 +17,7 @@
 # - languages: languages of the conference list
 # - lc: language codes of the conference (iso 639)
 # - name: conference name
+# - nickname: conference nickname
 # - part_of: larger conference this conference was part of
 # - status: ok | canceled | unknown
 # - theme: theme of the conference
@@ -36,7 +37,8 @@
     - English
   lc:
     - en
-  name: Perl Oasis
+  name: Orlando Perl Workshop
+  nickname: The Perl Oasis
   status: ok
   type: grassroot
   url: ~
@@ -112,6 +114,7 @@
     - ru
     - en
   name: Belarusian Perl Workshop
+  nickname: BY Perl
   status: ok
   type: grassroot
   url: http://event.perlbelarus.org/minsk2008/
@@ -259,6 +262,7 @@
   end: 0:0:0 18/05/2008
   genre: yapc
   name: YAPC Russia
+  nickname: May Perl
   status: ok
   type: grassroot
   url: http://event.perlrussia.ru/yr2008/
@@ -361,6 +365,7 @@
     - ru
     - en
   name: Ukrainian Perl Workshop
+  nickname: Perl Mova
   status: ok
   type: grassroot
   url: http://event.perlukraine.org/upw2008/
@@ -536,6 +541,7 @@
   lc:
     - ru
   name: Russian Perl Workshop
+  nickname: Perl Today
   status: ok
   type: grassroot
   url: http://2007.perlrussia.ru/en/
