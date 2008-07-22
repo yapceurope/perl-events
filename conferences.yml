@@ -84,6 +84,23 @@
   status: ok
   type: grassroot
   url: http://www.osdc.com.au/2008/
+- act_open: 0:0:0 xx/xx/2008
+  begin: 0:0:0 01/11/2008
+  cc: ru
+  city: ~
+  conf_id: rpw2008
+  continent: Europe
+  country: Russia
+  end: 0:0:0 01/11/2008
+  genre: workshop
+  languages:
+    - Russian
+  lc:
+    - ru
+  name: Russian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 12/04/2008
   begin: 0:0:0 18/10/2008
   cc: by
