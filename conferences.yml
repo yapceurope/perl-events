@@ -26,6 +26,23 @@
 ---
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2009
+  cc: ~
+  city: ~
+  conf_id: ye2009
+  continent: Europe
+  country: ~
+  end: 0:0:0 xx/xx/2009
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC Europe
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2008
+  begin: 0:0:0 xx/xx/2009
   cc: fr
   city: Paris
   conf_id: fpw2009
