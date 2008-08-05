@@ -1278,7 +1278,8 @@
   status: ok
   type: grassroot
   url: ~
-- begin: 0:0:0 15/09/2004
+- attendees: 219
+  begin: 0:0:0 15/09/2004
   cc: gb
   city: Belfast
   conf_id: ye2004
