@@ -26,6 +26,23 @@
 ---
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2009
+  cc: no
+  city: Oslo
+  conf_id: npw2009
+  continent: Europe
+  country: Norway
+  end: 0:0:0 xx/xx/2009
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2008
+  begin: 0:0:0 xx/xx/2009
   cc: ~
   city: ~
   conf_id: ye2009
