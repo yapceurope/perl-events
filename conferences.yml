@@ -162,13 +162,13 @@
   type: grassroot
   url: http://act.osdc.org.il/osdc2009il/
 - act_open: 0:0:0 xx/xx/2008
-  begin: 0:0:0 xx/xx/2008
+  begin: 0:0:0 29/11/2008
   cc: gb
   city: London
   conf_id: lpw2008
   continent: Europe
   country: United Kingdom
-  end: 0:0:0 xx/xx/2008
+  end: 0:0:0 29/11/2008
   genre: workshop
   languages:
     - English
@@ -206,7 +206,7 @@
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 01/11/2008
   cc: ru
-  city: ~
+  city: Rostov on Don
   conf_id: rpw2008
   continent: Europe
   country: Russia
