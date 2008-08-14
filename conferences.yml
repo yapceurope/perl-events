@@ -26,11 +26,11 @@
 ---
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2009
-  cc: ~
-  city: ~
+  cc: pt
+  city: Lisbon
   conf_id: ye2009
   continent: Europe
-  country: ~
+  country: Portugal
   end: 0:0:0 xx/xx/2009
   genre: yapc
   languages:
