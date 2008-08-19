@@ -597,11 +597,16 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2007/
-- begin: 0:0:0 26/11/2007
+- attendees: 230
+  begin: 0:0:0 26/11/2007
   cc: au
   city: Brisbane
   conf_id: osdc2007au
   continent: Oceania
+  cost:
+    earlybird: 275 AUD
+    regular: 325 AUD
+    student: 175 AUD
   country: Australia
   end: 0:0:0 29/11/2007
   genre: osdc
@@ -879,11 +884,16 @@
   status: ok
   type: grassroot
   url: ~
-- begin: 0:0:0 05/12/2006
+- attendees: 180
+  begin: 0:0:0 05/12/2006
   cc: au
   city: Melbourne
   conf_id: osdc2006au
   continent: Oceania
+  cost:
+    earlybird: 250 AUD
+    regular: 300 AUD
+    student: 155 AUD
   country: Australia
   end: 0:0:0 08/12/2006
   genre: osdc
@@ -1108,7 +1118,8 @@
   status: ok
   type: grassroot
   url: http://www.osdc.org.il/2006/index.html
-- begin: 0:0:0 05/12/2005
+- attendees: 125
+  begin: 0:0:0 05/12/2005
   cc: au
   city: Melbourne
   conf_id: osdc2005au
@@ -1119,7 +1130,7 @@
   name: OSDC.au
   status: ok
   type: grassroot
-  url: ~
+  url: http://perl.net.au/wiki/Open_Source_Developers_Conference_2005
 - begin: 0:0:0 26/11/2005
   cc: gb
   city: London
@@ -1328,7 +1339,8 @@
   status: ok
   type: grassroot
   url: http://www.perl-workshop.de/en/2005/
-- begin: 0:0:0 01/12/2004
+- attendees: 130
+  begin: 0:0:0 01/12/2004
   cc: au
   city: Melbourne
   conf_id: yau2004
@@ -1340,7 +1352,7 @@
   part_of: OSDC.au
   status: ok
   type: grassroot
-  url: ''
+  url: http://perl.net.au/wiki/Open_Source_Developers_Conference#2004:_Melbourne
 - begin: 0:0:0 01/12/2004
   cc: gb
   city: London
