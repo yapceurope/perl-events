@@ -206,6 +206,19 @@
   status: ok
   type: grassroot
   url: http://act.osdc.org.il/osdc2009il/
+- act_open: 0:0:0 xx/xx/2008
+  begin: 0:0:0 xx/xx/2008
+  cc: cn
+  city: Beijing
+  conf_id: bjpw2008
+  continent: Asia
+  country: China
+  end: 0:0:0 xx/xx/2008
+  genre: workshop
+  name: Beijing Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - begin: 0:0:0 02/12/2008
   cc: au
   city: Sydney
