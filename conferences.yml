@@ -39,19 +39,6 @@
   url: http://www.perlworkshop.nl/
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2009
-  cc: us
-  city: 'Minneapolis, MN'
-  conf_id: mpw2009
-  continent: America
-  country: United States
-  end: 0:0:0 xx/xx/2009
-  genre: workshop
-  name: Frozen Perl
-  status: ok
-  type: grassroot
-  url: ~
-- act_open: 0:0:0 xx/xx/2008
-  begin: 0:0:0 xx/xx/2009
   cc: pt
   city: Lisbon
   conf_id: ye2009
@@ -193,6 +180,19 @@
   status: ok
   type: grassroot
   url: http://www.perl-workshop.de/en/2009/
+- act_open: 0:0:0 29/08/2008
+  begin: 0:0:0 07/02/2009
+  cc: us
+  city: 'Minneapolis, MN'
+  conf_id: mpw2009
+  continent: America
+  country: United States
+  end: 0:0:0 07/02/2009
+  genre: workshop
+  name: Frozen Perl
+  status: ok
+  type: grassroot
+  url: http://www.frozen-perl.org/mpw2009/
 - act_open: 0:0:0 01/07/2008
   begin: 0:0:0 01/02/2009
   cc: il
