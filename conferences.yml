@@ -261,7 +261,7 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/2008
+- act_open: 0:0:0 29/08/2008
   begin: 0:0:0 01/11/2008
   cc: ru
   city: Rostov on Don
@@ -275,9 +275,10 @@
   lc:
     - ru
   name: Russian Perl Workshop
+  nickname: South Perl
   status: ok
   type: grassroot
-  url: ~
+  url: http://event.perlrussia.ru/rpw2008/
 - act_open: 0:0:0 12/04/2008
   begin: 0:0:0 18/10/2008
   cc: by
