@@ -174,6 +174,25 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 25/02/2009
+  cc: de
+  city: Frankfurt/Main
+  conf_id: gpw2009
+  continent: Europe
+  country: Germany
+  end: 0:0:0 27/02/2009
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perl-workshop.de/en/2009/
 - act_open: 0:0:0 01/07/2008
   begin: 0:0:0 01/02/2009
   cc: il
