@@ -248,7 +248,7 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2008/
-- act_open: 0:0:0 xx/xx/2008
+- act_open: 0:0:0 05/09/2008
   begin: 0:0:0 07/11/2008
   cc: 'at,sl'
   city: 'Vienna,Bratislava'
@@ -260,7 +260,7 @@
   name: TwinCity Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://conferences.yapceurope.org/tcpw2008/
 - act_open: 0:0:0 29/08/2008
   begin: 0:0:0 01/11/2008
   cc: ru
