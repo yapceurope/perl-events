@@ -74,24 +74,6 @@
   type: grassroot
   url: http://conferences.mongueurs.net/fpw2009/
 - act_open: 0:0:0 xx/xx/xxxx
-  begin: 0:0:0 17/01/2009
-  cc: us
-  city: 'Orlando, FL'
-  conf_id: opw2009
-  continent: America
-  country: United States
-  end: 0:0:0 17/01/2009
-  genre: workshop
-  languages:
-    - English
-  lc:
-    - en
-  name: Orlando Perl Workshop
-  nickname: The Perl Oasis
-  status: ok
-  type: grassroot
-  url: ~
-- act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 22/06/2009
   cc: us
   city: 'Pittsburgh, PA'
@@ -206,6 +188,24 @@
   status: ok
   type: grassroot
   url: http://act.osdc.org.il/osdc2009il/
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 17/01/2009
+  cc: us
+  city: 'Orlando, FL'
+  conf_id: opw2009
+  continent: America
+  country: United States
+  end: 0:0:0 17/01/2009
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Orlando Perl Workshop
+  nickname: The Perl Oasis
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2008
   cc: cn
@@ -329,6 +329,18 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.ru/fe2008/
+- begin: 0:0:0 19/09/2008
+  cc: kr
+  city: ~
+  conf_id: hack2008kr
+  continent: Asia
+  country: Korea
+  end: 0:0:0 21/09/2008
+  genre: workshop
+  name: Korean Perl Hackathon
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 10/03/2008
   begin: 0:0:0 18/09/2008
   cc: it
@@ -350,6 +362,19 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2008/
+- begin: 0:0:0 23/08/2008
+  cc: kr
+  city: ~
+  conf_id: kpw2008
+  continent: Asia
+  country: Korea
+  end: 0:0:0 23/08/2008
+  genre: workshop
+  name: Korean Perl Workshop
+  nickname: Rising Perl
+  status: ok
+  type: grassroot
+  url: http://event.perl.kr/kpw2008
 - act_open: 0:0:0 01/12/2007
   begin: 0:0:0 13/08/2008
   cc: dk
