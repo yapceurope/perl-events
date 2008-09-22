@@ -279,6 +279,19 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.ru/rpw2008/
+- begin: 0:0:0 18/10/2008
+  cc: br
+  city: São Paulo
+  conf_id: ybr2008
+  continent: America
+  country: Brazil
+  end: 0:0:0 19/10/2008
+  genre: yapc
+  name: YAPC Brazil
+  part_of: CONISLI (Congresso Internacional de Software Livre)
+  status: ok
+  type: grassroot
+  url: http://perl.org.br/YAPC/BR2008/WebHome
 - act_open: 0:0:0 12/04/2008
   begin: 0:0:0 18/10/2008
   cc: by
@@ -499,7 +512,7 @@
   part_of: FISL 9.0 (International Free Software Forum)
   status: ok
   type: grassroot
-  url: http://perl.org.br/bin/view/YAPC/SA2008/WebHomeEn
+  url: http://perl.org.br/YAPC/SA2008/WebHomeEn
 - act_open: 0:0:0 11/04/2008
   begin: 0:0:0 15/04/2008
   cc: hr
@@ -719,7 +732,7 @@
   part_of: CONISLI (Congresso Internacional de Software Livre)
   status: ok
   type: grassroot
-  url: http://perl.org.br/bin/view/YAPC/BR2007/WebHome
+  url: http://perl.org.br/YAPC/BR2007/WebHome
 - act_open: 0:0:0 12/09/2007
   begin: 0:0:0 27/10/2007
   cc: be
@@ -851,7 +864,7 @@
   name: YAPC South America
   status: ok
   type: grassroot
-  url: http://perl.org.br/bin/view/YAPC/SA2007/
+  url: http://perl.org.br/YAPC/SA2007/WebHome
 - begin: 0:0:0 04/04/2007
   cc: jp
   city: Tokyo
@@ -1018,7 +1031,7 @@
   part_of: CONISLI (Congresso Internacional de Software Livre)
   status: ok
   type: grassroot
-  url: http://perl.org.br/bin/view/YAPC/SA2006/WebHomeEn
+  url: http://perl.org.br/YAPC/SA2006/WebHomeEn
 - begin: 0:0:0 23/09/2006
   cc: us
   city: 'Pittsburgh, PA'
