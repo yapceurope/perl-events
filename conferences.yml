@@ -262,13 +262,13 @@
   type: grassroot
   url: http://conferences.yapceurope.org/tcpw2008/
 - act_open: 0:0:0 29/08/2008
-  begin: 0:0:0 01/11/2008
+  begin: 0:0:0 02/11/2008
   cc: ru
   city: Rostov on Don
   conf_id: rpw2008
   continent: Europe
   country: Russia
-  end: 0:0:0 01/11/2008
+  end: 0:0:0 02/11/2008
   genre: workshop
   languages:
     - Russian
