@@ -25,13 +25,13 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/2009
-  begin: 0:0:0 xx/xx/2009
+  begin: 0:0:0 06/03/2009
   cc: nl
   city: Arnhem
   conf_id: nlpw2009
   continent: Europe
   country: Netherlands
-  end: 0:0:0 xx/xx/2009
+  end: 0:0:0 06/03/2009
   genre: workshop
   name: Dutch Perl Workshop
   status: ok
