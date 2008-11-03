@@ -37,7 +37,7 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/
-- act_open: 0:0:0 xx/xx/2008
+- act_open: 0:0:0 30/10/2008
   begin: 0:0:0 xx/xx/2009
   cc: pt
   city: Lisbon
@@ -53,7 +53,7 @@
   name: YAPC Europe
   status: ok
   type: grassroot
-  url: ~
+  url: http://yapceurope2009.org/ye2009/
 - act_open: 0:0:0 xx/xx/2008
   begin: 0:0:0 xx/xx/2009
   cc: fr
@@ -188,7 +188,7 @@
   status: ok
   type: grassroot
   url: http://act.osdc.org.il/osdc2009il/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_open: 0:0:0 28/10/2008
   begin: 0:0:0 17/01/2009
   cc: us
   city: 'Orlando, FL'
