@@ -121,14 +121,14 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.no/npw2009/
-- act_open: 0:0:0 xx/xx/xxxx
-  begin: 0:0:0 xx/03/2009
+- act_open: 0:0:0 06/11/2008
+  begin: 0:0:0 07/03/2009
   cc: ua
-  city: Odessa
+  city: Kiev
   conf_id: upw2009
   continent: Europe
   country: Ukraine
-  end: 0:0:0 xx/03/2009
+  end: 0:0:0 07/03/2009
   genre: workshop
   languages:
     - Ukrainian
@@ -142,7 +142,7 @@
   nickname: Perl Mova
   status: ok
   type: grassroot
-  url: ~
+  url: http://event.perlukraine.org/upw2009/
 - act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 25/02/2009
   cc: de
@@ -205,7 +205,7 @@
   nickname: The Perl Oasis
   status: ok
   type: grassroot
-  url: ~
+  url: http://perloasis.org/opw2009/
 - begin: 0:0:0 02/12/2008
   cc: au
   city: Sydney
