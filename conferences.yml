@@ -110,6 +110,18 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.no/npw2009/
+- begin: 0:0:0 28/03/2009
+  cc: gb
+  city: Birmingham
+  conf_id: hack2009gb
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 30/03/2009
+  genre: hackathon
+  name: QA Hackathon
+  status: ok
+  type: grassroot
+  url: http://qa-hackathon.org/
 - act_open: 0:0:0 06/11/2008
   begin: 0:0:0 07/03/2009
   cc: ua
