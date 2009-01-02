@@ -1,6 +1,7 @@
 # Perl conferences information
 # Gathered by Philippe Bruhat (BooK)
 # Free to use, don't forget to give credit/link back
+# Send patches to <book@cpan.org>
 #
 # Fields:
 # - act_open: date of opening of the Act conference website
