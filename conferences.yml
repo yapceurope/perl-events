@@ -24,19 +24,6 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_open: 0:0:0 xx/xx/2009
-  begin: 0:0:0 06/03/2009
-  cc: nl
-  city: Arnhem
-  conf_id: nlpw2009
-  continent: Europe
-  country: Netherlands
-  end: 0:0:0 06/03/2009
-  genre: workshop
-  name: Dutch Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://www.perlworkshop.nl/
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 xx/xx/2009
   cc: pt
@@ -143,6 +130,40 @@
   status: ok
   type: grassroot
   url: http://event.perlukraine.org/upw2009/
+- act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 06/03/2009
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2009
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 06/03/2009
+  genre: workshop
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/
+- act_open: 0:0:0 15/12/2008
+  begin: 0:0:0 28/02/2009
+  cc: be
+  city: Leuven
+  conf_id: bpw2009
+  continent: Europe
+  country: Belgium
+  end: 0:0:0 28/02/2009
+  genre: workshop
+  languages:
+    - English
+    - French
+    - Dutch
+  lc:
+    - en
+    - fr
+    - nl
+  name: Belgian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/bpw2009/
 - act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 25/02/2009
   cc: de
