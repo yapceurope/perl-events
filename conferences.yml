@@ -58,6 +58,7 @@
     - en
   name: YAPC Europe
   status: ok
+  theme: Corporate Perl
   type: grassroot
   url: http://yapceurope2009.org/ye2009/
 - act_open: 0:0:0 xx/xx/xxxx
