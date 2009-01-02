@@ -209,6 +209,26 @@
   status: ok
   type: grassroot
   url: http://act.osdc.org.il/osdc2009il/
+- act_open: 0:0:0 17/12/2008
+  begin: 0:0:0 31/01/2009
+  cc: bg
+  city: Sofia
+  conf_id: sofia2009
+  continent: Europe
+  country: Bulgaria
+  end: 0:0:0 31/01/2009
+  genre: workshop
+  languages:
+    - Bulgarian
+    - English
+  lc:
+    - bg
+    - en
+  name: Bulgarian Perl Workshop
+  nickname: BG Perl
+  status: ok
+  type: grassroot
+  url: http://event.perlbulgaria.org/sofia2009/
 - act_open: 0:0:0 28/10/2008
   begin: 0:0:0 17/01/2009
   cc: us
