@@ -279,6 +279,8 @@
   city: London
   conf_id: lpw2008
   continent: Europe
+  cost:
+    regular: 0
   country: United Kingdom
   end: 0:0:0 29/11/2008
   genre: workshop
@@ -305,11 +307,11 @@
   url: http://conference.perlchina.org/bjpw2008/
 - act_open: 0:0:0 05/09/2008
   begin: 0:0:0 07/11/2008
-  cc: 'at/sl'
-  city: 'Vienna/Bratislava'
+  cc: at/sl
+  city: Vienna/Bratislava
   conf_id: tcpw2008
   continent: Europe
-  country: 'Austria/Slovakia'
+  country: Austria/Slovakia
   end: 0:0:0 08/11/2008
   genre: workshop
   name: TwinCity Perl Workshop
@@ -725,6 +727,8 @@
   city: London
   conf_id: lpw2007
   continent: Europe
+  cost:
+    regular: 0
   country: United Kingdom
   end: 0:0:0 01/12/2007
   genre: workshop
@@ -1012,6 +1016,8 @@
   city: London
   conf_id: lpw2006
   continent: Europe
+  cost:
+    regular: 0
   country: United Kingdom
   end: 0:0:0 09/12/2006
   genre: workshop
@@ -1275,6 +1281,8 @@
   city: London
   conf_id: lpw2005
   continent: Europe
+  cost:
+    regular: 0
   country: United Kingdom
   end: 0:0:0 26/11/2005
   genre: workshop
@@ -1497,6 +1505,8 @@
   city: London
   conf_id: lpw2004
   continent: Europe
+  cost:
+    regular: 0
   country: United Kingdom
   end: 0:0:0 01/12/2004
   genre: workshop
