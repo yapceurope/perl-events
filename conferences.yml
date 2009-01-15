@@ -144,7 +144,7 @@
   status: ok
   type: grassroot
   url: http://event.perlukraine.org/upw2009/
-- act_open: 0:0:0 xx/xx/2009
+- act_open: 0:0:0 05/01/2009
   begin: 0:0:0 06/03/2009
   cc: nl
   city: Arnhem
@@ -153,10 +153,16 @@
   country: Netherlands
   end: 0:0:0 06/03/2009
   genre: workshop
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: http://www.perlworkshop.nl/
+  url: http://www.perlworkshop.nl/nlpw2009/
 - act_open: 0:0:0 15/12/2008
   begin: 0:0:0 28/02/2009
   cc: be
