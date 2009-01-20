@@ -25,25 +25,6 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_open: 0:0:0 xx/xx/2008
-  begin: 0:0:0 xx/xx/2009
-  cc: fr
-  city: Paris
-  conf_id: fpw2009
-  continent: Europe
-  country: France
-  end: 0:0:0 xx/xx/2008
-  genre: workshop
-  languages:
-    - French
-    - English
-  lc:
-    - fr
-    - en
-  name: French Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://conferences.mongueurs.net/fpw2009/
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 03/08/2009
   cc: pt
@@ -79,6 +60,25 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 20/01/2009
+  begin: 0:0:0 12/06/2009
+  cc: fr
+  city: Paris
+  conf_id: fpw2009
+  continent: Europe
+  country: France
+  end: 0:0:0 13/06/2008
+  genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/fpw2009/
 - act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 xx/05/2009
   cc: ru
