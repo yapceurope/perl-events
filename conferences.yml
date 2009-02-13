@@ -24,8 +24,6 @@
 # - theme: theme of the conference
 # - type: grassroot | business
 # - url: main conference website
----
-rfi
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 17/04/2009
   cc: pt
@@ -44,7 +42,6 @@ rfi
   theme: Perl 6/Enlightened Perl hackathon
   type: grassroot
   url: http://www.perlfoundation.org/perl6/index.cgi?oslo_perl_6_hackaton_2009
-
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 03/08/2009
   cc: pt
