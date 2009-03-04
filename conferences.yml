@@ -60,7 +60,7 @@
   theme: Corporate Perl
   type: grassroot
   url: http://yapceurope2009.org/ye2009/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_open: 0:0:0 02/03/2009
   begin: 0:0:0 22/06/2009
   cc: us
   city: 'Pittsburgh, PA'
@@ -76,7 +76,7 @@
   name: YAPC North America
   status: ok
   type: grassroot
-  url: ~
+  url: http://yapc10.org/yn2009/
 - act_open: 0:0:0 20/01/2009
   begin: 0:0:0 12/06/2009
   cc: fr
