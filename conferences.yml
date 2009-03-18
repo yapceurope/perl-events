@@ -97,13 +97,13 @@
   type: grassroot
   url: http://conferences.mongueurs.net/fpw2009/
 - act_open: 0:0:0 xx/xx/xxxx
-  begin: 0:0:0 xx/05/2009
+  begin: 0:0:0 16/05/2009
   cc: ru
   city: Moscow
   conf_id: yr2009
   continent: Europe
   country: Russia
-  end: 0:0:0 xx/05/2009
+  end: 0:0:0 17/05/2009
   genre: yapc
   name: YAPC Russia
   nickname: May Perl
