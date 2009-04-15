@@ -93,6 +93,22 @@
   status: ok
   type: grassroot
   url: http://2009.yapcrussia.org/
+- begin: 0:0:0 13/05/2009
+  cc: uz
+  city: Tashkent
+  conf_id: uzpw2009
+  continent: Europe
+  country: Uzbekistan
+  end: 0:0:0 13/05/2009
+  genre: yapc
+  languages:
+    - Russian
+  lc:
+    - ru
+  name: Perl Tashkent
+  status: ok
+  type: grassroot
+  url: http://2009.perl.uz/perluz1/
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 17/04/2009
   cc: pt
