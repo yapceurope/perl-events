@@ -93,7 +93,8 @@
   status: ok
   type: grassroot
   url: http://2009.yapcrussia.org/
-- begin: 0:0:0 13/05/2009
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 13/05/2009
   cc: uz
   city: Tashkent
   conf_id: uzpw2009
