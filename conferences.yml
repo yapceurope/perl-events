@@ -25,6 +25,25 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 18/05/2009
+  begin: 0:0:0 22/10/2009
+  cc: it
+  city: Pisa
+  conf_id: ipw2009
+  continent: Europe
+  country: Italy
+  end: 0:0:0 23/10/2009
+  genre: workshop
+  languages:
+    - Italian
+    - English
+  lc:
+    - it
+    - en
+  name: Italian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/ipw2009/
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 03/08/2009
   cc: pt
