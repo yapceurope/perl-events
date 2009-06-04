@@ -44,6 +44,23 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2009/
+- act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 02/10/2009
+  cc: fr
+  city: Paris
+  conf_id: osdc2009fr
+  continent: Europe
+  country: France
+  end: 0:0:0 03/10/2009
+  genre: osdc
+  languages:
+    - French
+  lc:
+    - fr
+  name: OSDC.fr
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 03/08/2009
   cc: pt
