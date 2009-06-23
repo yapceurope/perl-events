@@ -25,6 +25,19 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 23/06/2009
+  begin: 0:0:0 xx/xx/2009
+  cc: lv
+  city: Riga
+  conf_id: baltic2009
+  continent: Europe
+  country: Latvia
+  end: 0:0:0 xx/xx/2009
+  genre: workshop
+  name: Baltic Perl Workshop
+  status: unknown
+  type: grassroot
+  url: http://conferences.yapceurope.org/baltic2009/
 - act_open: 0:0:0 18/05/2009
   begin: 0:0:0 22/10/2009
   cc: it
