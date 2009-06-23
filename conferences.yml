@@ -61,6 +61,19 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 23/06/2009
+  begin: 0:0:0 10/09/2009
+  cc: jp
+  city: Tokyo
+  conf_id: ya2009
+  continent: Asia
+  country: Japan
+  end: 0:0:0 11/09/2009
+  genre: yapc
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://conferences.yapcasia.org/ya2009/
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 03/08/2009
   cc: pt
