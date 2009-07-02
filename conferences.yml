@@ -26,13 +26,13 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 23/06/2009
-  begin: 0:0:0 xx/xx/2009
+  begin: 0:0:0 21/11/2009
   cc: lv
   city: Riga
   conf_id: baltic2009
   continent: Europe
   country: Latvia
-  end: 0:0:0 xx/xx/2009
+  end: 0:0:0 21/11/2009
   genre: workshop
   name: Baltic Perl Workshop
   status: unknown
@@ -57,7 +57,7 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2009/
-- act_open: 0:0:0 xx/xx/2009
+- act_open: 0:0:0 18/05/2009
   begin: 0:0:0 02/10/2009
   cc: fr
   city: Paris
@@ -73,7 +73,20 @@
   name: OSDC.fr
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.osdc.fr/osdc2009fr/
+- act_open: 0:0:0 02/07/2009
+  begin: 0:0:0 19/09/2009
+  cc: cn
+  city: Beijing
+  conf_id: bjpw2009
+  continent: Asia
+  country: China
+  end: 0:0:0 19/09/2009
+  genre: workshop
+  name: Beijing Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conference.perlchina.org/bjpw2009/
 - act_open: 0:0:0 23/06/2009
   begin: 0:0:0 10/09/2009
   cc: jp
