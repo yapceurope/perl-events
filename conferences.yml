@@ -118,6 +118,19 @@
   theme: Corporate Perl
   type: grassroot
   url: http://yapceurope2009.org/ye2009/
+- begin: 0:0:0 24/06/2009
+  cc: br
+  city: Porto Alegre
+  conf_id: ybr2009
+  continent: America
+  country: Brazil
+  end: 0:0:0 27/06/2009
+  genre: yapc
+  name: YAPC Brazil
+  part_of: FISL (Fórum Internacional de Software Livre)
+  status: ok
+  type: grassroot
+  url: http://www.perl.org.br/YAPC/SA2009/
 - act_open: 0:0:0 02/03/2009
   begin: 0:0:0 22/06/2009
   cc: us
