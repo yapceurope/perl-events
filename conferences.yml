@@ -57,6 +57,28 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2009/
+- act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 17/10/2009
+  cc: by
+  city: Minsk
+  conf_id: minsk2009
+  continent: Europe
+  country: Belarus
+  end: 0:0:0 17/10/2009
+  genre: workshop
+  languages:
+    - Belarusian
+    - Russian
+    - English
+  lc:
+    - be
+    - ru
+    - en
+  name: Belarusian Perl Workshop
+  nickname: BY Perl
+  status: ok
+  type: grassroot
+  url: http://event.perlbelarus.org/minsk2009/
 - act_open: 0:0:0 18/05/2009
   begin: 0:0:0 02/10/2009
   cc: fr
