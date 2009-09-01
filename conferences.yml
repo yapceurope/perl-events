@@ -143,12 +143,13 @@
 - begin: 0:0:0 24/06/2009
   cc: br
   city: Porto Alegre
-  conf_id: ybr2009
+  conf_id: ys2009
   continent: America
   country: Brazil
   end: 0:0:0 27/06/2009
   genre: yapc
-  name: YAPC Brazil
+  name: YAPC South America
+  nickname: YAPC::SA
   part_of: FISL (Fórum Internacional de Software Livre)
   status: ok
   type: grassroot
@@ -729,6 +730,7 @@
   end: 0:0:0 19/04/2008
   genre: yapc
   name: YAPC South America
+  nickname: YAPC::SA
   part_of: FISL 9.0 (International Free Software Forum)
   status: ok
   type: grassroot
@@ -1084,6 +1086,7 @@
   end: 0:0:0 14/04/2007
   genre: yapc
   name: YAPC South America
+  nickname: YAPC::SA
   status: ok
   type: grassroot
   url: http://perl.org.br/YAPC/SA2007/WebHome
@@ -1252,6 +1255,7 @@
   end: 0:0:0 05/11/2006
   genre: yapc
   name: YAPC South America
+  nickname: YAPC::SA
   part_of: CONISLI (Congresso Internacional de Software Livre)
   status: ok
   type: grassroot
