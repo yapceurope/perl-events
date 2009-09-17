@@ -39,7 +39,7 @@
   type: grassroot
   url: ~
 - act_open: 0:0:0 xx/xx/2009
-  begin: 0:0:0 xx/xx/2009
+  begin: 0:0:0 05/12/2009
   cc: gb
   city: London
   conf_id: lpw2009
@@ -47,7 +47,7 @@
   cost:
     regular: 0
   country: United Kingdom
-  end: 0:0:0 xx/xx/2009
+  end: 0:0:0 05/12/2009
   genre: workshop
   languages:
     - English
@@ -56,7 +56,7 @@
   name: London Perl Workshop
   status: ok
   type: grassroot
-  url: http://conferences.yapceurope.org/lpw2009/
+  url: ~
 - act_open: 0:0:0 23/06/2009
   begin: 0:0:0 21/11/2009
   cc: lv
