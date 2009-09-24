@@ -26,6 +26,26 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 xx/xx/2010
+  cc: bg
+  city: Sofia
+  conf_id: sofia2010
+  continent: Europe
+  country: Bulgaria
+  end: 0:0:0 xx/xx/2010
+  genre: workshop
+  languages:
+    - Bulgarian
+    - English
+  lc:
+    - bg
+    - en
+  name: Bulgarian Perl Workshop
+  nickname: BG Perl
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 30/10/2009
   cc: br
   city: Rio de Janeiro
