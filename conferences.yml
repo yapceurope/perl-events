@@ -26,19 +26,19 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/2009
-  begin: 0:0:0 xx/xx/2009
+  begin: 0:0:0 30/10/2009
   cc: br
   city: Rio de Janeiro
   conf_id: ybr2009
   continent: America
   country: Brazil
-  end: 0:0:0 xx/xx/2008
+  end: 0:0:0 01/11/2009
   genre: yapc
   name: YAPC Brazil
   status: ok
   type: grassroot
-  url: ~
-- act_open: 0:0:0 xx/xx/2009
+  url: http://www.yapcbrasil.org.br/2009/
+- act_open: 0:0:0 19/09/2009
   begin: 0:0:0 05/12/2009
   cc: gb
   city: London
