@@ -31,6 +31,8 @@
   city: Sofia
   conf_id: sofia2010
   continent: Europe
+  cost:
+    regular: 0
   country: Bulgaria
   end: 0:0:0 xx/xx/2010
   genre: workshop
@@ -45,19 +47,6 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/2009
-  begin: 0:0:0 30/10/2009
-  cc: br
-  city: Rio de Janeiro
-  conf_id: ybr2009
-  continent: America
-  country: Brazil
-  end: 0:0:0 01/11/2009
-  genre: yapc
-  name: YAPC Brasil
-  status: ok
-  type: grassroot
-  url: http://www.yapcbrasil.org.br/2009/
 - act_open: 0:0:0 19/09/2009
   begin: 0:0:0 05/12/2009
   cc: gb
@@ -77,6 +66,25 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2009/
+- act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 28/11/2009
+  cc: kz
+  city: ~
+  conf_id: perlkz1
+  continent: Europe
+  cost:
+    regular: 0
+  country: Bulgaria
+  end: 0:0:0 xx/xx/2010
+  genre: workshop
+  languages:
+    - kk
+  lc:
+    - Kazakh
+  name: Kazakh Perl Workshop
+  status: ok
+  type: grassroot/
+  url: http://event.perl.kz/perlkz1/
 - act_open: 0:0:0 23/06/2009
   begin: 0:0:0 21/11/2009
   cc: lv
@@ -90,6 +98,19 @@
   status: unknown
   type: grassroot
   url: http://conferences.yapceurope.org/baltic2009/
+- act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 30/10/2009
+  cc: br
+  city: Rio de Janeiro
+  conf_id: ybr2009
+  continent: America
+  country: Brazil
+  end: 0:0:0 01/11/2009
+  genre: yapc
+  name: YAPC Brasil
+  status: ok
+  type: grassroot
+  url: http://www.yapcbrasil.org.br/2009/
 - act_open: 0:0:0 18/05/2009
   begin: 0:0:0 22/10/2009
   cc: it
