@@ -78,9 +78,9 @@
   end: 0:0:0 28/11/2009
   genre: workshop
   languages:
-    - kk
+    - ru
   lc:
-    - Kazakh
+    - Russian
   name: Kazakh Perl Workshop
   status: ok
   type: grassroot/
