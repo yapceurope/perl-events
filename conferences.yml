@@ -78,9 +78,9 @@
   end: 0:0:0 28/11/2009
   genre: workshop
   languages:
-    - ru
-  lc:
     - Russian
+  lc:
+    - ru
   name: Kazakh Perl Workshop
   status: ok
   type: grassroot/
@@ -94,6 +94,10 @@
   country: Latvia
   end: 0:0:0 21/11/2009
   genre: workshop
+  languages:
+    - English
+  lc:
+    - en
   name: Baltic Perl Workshop
   status: unknown
   type: grassroot
