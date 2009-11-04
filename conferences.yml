@@ -47,6 +47,19 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 04/11/2009
+  begin: 0:0:0 06/02/2010
+  cc: us
+  city: 'Minneapolis, MN'
+  conf_id: mpw2010
+  continent: America
+  country: United States
+  end: 0:0:0 06/02/2010
+  genre: workshop
+  name: Frozen Perl
+  status: ok
+  type: grassroot
+  url: http://www.frozen-perl.org/mpw2010/
 - act_open: 0:0:0 19/09/2009
   begin: 0:0:0 05/12/2009
   cc: gb
