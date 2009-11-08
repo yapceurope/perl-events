@@ -47,6 +47,29 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 06/11/2009
+  begin: 0:0:0 05/03/2010
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2010
+  continent: Europe
+  cost:
+    business: 100 EUR
+    regular: 75 EUR
+    speaker: 38 EUR
+  country: Netherlands
+  end: 0:0:0 05/03/2010
+  genre: workshop
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/nlpw2010/
 - act_open: 0:0:0 04/11/2009
   begin: 0:0:0 06/02/2010
   cc: us
