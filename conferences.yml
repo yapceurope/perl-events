@@ -60,6 +60,24 @@
   status: ok
   type: grassroot
   url: http://www.frozen-perl.org/mpw2010/
+- act_open: 0:0:0 05/11/2009
+  begin: 0:0:0 16/01/2010
+  cc: us
+  city: 'Orlando, FL'
+  conf_id: opw2010
+  continent: America
+  country: United States
+  end: 0:0:0 16/01/2010
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Orlando Perl Workshop
+  nickname: The Perl Oasis
+  status: ok
+  type: grassroot
+  url: http://perloasis.org/opw2010/
 - act_open: 0:0:0 19/09/2009
   begin: 0:0:0 05/12/2009
   cc: gb
