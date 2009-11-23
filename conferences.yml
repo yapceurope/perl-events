@@ -194,12 +194,12 @@
 - act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 28/11/2009
   cc: kz
-  city: Kustanay
+  city: Kostanay
   conf_id: perlkz1
   continent: Europe
   cost:
     regular: 0
-  country: Bulgaria
+  country: Kazakhstan
   end: 0:0:0 28/11/2009
   genre: workshop
   languages:
