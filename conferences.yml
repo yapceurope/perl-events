@@ -135,6 +135,18 @@
   status: ok
   type: grassroot
   url: http://event.perlbulgaria.org/sofia2010/
+- begin: 0:0:0 24/04/2010
+  cc: tw
+  city: Taipei
+  conf_id: osdc2010tw
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 25/04/2010
+  genre: osdc
+  name: OSDC.tw
+  status: ok
+  type: grassroot
+  url: http://www.osdc.tw/
 - act_open: 0:0:0 06/11/2009
   begin: 0:0:0 05/03/2010
   cc: nl
@@ -440,18 +452,6 @@
   status: ok
   type: grassroot
   url: http://2009.perl.uz/perluz1/
-- begin: 0:0:0 24/04/2009
-  cc: tw
-  city: Taipei
-  conf_id: osdc2010tw
-  continent: Asia
-  country: Taiwan
-  end: 0:0:0 25/04/2009
-  genre: osdc
-  name: OSDC.tw
-  status: ok
-  type: grassroot
-  url: http://www.osdc.tw/
 - begin: 0:0:0 17/04/2009
   cc: tw
   city: Taipei
