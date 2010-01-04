@@ -440,6 +440,18 @@
   status: ok
   type: grassroot
   url: http://2009.perl.uz/perluz1/
+- begin: 0:0:0 24/04/2009
+  cc: tw
+  city: Taipei
+  conf_id: osdc2010tw
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 25/04/2009
+  genre: osdc
+  name: OSDC.tw
+  status: ok
+  type: grassroot
+  url: http://www.osdc.tw/
 - begin: 0:0:0 17/04/2009
   cc: tw
   city: Taipei
