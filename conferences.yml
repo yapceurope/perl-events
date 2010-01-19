@@ -147,6 +147,20 @@
   status: ok
   type: grassroot
   url: http://www.osdc.tw/
+- begin: 0:0:0 10/04/2010
+  cc: at
+  city: Vienna
+  conf_id: qa2010
+  continent: Europe
+  cost:
+    - regular: 0
+  country: Austria
+  end: 0:0:0 12/04/2010
+  genre: hackathon
+  name: QA Hackathon
+  status: ok
+  type: grassroot
+  url: http://qa-hackathon.org/
 - act_open: 0:0:0 06/11/2009
   begin: 0:0:0 05/03/2010
   cc: nl
