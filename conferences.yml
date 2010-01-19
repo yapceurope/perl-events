@@ -160,7 +160,7 @@
   name: QA Hackathon
   status: ok
   type: grassroot
-  url: http://qa-hackathon.org/
+  url: ~
 - act_open: 0:0:0 06/11/2009
   begin: 0:0:0 05/03/2010
   cc: nl
