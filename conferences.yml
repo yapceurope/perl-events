@@ -113,28 +113,6 @@
   status: ok
   type: grassroot
   url: http://vanpw.org/vanpw2010/
-- act_open: 0:0:0 19/11/2009
-  begin: 0:0:0 xx/xx/2010
-  cc: bg
-  city: Sofia
-  conf_id: sofia2010
-  continent: Europe
-  cost:
-    regular: 0
-  country: Bulgaria
-  end: 0:0:0 xx/xx/2010
-  genre: workshop
-  languages:
-    - Bulgarian
-    - English
-  lc:
-    - bg
-    - en
-  name: Bulgarian Perl Workshop
-  nickname: BG Perl
-  status: ok
-  type: grassroot
-  url: http://event.perlbulgaria.org/sofia2010/
 - act_open: 0:0:0 20/01/2010
   begin: 0:0:0 04/06/2010
   cc: pt
@@ -233,6 +211,28 @@
   status: ok
   type: grassroot
   url: http://www.frozen-perl.org/mpw2010/
+- act_open: 0:0:0 19/11/2009
+  begin: 0:0:0 30/01/2010
+  cc: bg
+  city: Sofia
+  conf_id: sofia2010
+  continent: Europe
+  cost:
+    regular: 0
+  country: Bulgaria
+  end: 0:0:0 30/01/2010
+  genre: workshop
+  languages:
+    - Bulgarian
+    - English
+  lc:
+    - bg
+    - en
+  name: Bulgarian Perl Workshop
+  nickname: BG Perl
+  status: ok
+  type: grassroot
+  url: http://event.perlbulgaria.org/sofia2010/
 - act_open: 0:0:0 05/11/2009
   begin: 0:0:0 16/01/2010
   cc: us
