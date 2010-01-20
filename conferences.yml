@@ -39,7 +39,7 @@
   lc:
     - en
   name: Perl 6 Discovery Workshop
-  status: ok
+  status: unknown
   type: grassroot
   url: http://perl6.org.uk/psdw2010/
 - act_open: 0:0:0 22/11/2009
@@ -75,9 +75,9 @@
     - fr
     - en
   name: French Perl Workshop
-  status: ok
+  status: unknown
   type: grassroot
-  url: http://conferences.mongueurs.net/fpw2010/
+  url: ~
 - act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 xx/xx/2010
   cc: ca
