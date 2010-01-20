@@ -135,6 +135,25 @@
   status: ok
   type: grassroot
   url: http://event.perlbulgaria.org/sofia2010/
+- act_open: 0:0:0 20/01/2010
+  begin: 0:0:0 04/06/2010
+  cc: pt
+  city: Porto
+  conf_id: ptpw2010
+  continent: Europe
+  country: Portugal
+  end: 0:0:0 05/06/2010
+  genre: workshop
+  languages:
+    - Portuguese
+    - English
+  lc:
+    - pt
+    - en
+  name: Portuguese Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://workshop.perl.pt/ptpw2010/
 - begin: 0:0:0 24/04/2010
   cc: tw
   city: Taipei
