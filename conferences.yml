@@ -179,6 +179,28 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 06/03/2010
+  cc: dk
+  city: Copenhagen
+  conf_id: hack2010dk
+  continent: Europe
+  cost:
+    - regular: 0
+  country: Norway
+  end: 0:0:0 06/03/2010
+  genre: hackathon
+  languages:
+    - English
+  lc:
+    - en
+  name: Copenhagen Perl 6 Hackathon
+  part_of: Open Source Days
+  part_of_url: http://www.opensourcedays.org/2010/
+  status: ok
+  theme: Perl 6 Hackathon
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 06/11/2009
   begin: 0:0:0 05/03/2010
   cc: nl
@@ -553,7 +575,7 @@
   url: http://www.osdc.tw/
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 17/04/2009
-  cc: pt
+  cc: no
   city: Oslo
   conf_id: hack2009no
   continent: Europe
