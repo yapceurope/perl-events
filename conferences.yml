@@ -224,13 +224,13 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2010/
-- begin: 0:0:0 19/02/2010
+- begin: 0:0:0 20/02/2010
   cc: ru
   city: Ekaterinburg
   conf_id: perlburg2010
   continent: Europe
   country: Russia
-  end: 0:0:0 19/02/2010
+  end: 0:0:0 20/02/2010
   genre: workshop
   languages:
     - Russian
