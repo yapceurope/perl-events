@@ -78,25 +78,6 @@
   status: ok
   type: grassroot
   url: http://conferences.mongueurs.net/fpw2010/
-- act_open: 0:0:0 16/11/2009
-  begin: 0:0:0 xx/xx/2010
-  cc: de
-  city: Frankfurt/Main
-  conf_id: gpw2010
-  continent: Europe
-  country: Germany
-  end: 0:0:0 xx/xx/2010
-  genre: workshop
-  languages:
-    - German
-    - English
-  lc:
-    - de
-    - en
-  name: German Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://conferences.yapceurope.org/gpw2010/
 - act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 xx/xx/2010
   cc: ca
@@ -113,6 +94,25 @@
   status: ok
   type: grassroot
   url: http://vanpw.org/vanpw2010/
+- act_open: 0:0:0 16/11/2009
+  begin: 0:0:0 07/06/2010
+  cc: de
+  city: Shorndorf
+  conf_id: gpw2010
+  continent: Europe
+  country: Germany
+  end: 0:0:0 09/06/2010
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/gpw2010/
 - act_open: 0:0:0 20/01/2010
   begin: 0:0:0 04/06/2010
   cc: pt
