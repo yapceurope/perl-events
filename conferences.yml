@@ -60,13 +60,13 @@
   type: grassroot
   url: http://perl6.org.uk/psdw2010/
 - act_open: 0:0:0 22/11/2009
-  begin: 0:0:0 xx/xx/2010
+  begin: 0:0:0 04/08/2010
   cc: it
   city: Pisa
   conf_id: ye2010
   continent: Europe
   country: Italy
-  end: 0:0:0 xx/xx/2010
+  end: 0:0:0 06/08/2010
   genre: yapc
   languages:
     - English
