@@ -199,7 +199,8 @@
   status: ok
   type: grassroot
   url: http://www.osdc.tw/
-- begin: 0:0:0 10/04/2010
+- act_open: 0:0:0 22/01/2010
+  begin: 0:0:0 10/04/2010
   cc: at
   city: Vienna
   conf_id: qa2010
@@ -212,7 +213,7 @@
   name: QA Hackathon
   status: ok
   type: grassroot
-  url: ~
+  url: http://2010.qa-hackathon.org/
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 06/03/2010
   cc: dk
