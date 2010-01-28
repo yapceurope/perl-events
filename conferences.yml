@@ -214,7 +214,7 @@
   status: ok
   type: grassroot
   url: http://2010.qa-hackathon.org/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 27/01/2010
   begin: 0:0:0 06/03/2010
   cc: dk
   city: Copenhagen
@@ -235,7 +235,7 @@
   status: ok
   theme: Perl 6 Hackathon
   type: grassroot
-  url: ~
+  url: http://conferences.yapceurope.org/hack2010dk/
 - act_open: 0:0:0 06/11/2009
   begin: 0:0:0 05/03/2010
   cc: nl
