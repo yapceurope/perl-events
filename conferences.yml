@@ -25,23 +25,6 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_open: 0:0:0 28/01/2010
-  begin: 0:0:0 xx/xx/2010
-  cc: us
-  city: 'Columbus, OH'
-  conf_id: yn2010
-  continent: America
-  country: United States
-  end: 0:0:0 xx/xx/2010
-  genre: yapc
-  languages:
-    - English
-  lc:
-    - en
-  name: YAPC North America
-  status: ok
-  type: grassroot
-  url: http://conferences.mongueurs.net/yn2010/
 - act_open: 0:0:0 07/12/2009
   begin: 0:0:0 xx/xx/2010
   cc: uk
@@ -149,6 +132,23 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 28/01/2010
+  begin: 0:0:0 21/06/2010
+  cc: us
+  city: 'Columbus, OH'
+  conf_id: yn2010
+  continent: America
+  country: United States
+  end: 0:0:0 23/06/2010
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: http://conferences.mongueurs.net/yn2010/
 - act_open: 0:0:0 16/11/2009
   begin: 0:0:0 07/06/2010
   cc: de
