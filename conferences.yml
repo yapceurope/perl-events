@@ -111,7 +111,7 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ye2010/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 06/02/2010
   begin: 0:0:0 26/06/2010
   cc: be
   city: Brussels
@@ -131,7 +131,7 @@
   name: Belgian Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://www.perlworkshop.be/bpw2010/
 - act_open: 0:0:0 28/01/2010
   begin: 0:0:0 21/06/2010
   cc: us
