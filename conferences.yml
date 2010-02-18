@@ -42,6 +42,22 @@
   status: unknown
   type: grassroot
   url: http://perl6.org.uk/psdw2010/
+- act_open: 0:0:0 xx/xx/2009
+  begin: 0:0:0 xx/xx/2010
+  cc: ca
+  city: Vancouver
+  conf_id: vanpw2010
+  continent: America
+  country: Canada
+  end: 0:0:0 xx/xx/2010
+  languages:
+    - English
+  lc:
+    - en
+  name: Vancouver Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://vanpw.org/vanpw2010/
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 xx/xx/2010
   cc: fr
@@ -61,22 +77,6 @@
   status: unknown
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/2009
-  begin: 0:0:0 xx/xx/2010
-  cc: ca
-  city: Vancouver
-  conf_id: vanpw2010
-  continent: America
-  country: Canada
-  end: 0:0:0 xx/xx/2010
-  languages:
-    - English
-  lc:
-    - en
-  name: Vancouver Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://vanpw.org/vanpw2010/
 - begin: 0:0:0 18/12/2010
   cc: ru
   city: Saint Petersburg
@@ -149,6 +149,27 @@
   status: ok
   type: grassroot
   url: http://conferences.mongueurs.net/yn2010/
+- act_open: 0:0:0 16/02/2010
+  begin: 0:0:0 12/06/2010
+  cc: ua
+  city: Kiev
+  conf_id: yr2010
+  continent: Europe
+  country: Ukraine
+  end: 0:0:0 14/06/2010
+  genre: workshop
+  languages:
+    - Ukrainian
+    - Russian
+    - English
+  lc:
+    - uk
+    - ru
+    - en
+  name: Perl Mova + YAPC Russia
+  status: unknown
+  type: grassroot
+  url: http://social.yapcrussia.org/yr2010/
 - act_open: 0:0:0 16/11/2009
   begin: 0:0:0 07/06/2010
   cc: de
