@@ -148,7 +148,7 @@
     - ru
     - en
   name: Perl Mova + YAPC Russia
-  status: unknown
+  status: ok
   type: grassroot
   url: http://social.yapcrussia.org/yr2010/
 - act_open: 0:0:0 xx/xx/2010
@@ -167,7 +167,7 @@
     - fr
     - en
   name: French Perl Workshop
-  status: unknown
+  status: ok
   type: grassroot
   url: ~
 - act_open: 0:0:0 16/11/2009
