@@ -151,7 +151,7 @@
   status: ok
   type: grassroot
   url: http://social.yapcrussia.org/yr2010/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 08/03/2010
   begin: 0:0:0 11/06/2010
   cc: fr
   city: Calais
@@ -169,7 +169,7 @@
   name: French Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://journeesperl.fr/fpw2010/
 - act_open: 0:0:0 16/11/2009
   begin: 0:0:0 07/06/2010
   cc: de
@@ -603,7 +603,7 @@
   name: French Perl Workshop
   status: ok
   type: grassroot
-  url: http://conferences.mongueurs.net/fpw2009/
+  url: http://journeesperl.fr/fpw2009/
 - act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 16/05/2009
   cc: ru
@@ -1094,7 +1094,7 @@
   name: French Perl Workshop
   status: ok
   type: grassroot
-  url: http://conferences.mongueurs.net/fpw2008/
+  url: http://journeesperl.fr/fpw2008/
 - act_open: 0:0:0 13/04/2008
   begin: 0:0:0 24/05/2008
   cc: se
@@ -1357,7 +1357,7 @@
   name: French Perl Workshop
   status: ok
   type: grassroot
-  url: http://conferences.mongueurs.net/2007/
+  url: http://journeesperl.fr/fpw2007/
 - begin: 0:0:0 09/11/2007
   cc: br
   city: São Paulo
@@ -1647,7 +1647,7 @@
   name: French Perl Workshop
   status: ok
   type: grassroot
-  url: http://conferences.mongueurs.net/2006/
+  url: http://journeesperl.fr/fpw2006/
 - begin: 0:0:0 10/11/2006
   cc: us
   city: 'Crystal Lake, IL'
