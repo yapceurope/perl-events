@@ -208,8 +208,7 @@
   status: ok
   type: grassroot
   url: http://workshop.perl.pt/ptpw2010/
-- act_open: 0:0:0 xx/xx/2010
-  begin: 0:0:0 01/05/2010
+- begin: 0:0:0 01/05/2010
   cc: is
   city: Reykjavík
   conf_id: npw2010
