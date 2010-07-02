@@ -94,22 +94,6 @@
   status: ok
   type: grassroot
   url: ~
-- begin: 0:0:0 xx/08/2010
-  cc: is
-  city: ReykjavÃ­k
-  conf_id: npw2010
-  continent: Europe
-  country: Iceland
-  end: 0:0:0 xx/08/2010
-  genre: workshop
-  languages:
-    - English
-  lc:
-    - en
-  name: Nordic Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://npw2010.fsfi.is/
 - act_open: 0:0:0 22/11/2009
   begin: 0:0:0 04/08/2010
   cc: it
@@ -243,6 +227,22 @@
   status: ok
   type: grassroot
   url: http://workshop.perl.pt/ptpw2010/
+- begin: 0:0:0 xx/08/2010
+  cc: is
+  city: Reykjavík
+  conf_id: npw2010
+  continent: Europe
+  country: Iceland
+  end: 0:0:0 xx/08/2010
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://npw2010.fsfi.is/
 - begin: 0:0:0 24/04/2010
   cc: tw
   city: Taipei
@@ -582,7 +582,7 @@
   genre: yapc
   name: YAPC South America
   nickname: YAPC::SA
-  part_of: FISL (FÃ³rum Internacional de Software Livre)
+  part_of: FISL (Fórum Internacional de Software Livre)
   status: ok
   type: grassroot
   url: http://www.perl.org.br/YAPC/SA2009/
@@ -934,7 +934,7 @@
   url: http://event.perlrussia.ru/rpw2008/
 - begin: 0:0:0 18/10/2008
   cc: br
-  city: SÃ£o Paulo
+  city: São Paulo
   conf_id: ybr2008
   continent: America
   country: Brazil
@@ -1378,7 +1378,7 @@
   url: http://journeesperl.fr/fpw2007/
 - begin: 0:0:0 09/11/2007
   cc: br
-  city: SÃ£o Paulo
+  city: São Paulo
   conf_id: ybr2007
   continent: America
   country: Brazil
@@ -1680,7 +1680,7 @@
   url: http://hackathon.info/
 - begin: 0:0:0 03/11/2006
   cc: br
-  city: SÃ£o Paulo
+  city: São Paulo
   conf_id: ys2006
   continent: America
   country: Brazil
@@ -1810,7 +1810,7 @@
   end: 0:0:0 22/04/2006
   genre: yapc
   name: YAPC Brasil
-  part_of: 7Âº FÃ³rum Internacional Software Livre
+  part_of: 7º Fórum Internacional Software Livre
   status: ok
   type: grassroot
   url: http://perl.org.br/bin/view/YAPC/YAPCBrasil2006
@@ -2464,7 +2464,7 @@
   url: ''
 - begin: 0:0:0 13/06/2001
   cc: ca
-  city: MontrÃ©al
+  city: Montréal
   conf_id: yn2001
   continent: America
   country: Canada
