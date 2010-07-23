@@ -94,6 +94,39 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 08/10/2010
+  cc: fr
+  city: Paris
+  conf_id: osdc2010fr
+  continent: Europe
+  country: France
+  end: 0:0:0 09/10/2010
+  genre: osdc
+  languages:
+    - French
+  lc:
+    - fr
+  name: OSDC.fr
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 xx/08/2010
+  cc: is
+  city: Reykjavík
+  conf_id: npw2010
+  continent: Europe
+  country: Iceland
+  end: 0:0:0 xx/08/2010
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://npw2010.fsfi.is/
 - act_open: 0:0:0 22/11/2009
   begin: 0:0:0 04/08/2010
   cc: it
@@ -227,22 +260,6 @@
   status: ok
   type: grassroot
   url: http://workshop.perl.pt/ptpw2010/
-- begin: 0:0:0 xx/08/2010
-  cc: is
-  city: Reykjavík
-  conf_id: npw2010
-  continent: Europe
-  country: Iceland
-  end: 0:0:0 xx/08/2010
-  genre: workshop
-  languages:
-    - English
-  lc:
-    - en
-  name: Nordic Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://npw2010.fsfi.is/
 - begin: 0:0:0 24/04/2010
   cc: tw
   city: Taipei
