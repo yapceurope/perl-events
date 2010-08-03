@@ -790,7 +790,7 @@
   name: Belgian Perl Workshop
   status: ok
   type: grassroot
-  url: http://conferences.mongueurs.net/bpw2009/
+  url: http://www.perlworkshop.be/bpw2009/
 - act_open: 0:0:0 16/01/2009
   begin: 0:0:0 25/02/2009
   cc: de
@@ -1426,7 +1426,7 @@
   name: Belgian Perl Workshop
   status: ok
   type: grassroot
-  url: http://conferences.mongueurs.net/bpw2007/
+  url: http://www.perlworkshop.be/bpw2007/
 - begin: 0:0:0 26/10/2007
   cc: ru
   city: Moscow
