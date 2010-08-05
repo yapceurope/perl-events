@@ -95,13 +95,13 @@
   type: grassroot
   url: ~
 - act_open: 0:0:0 xx/xx/2010
-  begin: 0:0:0 08/10/2010
+  begin: 0:0:0 09/10/2010
   cc: fr
   city: Paris
   conf_id: osdc2010fr
   continent: Europe
   country: France
-  end: 0:0:0 09/10/2010
+  end: 0:0:0 10/10/2010
   genre: osdc
   languages:
     - French
