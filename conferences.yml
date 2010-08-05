@@ -110,7 +110,7 @@
   name: OSDC.fr
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.osdc.fr/osdc2010fr/
 - begin: 0:0:0 xx/08/2010
   cc: is
   city: Reykjavík
