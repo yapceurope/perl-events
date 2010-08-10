@@ -2411,10 +2411,9 @@
   end: 0:0:0 16/05/2003
   genre: yapc
   name: YAPC Canada
-  part_of: http://web.archive.org/web/20031206070406/http://yapc.ca/
   status: ok
   type: grassroot
-  url: ''
+  url: http://web.archive.org/web/20031206070406/http://yapc.ca/
 - begin: 0:0:0 11/05/2003
   cc: il
   city: Haifa
@@ -2477,11 +2476,10 @@
   end: 0:0:0 20/09/2002
   genre: yapc
   name: YAPC Europe
-  part_of: http://www.yapceurope.org/2002/
   status: ok
   theme: The Science of Perl
   type: grassroot
-  url: ''
+  url: http://www.yapceurope.org/2002/
 - begin: 0:0:0 26/08/2002
   cc: hu
   city: Budapest
@@ -2542,11 +2540,10 @@
   end: 0:0:0 04/08/2001
   genre: yapc
   name: YAPC Europe
-  part_of: http://www.yapceurope.org/2001/
   status: ok
   theme: Secure Perl
   type: grassroot
-  url: ''
+  url: http://www.yapceurope.org/2001/
 - begin: 0:0:0 13/06/2001
   cc: ca
   city: Montréal
@@ -2587,11 +2584,10 @@
   end: 0:0:0 24/09/2000
   genre: yapc
   name: YAPC Europe
-  part_of: http://www.yapceurope.org/2000/
   status: ok
   theme: The Art of Perl
   type: grassroot
-  url: ''
+  url: http://www.yapceurope.org/2000/
 - begin: 0:0:0 21/06/2000
   cc: us
   city: 'Pittsburgh, PA'
