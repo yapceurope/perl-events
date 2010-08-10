@@ -130,6 +130,25 @@
   type: grassroot
   url: ~
 - act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 05/11/2010
+  cc: at
+  city: Vienna
+  conf_id: apw2010
+  continent: Europe
+  country: Austria
+  end: 0:0:0 06/11/2010
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 09/10/2010
   cc: fr
   city: Paris
