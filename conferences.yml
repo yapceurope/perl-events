@@ -166,6 +166,19 @@
   url: ~
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 09/10/2010
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2010
+  continent: America
+  country: United States
+  end: 0:0:0 10/10/2010
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://pghpw.org/
+- act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 09/10/2010
   cc: fr
   city: Paris
   conf_id: osdc2010fr
