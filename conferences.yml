@@ -25,6 +25,24 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 14/01/2012
+  cc: us
+  city: 'Orlando, FL'
+  conf_id: opw2012
+  continent: America
+  country: United States
+  end: 0:0:0 14/01/2012
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Orlando Perl Workshop
+  nickname: The Perl Oasis
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 15/08/2011
   cc: lv
@@ -57,6 +75,24 @@
   lc:
     - en
   name: YAPC North America
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 15/01/2011
+  cc: us
+  city: 'Orlando, FL'
+  conf_id: opw2011
+  continent: America
+  country: United States
+  end: 0:0:0 15/01/2011
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Orlando Perl Workshop
+  nickname: The Perl Oasis
   status: ok
   type: grassroot
   url: ~
