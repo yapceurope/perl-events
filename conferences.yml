@@ -1634,7 +1634,7 @@
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: http://www.perlworkshop.nl/wiki/wiki.cgi?2007
+  url: http://archief.perlworkshop.nl/wiki/wiki.cgi?2007
 - begin: 0:0:0 10/03/2007
   cc: us
   city: 'Boston, MA'
@@ -1885,7 +1885,7 @@
   part_of: SANE 2006
   status: ok
   type: grassroot
-  url: http://www.perlworkshop.nl/wiki/wiki.cgi?2006
+  url: http://archief.perlworkshop.nl/wiki/wiki.cgi?2006
 - begin: 0:0:0 19/04/2006
   cc: br
   city: Porto Alegre
@@ -2133,7 +2133,7 @@
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: http://www.perlworkshop.nl/wiki/wiki.cgi?2005
+  url: http://archief.perlworkshop.nl/wiki/wiki.cgi?2005
 - begin: 0:0:0 17/02/2005
   cc: il
   city: Herzliya
@@ -2355,7 +2355,7 @@
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://archief.perlworkshop.nl/wiki/wiki.cgi?2004
 - begin: 0:0:0 26/02/2004
   cc: il
   city: Herzliya
