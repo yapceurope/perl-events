@@ -43,6 +43,23 @@
   theme: Modern Perl
   type: grassroot
   url: http://yapceurope.lv/
+- act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 27/06/2011
+  cc: us
+  city: 'Asheville, NC'
+  conf_id: yn2011
+  continent: America
+  country: United States
+  end: 0:0:0 29/06/2011
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 07/12/2009
   begin: 0:0:0 xx/xx/2010
   cc: uk
