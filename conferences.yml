@@ -192,14 +192,12 @@
   genre: workshop
   languages:
     - German
-    - English
   lc:
     - de
-    - en
   name: Austrian Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://conferences.yapceurope.org/apw2010/
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 09/10/2010
   cc: us
