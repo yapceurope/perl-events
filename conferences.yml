@@ -129,6 +129,23 @@
   status: unknown
   type: grassroot
   url: http://vanpw.org/vanpw2010/
+- begin: 0:0:0 18/12/2010
+  cc: ru
+  city: Saint Petersburg
+  conf_id: saintperl2
+  continent: Europe
+  country: Russia
+  end: 0:0:0 18/12/2010
+  genre: workshop
+  languages:
+    - Russian
+  lc:
+    - ru
+  name: Russian Perl Workshop
+  nickname: Saint Perl
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 04/12/2010
   cc: gb
@@ -148,23 +165,6 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2010/
-- begin: 0:0:0 18/12/2010
-  cc: ru
-  city: Saint Petersburg
-  conf_id: saintperl2
-  continent: Europe
-  country: Russia
-  end: 0:0:0 18/12/2010
-  genre: workshop
-  languages:
-    - Russian
-  lc:
-    - ru
-  name: Russian Perl Workshop
-  nickname: Saint Perl
-  status: ok
-  type: grassroot
-  url: ~
 - begin: 0:0:0 xx/11/2010
   cc: is
   city: Reykjavík
