@@ -129,6 +129,18 @@
   status: unknown
   type: grassroot
   url: http://vanpw.org/vanpw2010/
+- begin: 0:0:0 10/15/2010
+  cc: jp
+  city: Tokyo
+  conf_id: ya2010
+  continent: Asia
+  country: Japan
+  end: 0:0:0 11/16/2009
+  genre: yapc
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://yapcasia.org/ya2010/
 - begin: 0:0:0 18/12/2010
   cc: ru
   city: Saint Petersburg
