@@ -165,22 +165,23 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2010/
-- begin: 0:0:0 xx/11/2010
+- begin: 0:0:0 14/11/2010
   cc: is
   city: Reykjavík
   conf_id: npw2010
   continent: Europe
   country: Iceland
-  end: 0:0:0 xx/11/2010
+  end: 0:0:0 14/11/2010
   genre: workshop
   languages:
     - English
   lc:
     - en
   name: Nordic Perl Workshop
+  part_of: RDFC (Reykjavík Digital Freedom Conference)
   status: canceled
   type: grassroot
-  url: http://npw2010.fsfi.is/
+  url: http://conferences.yapceurope.org/npw2010/
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 05/11/2010
   cc: at
