@@ -165,6 +165,18 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2010/
+- begin: 0:0:0 24/11/2010
+  cc: au
+  city: Melbourne
+  conf_id: osdc2010au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 26/11/2010
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://2010.osdc.com.au/
 - begin: 0:0:0 14/11/2010
   cc: is
   city: Reykjavík
@@ -572,6 +584,18 @@
   status: ok
   type: grassroot/
   url: http://event.perl.kz/perlkz1/
+- begin: 0:0:0 25/11/2009
+  cc: au
+  city: Brisbane
+  conf_id: osdc2009au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 27/11/2009
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://2009.osdc.com.au/
 - act_open: 0:0:0 23/06/2009
   begin: 0:0:0 21/11/2009
   cc: lv
