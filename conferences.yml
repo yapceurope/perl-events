@@ -77,7 +77,20 @@
   name: YAPC North America
   status: ok
   type: grassroot
-  url: ~
+  url: http://www.yapc2011.us/yn2011/
+- act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 05/02/2011
+  cc: us
+  city: 'Minneapolis, MN'
+  conf_id: mpw2011
+  continent: America
+  country: United States
+  end: 0:0:0 05/02/2011
+  genre: workshop
+  name: Frozen Perl
+  status: ok
+  type: grassroot
+  url: http://www.frozen-perl.org/mpw2011/
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 15/01/2011
   cc: us
