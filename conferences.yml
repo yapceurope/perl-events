@@ -78,6 +78,25 @@
   status: ok
   type: grassroot
   url: http://www.yapc2011.us/yn2011/
+- act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 05/03/2011
+  cc: nl
+  city: The Hague
+  conf_id: nlpw2011
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 05/03/2011
+  genre: workshop
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 05/02/2011
   cc: us
