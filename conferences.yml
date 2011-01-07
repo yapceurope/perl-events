@@ -96,7 +96,7 @@
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://www.perlworkshop.nl/nlpw2011/
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 05/02/2011
   cc: us
@@ -1409,7 +1409,7 @@
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: http://www.perlworkshop.nl/
+  url: http://archief.perlworkshop.nl/wiki/wiki.cgi?Home
 - act_open: 0:0:0 28/11/2007
   begin: 0:0:0 23/02/2008
   cc: ua
