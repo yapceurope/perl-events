@@ -43,6 +43,25 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 24/12/2010
+  begin: 0:0:0 08/09/2011
+  cc: it
+  city: Turin
+  conf_id: ipw2011
+  continent: Europe
+  country: Italy
+  end: 0:0:0 09/09/2011
+  genre: workshop
+  languages:
+    - Italian
+    - English
+  lc:
+    - it
+    - en
+  name: Italian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/ipw2011/
 - act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 15/08/2011
   cc: lv
