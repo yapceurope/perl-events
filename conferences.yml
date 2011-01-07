@@ -98,6 +98,24 @@
   type: grassroot
   url: http://www.yapc2011.us/yn2011/
 - act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 02/04/2011
+  cc: us
+  city: Toronto
+  conf_id: tpw2012
+  continent: America
+  country: Canada
+  end: 0:0:0 02/04/2011
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Toronto Perl Workshop
+  nickname: Freshwater Perl
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 05/03/2011
   cc: nl
   city: The Hague
