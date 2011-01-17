@@ -153,6 +153,26 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2011/
+- act_open: 0:0:0 15/01/2011
+  begin: 0:0:0 26/02/2011
+  cc: bg
+  city: Sofia
+  conf_id: sofia2011
+  continent: Europe
+  country: Bulgaria
+  end: 0:0:0 26/02/2011
+  genre: workshop
+  languages:
+    - Bulgarian
+    - English
+  lc:
+    - bg
+    - en
+  name: Bulgarian Perl Workshop
+  nickname: 'BG Perl - 2'
+  status: ok
+  type: grassroot
+  url: http://2011.perlbulgaria.org/sofia2011/
 - act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 05/02/2011
   cc: us
