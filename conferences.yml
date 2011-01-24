@@ -117,6 +117,21 @@
   type: grassroot
   url: http://journeesperl.fr/fpw2011/
 - act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 16/04/2011
+  cc: nl
+  city: Amsterdam
+  conf_id: qa2011
+  continent: Europe
+  cost:
+    - regular: 0
+  country: Netherlands
+  end: 0:0:0 18/04/2011
+  genre: hackathon
+  name: QA Hackathon
+  status: ok
+  type: grassroot
+  url: http://2011.qa-hackathon.org/
+- act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 02/04/2011
   cc: us
   city: Toronto
