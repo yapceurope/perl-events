@@ -62,7 +62,7 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2011/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_open: 0:0:0 18/01/2011
   begin: 0:0:0 15/08/2011
   cc: lv
   city: Riga
@@ -80,7 +80,7 @@
   theme: Modern Perl
   type: grassroot
   url: http://yapceurope.lv/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 26/09/2010
   begin: 0:0:0 27/06/2011
   cc: us
   city: 'Asheville, NC'
@@ -97,7 +97,7 @@
   status: ok
   type: grassroot
   url: http://www.yapc2011.us/yn2011/
-- act_open: 0:0:0 xx/xx/2011
+- act_open: 0:0:0 10/01/2011
   begin: 0:0:0 24/06/2011
   cc: fr
   city: Paris
@@ -116,7 +116,7 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2011/
-- act_open: 0:0:0 xx/xx/2011
+- act_open: 0:0:0 22/01/2011
   begin: 0:0:0 16/04/2011
   cc: nl
   city: Amsterdam
@@ -135,7 +135,7 @@
   begin: 0:0:0 02/04/2011
   cc: us
   city: Toronto
-  conf_id: tpw2012
+  conf_id: tpw2011
   continent: America
   country: Canada
   end: 0:0:0 02/04/2011
@@ -149,7 +149,7 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/2011
+- act_open: 0:0:0 20/12/2010
   begin: 0:0:0 05/03/2011
   cc: nl
   city: The Hague
@@ -188,7 +188,7 @@
   status: ok
   type: grassroot
   url: http://2011.perlbulgaria.org/sofia2011/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 17/10/2010
   begin: 0:0:0 05/02/2011
   cc: us
   city: 'Minneapolis, MN'
@@ -201,7 +201,7 @@
   status: ok
   type: grassroot
   url: http://www.frozen-perl.org/mpw2011/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 14/11/2010
   begin: 0:0:0 15/01/2011
   cc: us
   city: 'Orlando, FL'
@@ -269,7 +269,7 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl2/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 15/09/2010
   begin: 0:0:0 04/12/2010
   cc: gb
   city: London
@@ -300,7 +300,8 @@
   status: ok
   type: grassroot
   url: http://2010.osdc.com.au/
-- begin: 0:0:0 14/11/2010
+- act_open: 0:0:0 20/10/2010
+  begin: 0:0:0 14/11/2010
   cc: is
   city: Reykjavík
   conf_id: npw2010
@@ -317,7 +318,7 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/npw2010/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 10/08/2010
   begin: 0:0:0 05/11/2010
   cc: at
   city: Vienna
@@ -346,7 +347,7 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/ya2010/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 24/08/2010
   begin: 0:0:0 09/10/2010
   cc: us
   city: 'Pittsburgh, PA'
@@ -359,7 +360,7 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/
-- act_open: 0:0:0 xx/xx/2010
+- act_open: 0:0:0 27/07/2010
   begin: 0:0:0 09/10/2010
   cc: fr
   city: Paris
