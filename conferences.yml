@@ -24,6 +24,7 @@
 # - theme: theme of the conference
 # - type: grassroot | business
 # - url: main conference website
+# - url_lanyrd: conference url on lanyrd.com
 ---
 - act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 14/01/2012
@@ -377,6 +378,7 @@
   status: ok
   type: grassroot
   url: http://act.osdc.fr/osdc2010fr/
+  url_lanyrd: http://lanyrd.com/2010/osdcfr/
 - act_open: 0:0:0 22/11/2009
   begin: 0:0:0 04/08/2010
   cc: it
@@ -852,6 +854,7 @@
   theme: Corporate Perl
   type: grassroot
   url: http://yapceurope2009.org/ye2009/
+  url_lanyrd: http://lanyrd.com/2009/yapceurope/
 - begin: 0:0:0 24/06/2009
   cc: br
   city: Porto Alegre
@@ -1339,6 +1342,7 @@
   theme: Beautiful Perl
   type: grassroot
   url: http://conferences.yapceurope.org/ye2008
+  url_lanyrd: http://lanyrd.com/2008/yapceurope/
 - act_open: 0:0:0 17/12/2007
   begin: 0:0:0 16/06/2008
   cc: us
@@ -1352,6 +1356,7 @@
   status: ok
   type: grassroot
   url: http://conferences.mongueurs.net/yn2008/
+  url_lanyrd: http://lanyrd.com/2008/yapcna/
 - act_open: 0:0:0 11/02/2008
   begin: 0:0:0 06/06/2008
   cc: pt
@@ -1739,6 +1744,7 @@
   theme: Social Perl
   type: grassroot
   url: http://conferences.yapceurope.org/2007/
+  lanyrd_url: http://lanyrd.com/2007/yapceurope/
 - act_open: 0:0:0 25/01/2007
   begin: 0:0:0 25/06/2007
   cc: us
@@ -1752,6 +1758,7 @@
   status: ok
   type: grassroot
   url: http://conferences.mongueurs.net/yn2007/
+  url_lanyrd: http://lanyrd.com/2007/yapcna/
 - act_open: 0:0:0 05/02/2007
   begin: 0:0:0 28/04/2007
   cc: dk
@@ -2001,6 +2008,7 @@
   theme: The accessibility of Perl
   type: grassroot
   url: http://www.yapceurope.org/2006/
+  url_lanyrd: http://lanyrd.com/2006/yapceurope/
 - begin: 0:0:0 26/06/2006
   cc: us
   city: 'Chicago, IL'
@@ -2013,6 +2021,7 @@
   status: ok
   type: grassroot
   url: http://www.yapc.org/America/previous-years/2006/
+  url_lanyrd: http://lanyrd.com/2006/yapcna/
 - act_open: 0:0:0 26/02/2006
   begin: 0:0:0 22/06/2006
   cc: it
@@ -2222,6 +2231,7 @@
   theme: Perl Everywhere
   type: grassroot
   url: http://conferences.yapceurope.org/ye2005/
+  url_lanyrd: http://lanyrd.com/2005/yapceurope/
 - begin: 0:0:0 27/06/2005
   cc: ca
   city: Toronto
@@ -2234,6 +2244,7 @@
   status: ok
   type: grassroot
   url: http://www.yapc.org/America/previous-years/2005/
+  url_lanyrd: http://lanyrd.com/2005/yapcna/
 - act_open: 0:0:0 12/04/2005
   begin: 0:0:0 23/06/2005
   cc: it
@@ -2413,6 +2424,7 @@
   theme: Perl for Profit
   type: grassroot
   url: http://belfast.yapc.org/
+  url_lanyrd: http://lanyrd.com/2004/yapceurope/
 - begin: 0:0:0 28/08/2004
   cc: hu
   city: Budapest
@@ -2585,6 +2597,7 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/2003/
+  url_lanyrd: http://lanyrd.com/2003/yapceurope/
 - begin: 0:0:0 16/06/2003
   cc: us
   city: 'Boca Raton, FL'
@@ -2597,6 +2610,7 @@
   status: ok
   type: grassroot
   url: http://www.yapc.org/America/previous-years/2003/
+  url_lanyrd: http://lanyrd.com/2003/yapcna/
 - begin: 0:0:0 15/05/2003
   cc: ca
   city: Ottawa
@@ -2675,6 +2689,7 @@
   theme: The Science of Perl
   type: grassroot
   url: http://www.yapceurope.org/2002/
+  url_lanyrd: http://lanyrd.com/2002/yapceurope/
 - begin: 0:0:0 26/08/2002
   cc: hu
   city: Budapest
@@ -2739,6 +2754,7 @@
   theme: Secure Perl
   type: grassroot
   url: http://www.yapceurope.org/2001/
+  url_lanyrd: http://lanyrd.com/2001/yapceurope/
 - begin: 0:0:0 13/06/2001
   cc: ca
   city: Montréal
@@ -2783,6 +2799,7 @@
   theme: The Art of Perl
   type: grassroot
   url: http://www.yapceurope.org/2000/
+  url_lanyrd: http://lanyrd.com/2000/yapceurope/
 - begin: 0:0:0 21/06/2000
   cc: us
   city: 'Pittsburgh, PA'
