@@ -24,7 +24,6 @@
 # - theme: theme of the conference
 # - type: grassroot | business
 # - url: main conference website
-# - url_lanyrd: conference url on lanyrd.com
 ---
 - act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 14/01/2012
@@ -81,6 +80,25 @@
   theme: Modern Perl
   type: grassroot
   url: http://yapceurope.lv/
+- begin: 0:0:0 05/07/2011
+  cc: br
+  city: Saõ paulo
+  conf_id: sppw2011
+  continent: America
+  country: Brazil
+  end: 0:0:0 05/07/2011
+  genre: workshop
+  languages:
+    - English
+    - Portuguese
+  lc:
+    - en
+    - pt
+  name: São Paulo Perl Workshop
+  status: ok
+  theme: Agile Development in the Real World
+  type: grassroot
+  url: http://www.perlworkshop.com.br/
 - act_open: 0:0:0 26/09/2010
   begin: 0:0:0 27/06/2011
   cc: us
@@ -117,6 +135,23 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2011/
+- begin: 0:0:0 18/06/2011
+  cc: se
+  city: Malmö
+  conf_id: npw2011
+  continent: Europe
+  country: Sweden
+  end: 0:0:0 19/06/2010
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop
+  nickname: Saint Perl
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/npw2011/
 - act_open: 0:0:0 22/01/2011
   begin: 0:0:0 16/04/2011
   cc: nl
@@ -1739,12 +1774,12 @@
   country: Austria
   end: 0:0:0 30/08/2007
   genre: yapc
+  lanyrd_url: http://lanyrd.com/2007/yapceurope/
   name: YAPC Europe
   status: ok
   theme: Social Perl
   type: grassroot
   url: http://conferences.yapceurope.org/2007/
-  lanyrd_url: http://lanyrd.com/2007/yapceurope/
 - act_open: 0:0:0 25/01/2007
   begin: 0:0:0 25/06/2007
   cc: us
