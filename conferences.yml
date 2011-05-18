@@ -43,6 +43,25 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 23/09/2011
+  cc: fr
+  city: Paris
+  conf_id: osdc2011fr
+  continent: Europe
+  country: France
+  end: 0:0:0 24/09/2011
+  genre: osdc
+  languages:
+    - French
+  lc:
+    - fr
+  name: OSDC.fr
+  part_of: Open World Forum
+  part_of_url: http://www.openworldforum.org/
+  status: ok
+  type: grassroot
+  url: http://act.osdc.fr/osdc2011fr/
 - act_open: 0:0:0 24/12/2010
   begin: 0:0:0 08/09/2011
   cc: it
@@ -80,25 +99,6 @@
   theme: Modern Perl
   type: grassroot
   url: http://yapceurope.lv/
-- begin: 0:0:0 07/05/2011
-  cc: br
-  city: Saõ paulo
-  conf_id: sppw2011
-  continent: America
-  country: Brazil
-  end: 0:0:0 07/05/2011
-  genre: workshop
-  languages:
-    - English
-    - Portuguese
-  lc:
-    - en
-    - pt
-  name: São Paulo Perl Workshop
-  status: ok
-  theme: Agile Development in the Real World
-  type: grassroot
-  url: http://www.perlworkshop.com.br/
 - act_open: 0:0:0 26/09/2010
   begin: 0:0:0 27/06/2011
   cc: us
@@ -151,6 +151,25 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/npw2011/
+- begin: 0:0:0 07/05/2011
+  cc: br
+  city: Saõ paulo
+  conf_id: sppw2011
+  continent: America
+  country: Brazil
+  end: 0:0:0 07/05/2011
+  genre: workshop
+  languages:
+    - English
+    - Portuguese
+  lc:
+    - en
+    - pt
+  name: São Paulo Perl Workshop
+  status: ok
+  theme: Agile Development in the Real World
+  type: grassroot
+  url: http://www.perlworkshop.com.br/
 - act_open: 0:0:0 22/01/2011
   begin: 0:0:0 16/04/2011
   cc: nl
