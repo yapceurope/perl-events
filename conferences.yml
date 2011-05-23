@@ -43,6 +43,19 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 02/03/2011
+  begin: 0:0:0 08/10/2011
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2011
+  continent: America
+  country: United States
+  end: 0:0:0 09/10/2011
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://pghpw.org/
 - act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 23/09/2011
   cc: fr
@@ -413,7 +426,7 @@
   name: Pittsburgh Perl Workshop
   status: ok
   type: grassroot
-  url: http://pghpw.org/
+  url: http://pghpw.org/ppw2010/
 - act_open: 0:0:0 27/07/2010
   begin: 0:0:0 09/10/2010
   cc: fr
