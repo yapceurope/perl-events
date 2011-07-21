@@ -132,6 +132,23 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2011/
+- act_open: 0:0:0 12/06/2011
+  begin: 0:0:0 26/08/2011
+  cc: uk
+  city: Edinburgh
+  conf_id: dlc2011
+  continent: Europe
+  country: United Kindom
+  end: 0:0:0 28/08/2011
+  genre: osdc
+  languages:
+    - English
+  lc:
+    - en
+  name: Dynamic Lnaguages Conference
+  status: ok
+  type: grassroot
+  url: http://www.dynamiclanguages.co.uk/dlc2011
 - act_open: 0:0:0 18/01/2011
   begin: 0:0:0 15/08/2011
   cc: lv
