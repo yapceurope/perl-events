@@ -134,6 +134,25 @@
   status: ok
   type: grassroot
   url: http://act.osdc.fr/osdc2011fr/
+- act_open: 0:0:0 20/07/2011
+  begin: 0:0:0 22/09/2011
+  cc: pt
+  city: Lisbon
+  conf_id: ptpw2011
+  continent: Europe
+  country: Portugal
+  end: 0:0:0 23/09/2011
+  genre: workshop
+  languages:
+    - Portuguese
+    - English
+  lc:
+    - pt
+    - en
+  name: Portuguese Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://workshop.perl.pt/ptpw2011/
 - act_open: 0:0:0 24/12/2010
   begin: 0:0:0 08/09/2011
   cc: it
