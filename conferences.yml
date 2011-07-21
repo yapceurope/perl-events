@@ -25,6 +25,25 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 12/07/2011
+  begin: 0:0:0 05/03/2012
+  cc: de
+  city: Erlangen
+  conf_id: gpw2012
+  continent: Europe
+  country: Germany
+  end: 0:0:0 06/03/2012
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/gpw2012/
 - act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 14/01/2012
   cc: us
@@ -43,6 +62,25 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 21/06/2011
+  begin: 0:0:0 19/10/2011
+  cc: de
+  city: Frankfurt/Main
+  conf_id: gpw2011
+  continent: Europe
+  country: Germany
+  end: 0:0:0 21/10/2011
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/gpw2011/
 - act_open: 0:0:0 02/03/2011
   begin: 0:0:0 08/10/2011
   cc: us
