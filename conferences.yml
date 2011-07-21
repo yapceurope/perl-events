@@ -94,7 +94,7 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/
-- act_open: 0:0:0 xx/xx/2011
+- act_open: 0:0:0 12/06/2011
   begin: 0:0:0 23/09/2011
   cc: fr
   city: Paris
@@ -105,14 +105,16 @@
   genre: osdc
   languages:
     - French
+    - English
   lc:
     - fr
+    - en
   name: OSDC.fr
   part_of: Open World Forum
   part_of_url: http://www.openworldforum.org/
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.osdc.fr/osdc2011fr/
 - act_open: 0:0:0 24/12/2010
   begin: 0:0:0 08/09/2011
   cc: it
