@@ -62,6 +62,25 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 12/11/2011
+  cc: gb
+  city: London
+  conf_id: lpw2011
+  continent: Europe
+  cost:
+    regular: 0
+  country: United Kingdom
+  end: 0:0:0 12/11/2011
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/lpw2011/
 - act_open: 0:0:0 21/06/2011
   begin: 0:0:0 19/10/2011
   cc: de
@@ -94,7 +113,7 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/
-- act_open: 0:0:0 12/06/2011
+- act_open: 0:0:0 14/06/2011
   begin: 0:0:0 23/09/2011
   cc: fr
   city: Paris
