@@ -81,6 +81,27 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2011/
+- act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 xx/10/2011
+  cc: be
+  city: Brussels
+  conf_id: bpw2011
+  continent: Europe
+  country: Belgium
+  end: 0:0:0 xx/10/2011
+  genre: workshop
+  languages:
+    - English
+    - French
+    - Dutch
+  lc:
+    - en
+    - fr
+    - nl
+  name: Belgian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 21/06/2011
   begin: 0:0:0 19/10/2011
   cc: de
