@@ -81,6 +81,28 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2011/
+- begin: 0:0:0 04/11/2011
+  cc: at/sk
+  city: Vienna/Bratislava
+  conf_id: tcpw2011
+  continent: Europe
+  country: Austria/Slovakia
+  end: 0:0:0 06/11/2011
+  genre: workshop
+  languages:
+    - English
+    - German
+    - Slovakian
+  lc:
+    - en
+    - de_AT
+    - sk
+  name: TwinCity Perl Workshop
+  nickname: TCPW2011
+  status: ok
+  theme: Building bridges
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 xx/10/2011
   cc: be
