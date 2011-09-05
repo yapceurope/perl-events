@@ -156,6 +156,27 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/
+- begin: 0:0:0 01/10/2011
+  cc: ua
+  city: Partenit
+  conf_id: bp2011
+  continent: Europe
+  country: Ukraine
+  end: 0:0:0 02/10/2011
+  genre: workshop
+  languages:
+    - Russian
+    - Ukrainian
+    - English
+  lc:
+    - ru
+    - uk
+    - en
+  name: Ukrainian Perl Workshop
+  nickname: Black Perl
+  status: ok
+  type: grassroot
+  url: http://black-perl.org/bp2011/
 - act_open: 0:0:0 14/06/2011
   begin: 0:0:0 23/09/2011
   cc: fr
