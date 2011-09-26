@@ -103,6 +103,25 @@
   theme: Building bridges
   type: grassroot
   url: ~
+- act_open: 0:0:0 21/06/2011
+  begin: 0:0:0 19/10/2011
+  cc: de
+  city: Frankfurt/Main
+  conf_id: gpw2011
+  continent: Europe
+  country: Germany
+  end: 0:0:0 21/10/2011
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://conferences.yapceurope.org/gpw2011/
 - act_open: 0:0:0 20/09/2011
   begin: 0:0:0 15/10/2011
   cc: be
@@ -124,25 +143,6 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/bpw2011/
-- act_open: 0:0:0 21/06/2011
-  begin: 0:0:0 19/10/2011
-  cc: de
-  city: Frankfurt/Main
-  conf_id: gpw2011
-  continent: Europe
-  country: Germany
-  end: 0:0:0 21/10/2011
-  genre: workshop
-  languages:
-    - German
-    - English
-  lc:
-    - de
-    - en
-  name: German Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://conferences.yapceurope.org/gpw2011/
 - act_open: 0:0:0 02/03/2011
   begin: 0:0:0 08/10/2011
   cc: us
