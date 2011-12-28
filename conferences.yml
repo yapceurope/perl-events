@@ -81,7 +81,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2011/
-- begin: 0:0:0 04/11/2011
+- act_open: 0:0:0 13/09/2011
+  begin: 0:0:0 04/11/2011
   cc: at/sk
   city: Vienna/Bratislava
   conf_id: tcpw2011
