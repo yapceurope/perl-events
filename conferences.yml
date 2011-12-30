@@ -25,6 +25,21 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 21/11/2011
+  begin: 0:0:0 30/03/2012
+  cc: fr
+  city: Paris
+  conf_id: qa2012
+  continent: Europe
+  cost:
+    - regular: 0
+  country: France
+  end: 0:0:0 01/04/2011
+  genre: hackathon
+  name: QA Hackathon
+  status: ok
+  type: grassroot
+  url: http://2012.qa-hackathon.org/
 - act_open: 0:0:0 12/07/2011
   begin: 0:0:0 05/03/2012
   cc: de
@@ -44,6 +59,21 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/gpw2012/
+- act_open: 0:0:0 18/11/2011
+  begin: 0:0:0 28/02/2012
+  cc: il
+  city: Ramat Gan
+  conf_id: ilpw2012
+  continent: Asia
+  cost:
+    - regular: 0
+  country: Israel
+  end: 0:0:0 28/02/2012
+  genre: workshop
+  name: Perl Workshop in Israel
+  status: ok
+  type: grassroot
+  url: http://act.perl.org.il/ilpw2012/
 - act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 14/01/2012
   cc: us
@@ -62,6 +92,19 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 01/11/2011
+  begin: 0:0:0 18/12/2011
+  cc: ru
+  city: Saint Petersburg
+  conf_id: saintperl3
+  continent: Europe
+  country: Russia
+  end: 0:0:0 18/12/2011
+  genre: workshop
+  name: Russian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://event.perlrussia.org/saintperl3/
 - act_open: 0:0:0 25/07/2011
   begin: 0:0:0 12/11/2011
   cc: gb
