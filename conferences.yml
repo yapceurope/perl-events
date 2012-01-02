@@ -41,6 +41,22 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 02/01/2012
+  begin: 0:0:0 14/04/2012
+  cc: us
+  city: 'Baltimore, MD'
+  conf_id: dcbpw2012
+  continent: America
+  cost:
+    - regular: 50 USD
+    - earlybird: 25 USD
+  country: United States
+  end: 0:0:0 14/04/2012
+  genre: workshop
+  name: DC-Baltimore Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://dcbpw.org/dcbpw2012/
 - act_open: 0:0:0 21/11/2011
   begin: 0:0:0 30/03/2012
   cc: fr
