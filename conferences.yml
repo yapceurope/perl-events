@@ -25,13 +25,14 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- begin: 0:0:0 xx/xx/2012
+- act_open: 0:0:0 10/01/2012
+  begin: 0:0:0 20/08/2012
   cc: de
   city: Frankfurt
   conf_id: ye2012
   continent: Europe
   country: Germany
-  end: 0:0:0 xx/xx/2012
+  end: 0:0:0 22/08/2012
   genre: yapc
   languages:
     - English
