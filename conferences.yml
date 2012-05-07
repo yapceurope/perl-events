@@ -25,6 +25,22 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- begin: 0:0:0 27/09/2012
+  cc: jp
+  city: Tokyo
+  conf_id: ya2012
+  continent: Asia
+  country: Japan
+  end: 0:0:0 29/09/2012
+  genre: yapc
+  languages:
+    - Japanase
+  lc:
+    - ja
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://yapcasia.org/ya2012/
 - act_open: 0:0:0 10/01/2012
   begin: 0:0:0 20/08/2012
   cc: de
@@ -48,7 +64,7 @@
   conf_id: yn2012
   continent: America
   country: United States
-  end: 0:0:0 15/06/2011
+  end: 0:0:0 15/06/2012
   genre: yapc
   languages:
     - English
@@ -255,6 +271,22 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/bpw2011/
+- begin: 0:0:0 13/10/2011
+  cc: jp
+  city: Tokyo
+  conf_id: ya2011
+  continent: Asia
+  country: Japan
+  end: 0:0:0 15/10/2011
+  genre: yapc
+  languages:
+    - Japanase
+  lc:
+    - ja
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://yapcasia.org/ya2011/
 - act_open: 0:0:0 02/03/2011
   begin: 0:0:0 08/10/2011
   cc: us
