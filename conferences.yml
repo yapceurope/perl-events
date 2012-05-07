@@ -2704,7 +2704,7 @@
 - begin: 0:0:0 26/03/2005
   cc: tw
   city: Taipei
-  conf_id: ya2005
+  conf_id: ytw2005
   continent: Asia
   country: Taiwan
   end: 0:0:0 27/03/2005
@@ -2917,6 +2917,18 @@
     - de
     - en
   name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- begin: 0:0:0 27/03/2004
+  cc: tw
+  city: Taipei
+  conf_id: ytw2004
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 28/03/2004
+  genre: yapc
+  name: YAPC Taipei
   status: ok
   type: grassroot
   url: ~
