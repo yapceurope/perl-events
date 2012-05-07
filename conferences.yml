@@ -71,6 +71,25 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/ye2012/
+- act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 29/06/2012
+  cc: fr
+  city: Strasbourg
+  conf_id: fpw2012
+  continent: Europe
+  country: France
+  end: 0:0:0 30/06/2012
+  genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://journeesperl.fr/fpw2012/
 - begin: 0:0:0 13/06/2012
   cc: us
   city: 'Madison, WI'
@@ -442,25 +461,6 @@
   theme: Modern Perl
   type: grassroot
   url: http://yapceurope.lv/
-- act_open: 0:0:0 xx/xx/2012
-  begin: 0:0:0 29/06/2011
-  cc: fr
-  city: Strasbourg
-  conf_id: fpw2012
-  continent: Europe
-  country: France
-  end: 0:0:0 30/06/2011
-  genre: workshop
-  languages:
-    - French
-    - English
-  lc:
-    - fr
-    - en
-  name: French Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://journeesperl.fr/fpw2012/
 - act_open: 0:0:0 26/09/2010
   begin: 0:0:0 27/06/2011
   cc: us
