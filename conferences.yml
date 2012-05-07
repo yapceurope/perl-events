@@ -25,6 +25,19 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 19/10/2012
+  cc: br
+  city: São Paulo
+  conf_id: ybr2012
+  continent: America
+  country: Brazil
+  end: 0:0:0 20/10/2012
+  genre: yapc
+  name: YAPC Brasil
+  status: ok
+  type: grassroot
+  url: http://www.yapcbrasil.org.br/2012/
 - begin: 0:0:0 27/09/2012
   cc: jp
   city: Tokyo
@@ -208,6 +221,19 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2011/
+- act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 04/11/2011
+  cc: br
+  city: Rio de Janeiro
+  conf_id: ybr2011
+  continent: America
+  country: Brazil
+  end: 0:0:0 06/11/2011
+  genre: yapc
+  name: YAPC Brasil
+  status: ok
+  type: grassroot
+  url: http://www.yapcbrasil.org.br/2011/
 - act_open: 0:0:0 13/09/2011
   begin: 0:0:0 04/11/2011
   cc: at/sk
@@ -725,6 +751,19 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/apw2010/
+- act_open: 0:0:0 xx/xx/2010
+  begin: 0:0:0 25/10/2010
+  cc: br
+  city: Fortaleza
+  conf_id: ybr2010
+  continent: America
+  country: Brazil
+  end: 0:0:0 31/10/2010
+  genre: yapc
+  name: YAPC Brasil
+  status: ok
+  type: grassroot
+  url: http://www.yapcbrasil.org.br/2010/
 - begin: 0:0:0 15/10/2010
   cc: jp
   city: Tokyo
