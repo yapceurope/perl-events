@@ -26,6 +26,55 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 24/11/2012
+  cc: gb
+  city: London
+  conf_id: lpw2012
+  continent: Europe
+  cost:
+    regular: 0
+  country: United Kingdom
+  end: 0:0:0 24/11/2012
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 xx/10/2012
+  cc: se
+  city: Stockholm
+  conf_id: npw2012
+  continent: Europe
+  country: Sweden
+  end: 0:0:0 xx/10/2012
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/npw2012/
+- act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 xx/10/2012
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2012
+  continent: America
+  country: United States
+  end: 0:0:0 xx/10/2012
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://pghpw.org/
+- act_open: 0:0:0 xx/xx/2012
   begin: 0:0:0 19/10/2012
   cc: br
   city: São Paulo
@@ -38,22 +87,6 @@
   status: ok
   type: grassroot
   url: http://www.yapcbrasil.org.br/2012/
-- begin: 0:0:0 27/09/2012
-  cc: jp
-  city: Tokyo
-  conf_id: ya2012
-  continent: Asia
-  country: Japan
-  end: 0:0:0 29/09/2012
-  genre: yapc
-  languages:
-    - Japanase
-  lc:
-    - ja
-  name: YAPC Asia
-  status: ok
-  type: grassroot
-  url: http://yapcasia.org/ya2012/
 - act_open: 0:0:0 15/05/2012
   begin: 0:0:0 11/10/2012
   cc: it
@@ -73,6 +106,41 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2012/
+- begin: 0:0:0 27/09/2012
+  cc: jp
+  city: Tokyo
+  conf_id: ya2012
+  continent: Asia
+  country: Japan
+  end: 0:0:0 29/09/2012
+  genre: yapc
+  languages:
+    - Japanase
+  lc:
+    - ja
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://yapcasia.org/ya2012/
+- act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 22/09/2012
+  cc: pt
+  city: Lisbon
+  conf_id: ptpw2012
+  continent: Europe
+  country: Portugal
+  end: 0:0:0 23/09/2012
+  genre: workshop
+  languages:
+    - Portuguese
+    - English
+  lc:
+    - pt
+    - en
+  name: Portuguese Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 10/01/2012
   begin: 0:0:0 20/08/2012
   cc: de
@@ -363,7 +431,7 @@
   name: Pittsburgh Perl Workshop
   status: ok
   type: grassroot
-  url: http://pghpw.org/
+  url: http://pghpw.org/ppw2011/
 - begin: 0:0:0 01/10/2011
   cc: ua
   city: Partenit
