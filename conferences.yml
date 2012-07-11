@@ -50,6 +50,9 @@
   city: Stockholm
   conf_id: npw2012
   continent: Europe
+  cost:
+    regular: 50 EUR
+    student: 25 EUR
   country: Sweden
   end: 0:0:0 xx/10/2012
   genre: workshop
@@ -1365,6 +1368,7 @@
   type: grassroot
   url: http://conferences.yapcasia.org/ya2009/
 - act_open: 0:0:0 30/10/2008
+  attendees: 332
   begin: 0:0:0 03/08/2009
   cc: pt
   city: Lisbon
