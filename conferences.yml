@@ -26,6 +26,22 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 07/12/2012
+  cc: fr
+  city: Paris
+  conf_id: qh2012eu
+  continent: Europe
+  country: France
+  end: 0:0:0 09/12/2012
+  languages:
+    - English
+  lc:
+    - en
+  name: Quack and Hack Europe
+  status: ok
+  type: business
+  url: http://act.yapc.eu/qh2012eu/
+- act_open: 0:0:0 xx/xx/2012
   begin: 0:0:0 24/11/2012
   cc: gb
   city: London
@@ -1239,7 +1255,7 @@
     - ru
   name: Kazakh Perl Workshop
   status: ok
-  type: grassroot/
+  type: grassroot
   url: http://event.perl.kz/perlkz1/
 - begin: 0:0:0 25/11/2009
   cc: au
