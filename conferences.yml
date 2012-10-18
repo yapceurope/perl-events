@@ -96,7 +96,7 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/npw2012/
-- act_open: 0:0:0 xx/xx/2012
+- act_open: 0:0:0 10/04/2012
   begin: 0:0:0 xx/10/2012
   cc: us
   city: 'Pittsburgh, PA'
@@ -106,7 +106,7 @@
   end: 0:0:0 xx/10/2012
   genre: workshop
   name: Pittsburgh Perl Workshop
-  status: ok
+  status: canceled
   type: grassroot
   url: http://pghpw.org/
 - begin: 0:0:0 20/10/2012
