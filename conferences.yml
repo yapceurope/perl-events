@@ -25,6 +25,21 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 27/08/2012
+  begin: 0:0:0 xx/02/2013
+  cc: il
+  city: ~
+  conf_id: ilpw2013
+  continent: Asia
+  cost:
+    - regular: 0
+  country: Israel
+  end: 0:0:0 xx/02/2013
+  genre: workshop
+  name: Perl Workshop in Israel
+  status: ok
+  type: grassroot
+  url: http://act.perl.org.il/ilpw2013/
 - act_open: 0:0:0 05/09/2012
   begin: 0:0:0 07/12/2012
   cc: fr
