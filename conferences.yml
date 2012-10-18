@@ -94,6 +94,18 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/
+- begin: 0:0:0 20/10/2012
+  cc: kr
+  city: Seoul
+  conf_id: kpw2012
+  continent: Asia
+  country: Korea
+  end: 0:0:0 20/10/2012
+  genre: workshop
+  name: Korean Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://event.perl.kr/kpw2012/
 - act_open: 0:0:0 xx/xx/2012
   begin: 0:0:0 19/10/2012
   cc: br
