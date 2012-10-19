@@ -77,26 +77,6 @@
   type: grassroot
   url: ~
 - act_open: 0:0:0 10/04/2012
-  begin: 0:0:0 13/10/2012
-  cc: se
-  city: Stockholm
-  conf_id: npw2012
-  continent: Europe
-  cost:
-    regular: 50 EUR
-    student: 25 EUR
-  country: Sweden
-  end: 0:0:0 14/10/2012
-  genre: workshop
-  languages:
-    - English
-  lc:
-    - en
-  name: Nordic Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://act.yapc.eu/npw2012/
-- act_open: 0:0:0 10/04/2012
   begin: 0:0:0 xx/10/2012
   cc: us
   city: 'Pittsburgh, PA'
@@ -134,6 +114,26 @@
   status: ok
   type: grassroot
   url: http://www.yapcbrasil.org.br/2012/
+- act_open: 0:0:0 10/04/2012
+  begin: 0:0:0 13/10/2012
+  cc: se
+  city: Stockholm
+  conf_id: npw2012
+  continent: Europe
+  cost:
+    regular: 50 EUR
+    student: 25 EUR
+  country: Sweden
+  end: 0:0:0 14/10/2012
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/npw2012/
 - act_open: 0:0:0 15/05/2012
   begin: 0:0:0 11/10/2012
   cc: it
