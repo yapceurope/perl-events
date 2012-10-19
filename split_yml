@@ -1,0 +1,21 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+use YAML qw( LoadFile DumpFile );
+use Text::Unidecode;
+
+my $confs = LoadFile('conferences.yml');
+
+for my $conf ( reverse @$confs ) {
+
+    # get the directory name
+    my $dirname = $conf->{name};
+    $dirname = unidecode($dirname);
+    $dirname =~ y! /!_!;
+    mkdir $dirname if !-e $dirname;
+
+    # save the data
+    my $file = "$dirname/$conf->{conf_id}.yml";
+    DumpFile( $file => $conf );
+    print "$conf->{conf_id}\n";
+}
