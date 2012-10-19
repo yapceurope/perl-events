@@ -5,8 +5,9 @@ use YAML qw( LoadFile DumpFile );
 use Text::Unidecode;
 
 my $confs = LoadFile('conferences.yml');
+my %confs;
 
-for my $conf ( reverse @$confs ) {
+for my $conf ( @$confs ) {
 
     # get the directory name
     my $dirname = $conf->{name};
@@ -15,7 +16,10 @@ for my $conf ( reverse @$confs ) {
     mkdir $dirname if !-e $dirname;
 
     # save the data
-    my $file = "$dirname/$conf->{conf_id}.yml";
-    DumpFile( $file => $conf );
+    push @{ $confs{$dirname} }, $conf;
     print "$conf->{conf_id}\n";
+}
+
+for my $conf ( keys %confs ) {
+    DumpFile( "$conf/conferences.yml" => $confs{$conf} );
 }
