@@ -224,7 +224,7 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/2012/
-- act_open: 0:0:0 xx/xx/2012
+- act_open: 0:0:0 17/07/2012
   begin: 0:0:0 22/09/2012
   cc: pt
   city: Lisbon
@@ -242,7 +242,7 @@
   name: Portuguese Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://workshop.perl.pt/ptpw2012/
 - act_open: 0:0:0 25/05/2012
   begin: 0:0:0 26/08/2012
   cc: no
