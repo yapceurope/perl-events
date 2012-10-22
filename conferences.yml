@@ -455,6 +455,18 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl3/
+- begin: 0:0:0 16/11/2011
+  cc: au
+  city: Canberra
+  conf_id: osdc2011au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 18/11/2011
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://2011.osdc.com.au/
 - act_open: 0:0:0 25/07/2011
   begin: 0:0:0 12/11/2011
   cc: gb
