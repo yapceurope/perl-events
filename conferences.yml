@@ -134,6 +134,27 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/npw2012/
+- act_open: 0:0:0 17/07/2012
+  begin: 0:0:0 12/10/2012
+  cc: fr
+  city: Paris
+  conf_id: osdc2012fr
+  continent: Europe
+  country: France
+  end: 0:0:0 13/10/2012
+  genre: osdc
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: OSDC.fr
+  part_of: Open World Forum
+  part_of_url: http://www.openworldforum.org/
+  status: ok
+  type: grassroot
+  url: http://act.osdc.fr/osdc2012fr/
 - act_open: 0:0:0 15/05/2012
   begin: 0:0:0 11/10/2012
   cc: it
