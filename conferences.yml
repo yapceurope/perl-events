@@ -74,6 +74,18 @@
   status: ok
   type: business
   url: http://act.yapc.eu/qh2012eu/
+- begin: 0:0:0 05/12/2012
+  cc: au
+  city: Sydney
+  conf_id: osdc2012au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 07/12/2012
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://2012.osdc.com.au/
 - act_open: 0:0:0 24/05/2012
   begin: 0:0:0 24/11/2012
   cc: gb
