@@ -42,6 +42,25 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 16/10/2012
+  begin: 0:0:0 13/03/2013
+  cc: de
+  city: Berlin
+  conf_id: gpw2013
+  continent: Europe
+  country: Germany
+  end: 0:0:0 15/03/2013
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/gpw2013/
 - act_open: 0:0:0 27/08/2012
   begin: 0:0:0 xx/02/2013
   cc: il
@@ -383,25 +402,6 @@
   status: ok
   type: grassroot
   url: http://2012.qa-hackathon.org/
-- act_open: 0:0:0 16/10/2012
-  begin: 0:0:0 13/03/2012
-  cc: de
-  city: Berlin
-  conf_id: gpw2013
-  continent: Europe
-  country: Germany
-  end: 0:0:0 15/03/2012
-  genre: workshop
-  languages:
-    - German
-    - English
-  lc:
-    - de
-    - en
-  name: German Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://act.yapc.eu/gpw2013/
 - act_open: 0:0:0 12/07/2011
   begin: 0:0:0 05/03/2012
   cc: de
