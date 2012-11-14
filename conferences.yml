@@ -62,7 +62,7 @@
   type: grassroot
   url: http://act.yapc.eu/gpw2013/
 - act_open: 0:0:0 27/08/2012
-  begin: 0:0:0 xx/02/2013
+  begin: 0:0:0 24/02/2013
   cc: il
   city: Ramat Gan
   conf_id: ilpw2013
@@ -70,7 +70,7 @@
   cost:
     - regular: 0
   country: Israel
-  end: 0:0:0 xx/02/2013
+  end: 0:0:0 25/02/2013
   genre: workshop
   name: Perl Workshop in Israel
   status: ok
