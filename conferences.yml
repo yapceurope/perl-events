@@ -1,13 +1,13 @@
 # Perl conferences information
-# Gathered by Philippe Bruhat (BooK)
+# Gathered by Philippe Bruhat (BooK) <book@cpan.org>
 # Free to use, don't forget to give credit/link back
-# Send patches to <book@cpan.org>
+# Patches to http://github.com/yacpeurope/perl-events/
 #
 # Fields:
 # - act_open: date of opening of the Act conference website
 # - attendees: number of attendees
 # - begin: beginning date of the conference
-# - cc: country code (isoi 3166)
+# - cc: country code (iso 3166)
 # - city: city name (optional region/state)
 # - conf_id: Act-like conference id
 # - continent: continent name, in a 5 continents world view 
