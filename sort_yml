@@ -1,0 +1,52 @@
+#!/usr/bin/env perl
+use strict;
+use warnings;
+use YAML qw( LoadFile Dump );
+
+my $file = shift || 'conferences.yml' ;
+my $confs = LoadFile( $file );
+
+my %seen;
+my %cache = map {
+    $seen{$_->{conf_id}}++;
+    $_->{begin} =~ /(\d\d|xx).(\d\d|xx).(\d\d\d\d)$/;
+    $_->{conf_id} => "$3-$2-$1";
+} @$confs;
+
+my @dupes = grep { $seen{$_} > 1 } keys %seen;
+die "duplicates @dupes" if @dupes;
+
+@$confs = sort { $cache{$b->{conf_id}} cmp $cache{$a->{conf_id}} } @$confs;
+
+open my $fh, '>', $file or die "Can't open file $file: $!";
+
+print $fh '', << 'HEADER';
+# Perl conferences information
+# Gathered by Philippe Bruhat (BooK)
+# Free to use, don't forget to give credit/link back
+# Send patches to <book@cpan.org>
+#
+# Fields:
+# - act_open: date of opening of the Act conference website
+# - attendees: number of attendees
+# - begin: beginning date of the conference
+# - cc: country code (isoi 3166)
+# - city: city name (optional region/state)
+# - conf_id: Act-like conference id
+# - continent: continent name, in a 5 continents world view 
+# - cost: hash indexed by price name
+# - country: country name
+# - end: end date of the conference
+# - genre: workshop | hackathon | yapc | osdc
+# - languages: languages of the conference list
+# - lc: language codes of the conference (iso 639)
+# - name: conference name
+# - nickname: conference nickname
+# - part_of: larger conference this conference was part of
+# - status: ok | canceled | unknown
+# - theme: theme of the conference
+# - type: grassroot | business
+# - url: main conference website
+HEADER
+ 
+print $fh Dump( $confs );

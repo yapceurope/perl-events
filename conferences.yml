@@ -1,13 +1,13 @@
 # Perl conferences information
-# Gathered by Philippe Bruhat (BooK)
+# Gathered by Philippe Bruhat (BooK) <book@cpan.org>
 # Free to use, don't forget to give credit/link back
-# Send patches to <book@cpan.org>
+# Patches to http://github.com/yacpeurope/perl-events/
 #
 # Fields:
 # - act_open: date of opening of the Act conference website
 # - attendees: number of attendees
 # - begin: beginning date of the conference
-# - cc: country code (isoi 3166)
+# - cc: country code (iso 3166)
 # - city: city name (optional region/state)
 # - conf_id: Act-like conference id
 # - continent: continent name, in a 5 continents world view 
@@ -25,8 +25,44 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 xx/01/2013
+  begin: 0:0:0 xx/08/2013
+  cc: ua
+  city: Kiev
+  conf_id: ye2013
+  continent: Europe
+  country: Ukraine
+  end: 0:0:0 xx/08/2013
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC Europe
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 16/10/2012
+  begin: 0:0:0 13/03/2013
+  cc: de
+  city: Berlin
+  conf_id: gpw2013
+  continent: Europe
+  country: Germany
+  end: 0:0:0 15/03/2013
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/gpw2013/
 - act_open: 0:0:0 27/08/2012
-  begin: 0:0:0 xx/02/2013
+  begin: 0:0:0 24/02/2013
   cc: il
   city: Ramat Gan
   conf_id: ilpw2013
@@ -34,7 +70,7 @@
   cost:
     - regular: 0
   country: Israel
-  end: 0:0:0 xx/02/2013
+  end: 0:0:0 25/02/2013
   genre: workshop
   name: Perl Workshop in Israel
   status: ok
@@ -57,6 +93,18 @@
   status: ok
   type: business
   url: http://act.yapc.eu/qh2012eu/
+- begin: 0:0:0 05/12/2012
+  cc: au
+  city: Sydney
+  conf_id: osdc2012au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 07/12/2012
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://2012.osdc.com.au/
 - act_open: 0:0:0 24/05/2012
   begin: 0:0:0 24/11/2012
   cc: gb
@@ -75,7 +123,24 @@
   name: London Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.yapc.eu/lpw2012/
+- act_open: 0:0:0 05/09/2012
+  begin: 0:0:0 16/11/2012
+  cc: at
+  city: Vienna
+  conf_id: apw2012
+  continent: Europe
+  country: Austria
+  end: 0:0:0 17/11/2012
+  genre: workshop
+  languages:
+    - German
+  lc:
+    - de
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://2012.useperl.at/apw2012/
 - act_open: 0:0:0 10/04/2012
   begin: 0:0:0 xx/10/2012
   cc: us
@@ -134,6 +199,27 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/npw2012/
+- act_open: 0:0:0 17/07/2012
+  begin: 0:0:0 12/10/2012
+  cc: fr
+  city: Paris
+  conf_id: osdc2012fr
+  continent: Europe
+  country: France
+  end: 0:0:0 13/10/2012
+  genre: osdc
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: OSDC.fr
+  part_of: Open World Forum
+  part_of_url: http://www.openworldforum.org/
+  status: ok
+  type: grassroot
+  url: http://act.osdc.fr/osdc2012fr/
 - act_open: 0:0:0 15/05/2012
   begin: 0:0:0 11/10/2012
   cc: it
@@ -169,7 +255,7 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/2012/
-- act_open: 0:0:0 xx/xx/2012
+- act_open: 0:0:0 17/07/2012
   begin: 0:0:0 22/09/2012
   cc: pt
   city: Lisbon
@@ -187,7 +273,7 @@
   name: Portuguese Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://workshop.perl.pt/ptpw2012/
 - act_open: 0:0:0 25/05/2012
   begin: 0:0:0 26/08/2012
   cc: no
@@ -218,6 +304,19 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/ye2012/
+- act_open: 0:0:0 25/03/2012
+  begin: 0:0:0 30/06/2012
+  cc: us
+  city: 'Paoli, PA'
+  conf_id: qh2012
+  continent: America
+  country: United States
+  end: 0:0:0 01/07/2012
+  genre: workshop
+  name: Quack and Hack
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/qh2012/
 - act_open: 0:0:0 01/03/2012
   begin: 0:0:0 29/06/2012
   cc: fr
@@ -303,25 +402,6 @@
   status: ok
   type: grassroot
   url: http://2012.qa-hackathon.org/
-- act_open: 0:0:0 16/10/2012
-  begin: 0:0:0 13/03/2012
-  cc: de
-  city: Berlin
-  conf_id: gpw2013
-  continent: Europe
-  country: Germany
-  end: 0:0:0 15/03/2012
-  genre: workshop
-  languages:
-    - German
-    - English
-  lc:
-    - de
-    - en
-  name: German Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://act.yapc.eu/gpw2013/
 - act_open: 0:0:0 12/07/2011
   begin: 0:0:0 05/03/2012
   cc: de
@@ -387,6 +467,18 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl3/
+- begin: 0:0:0 16/11/2011
+  cc: au
+  city: Canberra
+  conf_id: osdc2011au
+  continent: Oceania
+  country: Australia
+  end: 0:0:0 18/11/2011
+  genre: osdc
+  name: OSDC.au
+  status: ok
+  type: grassroot
+  url: http://2011.osdc.com.au/
 - act_open: 0:0:0 25/07/2011
   begin: 0:0:0 12/11/2011
   cc: gb
@@ -681,7 +773,7 @@
   url: http://conferences.yapceurope.org/npw2011/
 - begin: 0:0:0 07/05/2011
   cc: br
-  city: Saõ paulo
+  city: São paulo
   conf_id: sppw2011
   continent: America
   country: Brazil
@@ -1781,7 +1873,7 @@
   url: http://conference.perlchina.org/bjpw2008/
 - act_open: 0:0:0 05/09/2008
   begin: 0:0:0 07/11/2008
-  cc: at/sl
+  cc: at/sk
   city: Vienna/Bratislava
   conf_id: tcpw2008
   continent: Europe
