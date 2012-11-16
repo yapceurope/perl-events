@@ -1,0 +1,61 @@
+#!/usr/bin/env perl
+use strict;
+use warnings;
+use YAML qw( LoadFile Dump );
+
+my $file = shift || 'conferences.yml' ;
+
+my @all;
+my %source;
+
+for my $dir ( grep $_ ne 'bin', grep -d, glob '*' ) {
+    my $confs = LoadFile( "$dir/conferences.yml");
+
+    # keep track of conf_id source
+    exists $source{$_} and die "conf_id $_ already defined in $source{$_}"
+        for map $_->{conf_id}, @$confs;
+
+    # add the conferences to the global list
+    push @all, @$confs;
+}
+
+# save the merged file
+my %cache = map {
+    $_->{begin} =~ /(\d\d|xx).(\d\d|xx).(\d\d\d\d)$/;
+    $_->{conf_id} => "$3-$2-$1";
+} @all;
+
+@all = sort { $cache{$b->{conf_id}} cmp $cache{$a->{conf_id}} || $b->{conf_id} cmp $a->{conf_id} } @all;
+
+open my $fh, '>', $file or die "Can't open file $file: $!";
+print $fh '', << 'HEADER';
+# Perl conferences information
+# Gathered by Philippe Bruhat (BooK) <book@cpan.org>
+# Free to use, don't forget to give credit/link back
+# Patches to http://github.com/yacpeurope/perl-events/
+#
+# Fields:
+# - act_open: date of opening of the Act conference website
+# - attendees: number of attendees
+# - begin: beginning date of the conference
+# - cc: country code (iso 3166)
+# - city: city name (optional region/state)
+# - conf_id: Act-like conference id
+# - continent: continent name, in a 5 continents world view 
+# - cost: hash indexed by price name
+# - country: country name
+# - end: end date of the conference
+# - genre: workshop | hackathon | yapc | osdc
+# - languages: languages of the conference list
+# - lc: language codes of the conference (iso 639)
+# - name: conference name
+# - nickname: conference nickname
+# - part_of: larger conference this conference was part of
+# - status: ok | canceled | unknown
+# - theme: theme of the conference
+# - type: grassroot | business
+# - url: main conference website
+HEADER
+ 
+print $fh Dump( \@all );
+
