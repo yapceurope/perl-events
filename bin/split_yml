@@ -7,19 +7,66 @@ use Text::Unidecode;
 my $confs = LoadFile('conferences.yml');
 my %confs;
 
-for my $conf ( @$confs ) {
+# normalization regexp
+my %regexp = (
+    'YAPC'          => [qr/YAPC (.*)/],
+    'OSDC'          => [qr/OSDC.(.*)/],
+    'Perl Workshop' => [
+        qr/(.*) Perl Workshop/,
+        qr/Perl Workshop (.*)/,
+        qr/Perl (.*)/,
+        qr/(.*) Perl/
+    ],
+    'Hackathon' => [
+        qr/(Perl 6) Hackathon/,
+        qr/(.*) Perl Hackathon/,
+        qr/(QA) Hackathon/,
+        qr/(.*) Hackathon/
+    ],
+    'Quack and Hack' => [qr/Quack and Hack (.*)/],
+    'Conference'     => [qr/(.*) Conference/],
+);
+
+my %exception = (
+    'Oslo Perl 6/Enlightened Perl' => 'Hackathon/Perl_6',
+    'Perl 6 Discovery Workshop'    => 'Perl_Workshop/Perl_6_Discovery',
+);
+
+sub dir_from_name {
+    my ($name) = @_;
+    $name = unidecode($name);
+    my $type
+        = $name =~ /(Perl Workshop|YAPC|Hackathon|OSDC|Quack and Hack)/ ? $1
+        : $name =~ /Perl.*Workshop/ ? 'Perl Workshop'
+        : $name =~ /Perl/           ? 'Perl Workshop'
+        :                             'Conference';
+    my $subtype;
+    for my $re ( @{ $regexp{$type} || [] } ) {
+        ($subtype) = $name =~ /$re/g;
+        last if $subtype;
+    }
+    $subtype ||= 'Conference';
+    y! /!_! for $type, $subtype;
+
+    my $dirname = "$type/$subtype";
+    return $dirname;
+}
+
+for my $conf (@$confs) {
 
     # get the directory name
-    my $dirname = $conf->{name};
-    $dirname = unidecode($dirname);
-    $dirname =~ y! /!_!;
-    mkdir $dirname if !-e $dirname;
+    my $dirname = $exception{ $conf->{name} }
+        || dir_from_name( $conf->{name} );
+    print "$conf->{name} => $dirname\n";
+
+    #    mkdir $dirname if !-e $dirname;
 
     # save the data
     push @{ $confs{$dirname} }, $conf;
-    print "$conf->{conf_id}\n";
 }
 
 for my $conf ( keys %confs ) {
-    DumpFile( "$conf/conferences.yml" => $confs{$conf} );
+
+    #    DumpFile( "$conf/conferences.yml" => $confs{$conf} );
 }
+
