@@ -25,14 +25,14 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_open: 0:0:0 xx/01/2013
-  begin: 0:0:0 xx/08/2013
+- act_open: 0:0:0 21/12/2012
+  begin: 0:0:0 12/08/2013
   cc: ua
   city: Kiev
   conf_id: ye2013
   continent: Europe
   country: Ukraine
-  end: 0:0:0 xx/08/2013
+  end: 0:0:0 14/08/2013
   genre: yapc
   languages:
     - English
