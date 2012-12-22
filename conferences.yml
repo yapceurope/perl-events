@@ -76,6 +76,24 @@
   status: ok
   type: grassroot
   url: http://act.perl.org.il/ilpw2013/
+- act_open: 0:0:0 29/11/2012
+  begin: 0:0:0 11/01/2013
+  cc: us
+  city: 'Orlando, FL'
+  conf_id: opw2013
+  continent: America
+  country: United States
+  end: 0:0:0 13/01/2013
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Orlando Perl Workshop
+  nickname: The Perl Oasis
+  status: ok
+  type: grassroot
+  url: http://www.perloasis.info/opw2013/
 - act_open: 0:0:0 05/09/2012
   begin: 0:0:0 07/12/2012
   cc: fr
