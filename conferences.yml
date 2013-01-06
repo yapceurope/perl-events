@@ -75,8 +75,9 @@
     - en
   name: YAPC Europe
   status: ok
+  theme: Future Perl
   type: grassroot
-  url: ~
+  url: http://yapc.eu/2013
 - act_open: 0:0:0 16/10/2012
   begin: 0:0:0 13/03/2013
   cc: de
