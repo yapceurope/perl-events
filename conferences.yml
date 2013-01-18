@@ -77,6 +77,21 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 23/12/2012
+  begin: 0:0:0 12/04/2013
+  cc: uk
+  city: ~
+  conf_id: qa2013
+  continent: Europe
+  cost:
+    - regular: 0
+  country: France
+  end: 0:0:0 14/04/2013
+  genre: hackathon
+  name: QA Hackathon
+  status: ok
+  type: grassroot
+  url: http://2013.qa-hackathon.org/
 - act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 22/03/2013
   cc: ch
