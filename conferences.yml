@@ -61,13 +61,14 @@
   theme: Future Perl
   type: grassroot
   url: http://yapc.eu/2013
-- begin: 0:0:0 03/06/2013
+- act_open: 0:0:0 29/12/2012
+  begin: 0:0:0 03/06/2013
   cc: us
   city: 'Austin, TX'
   conf_id: yn2013
   continent: America
   country: United States
-  end: 0:0:0 07/06/2013
+  end: 0:0:0 05/06/2013
   genre: yapc
   languages:
     - English
@@ -76,7 +77,7 @@
   name: YAPC North America
   status: ok
   type: grassroot
-  url: ~
+  url: http://www.yapcna.org/yn2013/
 - act_open: 0:0:0 23/12/2012
   begin: 0:0:0 12/04/2013
   cc: uk
