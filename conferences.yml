@@ -43,25 +43,6 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/2013
-  begin: 0:0:0 xx/xx/2013
-  cc: nl
-  city: ~
-  conf_id: nlpw2013
-  continent: Europe
-  country: Netherlands
-  end: 0:0:0 xx/xx/2013
-  genre: workshop
-  languages:
-    - Dutch
-    - English
-  lc:
-    - nl
-    - en
-  name: Dutch Perl Workshop
-  status: ok
-  type: grassroot
-  url: ~
 - act_open: 0:0:0 21/12/2012
   begin: 0:0:0 12/08/2013
   cc: ua
@@ -114,6 +95,25 @@
   status: ok
   type: grassroot
   url: http://dcbpw.org/dcbpw2013/
+- act_open: 0:0:0 28/01/2013
+  begin: 0:0:0 19/04/2013
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2013
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 19/04/2013
+  genre: workshop
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/nlpw2013/
 - act_open: 0:0:0 23/12/2012
   begin: 0:0:0 12/04/2013
   cc: uk
