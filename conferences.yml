@@ -79,6 +79,25 @@
   theme: 25 Years of Perl
   type: grassroot
   url: http://www.yapcna.org/yn2013/
+- act_open: 0:0:0 xx/xx/2013
+  begin: 0:0:0 27/05/2013
+  cc: pl
+  city: Warsaw
+  conf_id: plpw2013
+  continent: Europe
+  country: Poland
+  end: 0:0:0 28/05/2013
+  genre: workshop
+  languages:
+    - English
+    - Polish
+  lc:
+    - en
+    - pl
+  name: Polish Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 22/01/2013
   begin: 0:0:0 20/04/2013
   cc: us
