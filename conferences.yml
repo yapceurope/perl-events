@@ -1390,7 +1390,7 @@
   name: OSDC.tw
   status: ok
   type: grassroot
-  url: http://www.osdc.tw/
+  url: ~
 - act_open: 0:0:0 22/01/2010
   begin: 0:0:0 10/04/2010
   cc: at
@@ -1814,7 +1814,7 @@
   name: OSDC.tw
   status: ok
   type: grassroot
-  url: http://www.osdc.tw/
+  url: ~
 - act_open: 0:0:0 30/10/2008
   begin: 0:0:0 17/04/2009
   cc: no
@@ -2349,7 +2349,7 @@
   name: OSDC.tw
   status: ok
   type: grassroot
-  url: http://www.osdc.tw/
+  url: ~
 - begin: 0:0:0 05/04/2008
   cc: no
   city: Oslo
@@ -2662,7 +2662,7 @@
   name: OSDC.tw
   status: ok
   type: grassroot
-  url: http://www.osdc.tw/osdc2007/en/
+  url: ~
 - begin: 0:0:0 11/04/2007
   cc: br
   city: Porto Alegre
