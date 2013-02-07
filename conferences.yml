@@ -114,6 +114,18 @@
   status: ok
   type: grassroot
   url: http://dcbpw.org/dcbpw2013/
+- begin: 0:0:0 19/04/2013
+  cc: tw
+  city: Taipei
+  conf_id: osdc2013tw
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 20/04/2013
+  genre: osdc
+  name: OSDC.tw
+  status: ok
+  type: grassroot
+  url: http://www.osdc.tw/
 - act_open: 0:0:0 28/01/2013
   begin: 0:0:0 19/04/2013
   cc: nl
