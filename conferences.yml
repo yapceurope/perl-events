@@ -520,6 +520,18 @@
   status: ok
   type: grassroot
   url: http://yapcna.org/ye2012
+- begin: 0:0:0 14/04/2012
+  cc: tw
+  city: Taipei
+  conf_id: osdc2012tw
+  continent: Asia
+  country: Taiwan
+  end: 0:0:0 15/04/2012
+  genre: osdc
+  name: OSDC.tw
+  status: ok
+  type: grassroot
+  url: http://www.osdc.tw/2012/
 - act_open: 0:0:0 04/01/2012
   begin: 0:0:0 14/04/2012
   cc: nl
