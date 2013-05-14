@@ -18,7 +18,7 @@ die "duplicates @dupes" if @dupes;
 
 @$confs = sort { $cache{$b->{conf_id}} cmp $cache{$a->{conf_id}} } @$confs;
 
-open my $fh, '>', $file or die "Can't open file $file: $!";
+open my $fh, '>:utf8', $file or die "Can't open file $file: $!";
 
 print $fh '', << 'HEADER';
 # Perl conferences information
