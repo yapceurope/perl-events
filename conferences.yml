@@ -61,6 +61,25 @@
   theme: Future Perl
   type: grassroot
   url: http://yapc.eu/2013
+- act_open: 0:0:0 19/02/2013
+  begin: 0:0:0 14/06/2013
+  cc: fr
+  city: Nancy
+  conf_id: fpw2013
+  continent: Europe
+  country: France
+  end: 0:0:0 15/06/2013
+  genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://journeesperl.fr/fpw2013/
 - act_open: 0:0:0 29/12/2012
   begin: 0:0:0 03/06/2013
   cc: us
