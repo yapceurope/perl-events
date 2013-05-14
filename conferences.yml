@@ -43,6 +43,27 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 02/05/2013
+  begin: 0:0:0 04/10/2013
+  cc: fr
+  city: Paris
+  conf_id: osdc2013fr
+  continent: Europe
+  country: France
+  end: 0:0:0 05/10/2013
+  genre: osdc
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: OSDC.fr
+  part_of: Open World Forum
+  part_of_url: http://www.openworldforum.org/
+  status: ok
+  type: grassroot
+  url: http://act.osdc.fr/osdc2013fr/
 - act_open: 0:0:0 21/12/2012
   begin: 0:0:0 12/08/2013
   cc: ua
