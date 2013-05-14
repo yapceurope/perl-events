@@ -26,6 +26,25 @@
 # - url: main conference website
 ---
 - act_open: 0:0:0 xx/xx/2013
+  begin: 0:0:0 26/03/2014
+  cc: de
+  city: Hannover
+  conf_id: gpw2014
+  continent: Europe
+  country: Germany
+  end: 0:0:0 28/03/2014
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 xx/01/2014
   cc: us
   city: 'Orlando, FL'
