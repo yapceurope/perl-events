@@ -25,7 +25,7 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_open: 0:0:0 xx/xx/2013
+- act_open: 0:0:0 23/05/2013
   begin: 0:0:0 26/03/2014
   cc: de
   city: Hannover
@@ -43,7 +43,7 @@
   name: German Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.yapc.eu/gpw2013/
 - act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 xx/01/2014
   cc: us
