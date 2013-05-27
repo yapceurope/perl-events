@@ -102,6 +102,22 @@
   status: ok
   type: grassroot
   url: http://act.osdc.fr/osdc2013fr/
+- begin: 0:0:0 19/09/2013
+  cc: jp
+  city: Tokyo
+  conf_id: ya2013
+  continent: Asia
+  country: Japan
+  end: 0:0:0 21/09/2013
+  genre: yapc
+  languages:
+    - Japanase
+  lc:
+    - ja
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://yapcasia.org/2013/
 - act_open: 0:0:0 21/12/2012
   begin: 0:0:0 12/08/2013
   cc: ua
