@@ -136,19 +136,19 @@
   theme: Future Perl
   type: grassroot
   url: http://yapc.eu/2013
-- act_open: 0:0:0 xx/xx/2013
-  begin: 0:0:0 06/07/2013
+- act_open: 0:0:0 31/05/2013
+  begin: 0:0:0 10/08/2013
   cc: cn
   city: Beijing
   conf_id: bjpw2013
   continent: Asia
   country: China
-  end: 0:0:0 07/07/2013
+  end: 0:0:0 10/08/2013
   genre: workshop
   name: Beijing Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://conference.perlchina.org/bjpw2013/
 - act_open: 0:0:0 19/02/2013
   begin: 0:0:0 14/06/2013
   cc: fr
