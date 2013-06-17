@@ -164,6 +164,22 @@
   status: ok
   type: grassroot
   url: http://conference.perlchina.org/bjpw2013/
+- act_open: 0:0:0 xx/xx/2013
+  begin: 0:0:0 26/07/2013
+  cc: fr
+  city: Paris
+  conf_id: p0
+  continent: Europe
+  cost:
+    - regular: 0
+  country: France
+  end: 0:0:0 28/07/2013
+  genre: hackathon
+  name: French Perl Hackathon
+  nickname: patch -p0
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 19/02/2013
   begin: 0:0:0 14/06/2013
   cc: fr
