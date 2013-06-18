@@ -96,6 +96,25 @@
   url: ~
 - act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 xx/xx/2013
+  cc: gb
+  city: London
+  conf_id: lpw2013
+  continent: Europe
+  cost:
+    regular: 0
+  country: United Kingdom
+  end: 0:0:0 xx/xx/2013
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2013
+  begin: 0:0:0 xx/xx/2013
   cc: pt
   city: Braga
   conf_id: ptpw2013
