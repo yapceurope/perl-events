@@ -40,6 +40,23 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/2013
+  begin: 0:0:0 21/06/2014
+  cc: us
+  city: 'Orlando, FL'
+  conf_id: yn2014
+  continent: America
+  country: United States
+  end: 0:0:0 27/06/2014
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 23/05/2013
   begin: 0:0:0 26/03/2014
   cc: de
