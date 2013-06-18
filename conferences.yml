@@ -132,6 +132,19 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/2013
+  begin: 0:0:0 xx/10/2013
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2013
+  continent: America
+  country: United States
+  end: 0:0:0 xx/10/2013
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: canceled
+  type: grassroot
+  url: http://pghpw.org/
 - act_open: 0:0:0 02/05/2013
   begin: 0:0:0 04/10/2013
   cc: fr
