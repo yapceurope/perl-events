@@ -228,7 +228,7 @@
   nickname: patch -p0
   status: ok
   type: grassroot
-  url: ~
+  url: http://patch.pm/p0/
 - act_open: 0:0:0 19/02/2013
   begin: 0:0:0 14/06/2013
   cc: fr
