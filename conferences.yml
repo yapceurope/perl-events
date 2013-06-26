@@ -1271,6 +1271,8 @@
   city: Sofia
   conf_id: sofia2011
   continent: Europe
+  cost:
+    regular: 0
   country: Bulgaria
   end: 0:0:0 26/02/2011
   genre: workshop
@@ -1281,7 +1283,7 @@
     - bg
     - en
   name: Bulgarian Perl Workshop
-  nickname: 'BG Perl - 2'
+  nickname: BG Perl
   status: ok
   type: grassroot
   url: http://2011.perlbulgaria.org/sofia2011/
@@ -2218,6 +2220,8 @@
   city: Sofia
   conf_id: sofia2009
   continent: Europe
+  cost:
+    regular: 0
   country: Bulgaria
   end: 0:0:0 31/01/2009
   genre: workshop
