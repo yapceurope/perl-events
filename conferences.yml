@@ -413,6 +413,28 @@
   status: ok
   type: grassroot
   url: http://act.perl.org.il/ilpw2013/
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 09/02/2013
+  cc: bg
+  city: Sofia
+  conf_id: sofia2013
+  continent: Europe
+  cost:
+    regular: 0
+  country: Bulgaria
+  end: 0:0:0 09/02/2013
+  genre: workshop
+  languages:
+    - Bulgarian
+    - English
+  lc:
+    - bg
+    - en
+  name: Bulgarian Perl Workshop
+  nickname: BG Perl
+  status: ok
+  type: grassroot
+  url: http://2013.perlbulgaria.org/sofia2013/
 - act_open: 0:0:0 29/11/2012
   begin: 0:0:0 11/01/2013
   cc: us
