@@ -769,6 +769,28 @@
   status: ok
   type: grassroot
   url: http://2012.qa-hackathon.org/
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 10/03/2012
+  cc: bg
+  city: Sofia
+  conf_id: sofia2012
+  continent: Europe
+  cost:
+    regular: 0
+  country: Bulgaria
+  end: 0:0:0 10/03/2012
+  genre: workshop
+  languages:
+    - Bulgarian
+    - English
+  lc:
+    - bg
+    - en
+  name: Bulgarian Perl Workshop
+  nickname: BG Perl
+  status: ok
+  type: grassroot
+  url: http://2012.perlbulgaria.org/sofia2012/
 - act_open: 0:0:0 12/07/2011
   begin: 0:0:0 05/03/2012
   cc: de
