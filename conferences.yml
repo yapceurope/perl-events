@@ -1234,6 +1234,24 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 xx/xx/xxx
+  begin: 0:0:0 02/04/2011
+  cc: ru
+  city: Ekaterinburg
+  conf_id: perlburg2011
+  continent: Europe
+  country: Russia
+  end: 0:0:0 02/04/2011
+  genre: workshop
+  languages:
+    - Russian
+  lc:
+    - ru
+  name: Russian Perl Workshop
+  nickname: Perlburg
+  status: ok
+  type: grassroot
+  url: http://event.yapcrussia.org/perlburg2/
 - begin: 0:0:0 26/03/2011
   cc: tw
   city: Taipei
