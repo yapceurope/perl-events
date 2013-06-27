@@ -455,13 +455,13 @@
   type: grassroot
   url: http://www.perloasis.info/opw2013/
 - act_open: 0:0:0 xx/xx/xxx
-  begin: 0:0:0 02/18/2012
+  begin: 0:0:0 18/02/2012
   cc: ru
   city: Ekaterinburg
   conf_id: perlburg2012
   continent: Europe
   country: Russia
-  end: 0:0:0 02/18/2012
+  end: 0:0:0 18/02/2012
   genre: workshop
   languages:
     - Russian
