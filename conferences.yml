@@ -453,6 +453,24 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/opw2013/
+- act_open: 0:0:0 xx/xx/xxx
+  begin: 0:0:0 02/18/2012
+  cc: ru
+  city: Ekaterinburg
+  conf_id: perlburg2012
+  continent: Europe
+  country: Russia
+  end: 0:0:0 02/18/2012
+  genre: workshop
+  languages:
+    - Russian
+  lc:
+    - ru
+  name: Russian Perl Workshop
+  nickname: Perlburg
+  status: ok
+  type: grassroot
+  url: http://event.perlrussia.org/perlburg3/
 - act_open: 0:0:0 05/09/2012
   begin: 0:0:0 07/12/2012
   cc: fr
