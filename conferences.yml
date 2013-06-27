@@ -1732,7 +1732,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2010/
-- begin: 0:0:0 20/02/2010
+- act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 20/02/2010
   cc: ru
   city: Ekaterinburg
   conf_id: perlburg2010
