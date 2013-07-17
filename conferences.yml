@@ -94,8 +94,8 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/2013
-  begin: 0:0:0 xx/xx/2013
+- act_open: 0:0:0 25/06/2013
+  begin: 0:0:0 30/11/2013
   cc: gb
   city: London
   conf_id: lpw2013
@@ -103,7 +103,7 @@
   cost:
     regular: 0
   country: United Kingdom
-  end: 0:0:0 xx/xx/2013
+  end: 0:0:0 30/11/2013
   genre: workshop
   languages:
     - English
