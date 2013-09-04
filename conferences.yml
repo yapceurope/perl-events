@@ -113,6 +113,22 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2013/
+- begin: 0:0:0 21/10/2013
+  cc: nz
+  city: Auckland
+  conf_id: osdc2013nz
+  continent: Oceania
+  country: New Zealand
+  end: 0:0:0 23/10/2013
+  genre: osdc
+  languages:
+    - English
+  lc:
+    - en
+  name: OSDC.nz
+  status: ok
+  type: grassroot
+  url: http://osdc.org.nz/
 - act_open: 0:0:0 02/09/2013
   begin: 0:0:0 09/10/2013
   cc: pt
