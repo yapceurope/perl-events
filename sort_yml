@@ -33,7 +33,7 @@ print $fh '', << 'HEADER';
 # - cc: country code (iso 3166)
 # - city: city name (optional region/state)
 # - conf_id: Act-like conference id
-# - continent: continent name, in a 5 continents world view 
+# - continent: continent name, in a 5 continents world view
 # - cost: hash indexed by price name
 # - country: country name
 # - end: end date of the conference
