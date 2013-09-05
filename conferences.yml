@@ -40,6 +40,21 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 22/08/2013
+  begin: 0:0:0 08/10/2014
+  cc: us
+  city: 'Hancock, NY'
+  conf_id: eic2013
+  continent: America
+  cost:
+    - regular: 0
+  country: United States
+  end: 0:0:0 11/10/2013
+  genre: workshop
+  name: eCommerce Innovation
+  status: ok
+  type: business
+  url: http://act.ecommerce-innovation.com/eic2013/
 - act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 21/06/2014
   cc: us
