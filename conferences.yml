@@ -125,6 +125,23 @@
   status: ok
   type: grassroot
   url: http://2013.yapcbrasil.org.br/
+- act_open: 0:0:0 13/09/2013
+  begin: 0:0:0 02/11/2013
+  cc: at
+  city: Salzburg
+  conf_id: apw2013
+  continent: Europe
+  country: Austria
+  end: 0:0:0 03/11/2013
+  genre: workshop
+  languages:
+    - German
+  lc:
+    - de
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.useperl.at/apw2013/
 - begin: 0:0:0 21/10/2013
   cc: nz
   city: Auckland
