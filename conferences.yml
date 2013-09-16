@@ -113,6 +113,22 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2013/
+- act_open: 0:0:0 15/09/2013
+  begin: 0:0:0 22/11/2013
+  cc: fr
+  city: Paris
+  conf_id: p1
+  continent: Europe
+  cost:
+    - regular: 0
+  country: France
+  end: 0:0:0 22/11/2013
+  genre: hackathon
+  name: French Perl Hackathon
+  nickname: patch -p1
+  status: ok
+  type: grassroot
+  url: http://patch.pm/p1/
 - begin: 0:0:0 15/11/2013
   cc: br
   city: Curitiba
