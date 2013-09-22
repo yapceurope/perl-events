@@ -242,7 +242,8 @@
   status: ok
   type: grassroot
   url: http://act.osdc.fr/osdc2013fr/
-- begin: 0:0:0 19/09/2013
+- attendees: 1131
+  begin: 0:0:0 19/09/2013
   cc: jp
   city: Tokyo
   conf_id: ya2013
