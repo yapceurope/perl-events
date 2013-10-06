@@ -113,6 +113,26 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2013/
+- act_open: 0:0:0 02/10/2013
+  begin: 0:0:0 23/11/2013
+  cc: dk
+  city: Copenhagen
+  conf_id: npw2013
+  continent: Europe
+  cost:
+    regular: 50 EUR
+    student: 25 EUR
+  country: Denmark
+  end: 0:0:0 23/11/2013
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/npw2013/
 - act_open: 0:0:0 15/09/2013
   begin: 0:0:0 22/11/2013
   cc: fr
