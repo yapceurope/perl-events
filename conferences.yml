@@ -195,13 +195,13 @@
   type: grassroot
   url: http://osdc.org.nz/
 - act_open: 0:0:0 02/09/2013
-  begin: 0:0:0 09/10/2013
+  begin: 0:0:0 24/10/2013
   cc: pt
   city: Lisbon
   conf_id: ptpw2013
   continent: Europe
   country: Portugal
-  end: 0:0:0 10/10/2013
+  end: 0:0:0 25/10/2013
   genre: workshop
   languages:
     - Portuguese
