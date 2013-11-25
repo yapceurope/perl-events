@@ -25,6 +25,23 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 xx/xx/2014
+  begin: 0:0:0 xx/xx/2014
+  cc: bg
+  city: Sofia
+  conf_id: ye2014
+  continent: Europe
+  country: Bulgaria
+  end: 0:0:0 xx/xx/2014
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC Europe
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 05/10/2013
   begin: 0:0:0 21/06/2014
   cc: us
