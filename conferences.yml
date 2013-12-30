@@ -43,13 +43,16 @@
   type: grassroot
   url: ~
 - act_open: 0:0:0 05/10/2013
-  begin: 0:0:0 21/06/2014
+  begin: 0:0:0 23/06/2014
   cc: us
   city: 'Orlando, FL'
   conf_id: yn2014
   continent: America
+  cost:
+    - earlybird: 150 USD
+    - regular: 250 USD
   country: United States
-  end: 0:0:0 27/06/2014
+  end: 0:0:0 25/06/2014
   genre: yapc
   languages:
     - English
