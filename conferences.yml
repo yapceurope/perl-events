@@ -59,6 +59,25 @@
   status: ok
   type: grassroot
   url: http://www.yapcna.org/yn2014/
+- act_open: 0:0:0 24/12/2013
+  begin: 0:0:0 16/05/2014
+  cc: pl
+  city: Poznan
+  conf_id: plpw2014
+  continent: Europe
+  country: Poland
+  end: 0:0:0 18/05/2014
+  genre: workshop
+  languages:
+    - English
+    - Polish
+  lc:
+    - en
+    - pl
+  name: Polish Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/plpw2014/
 - act_open: 0:0:0 23/05/2013
   begin: 0:0:0 26/03/2014
   cc: de
