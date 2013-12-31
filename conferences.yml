@@ -866,6 +866,27 @@
   status: ok
   type: grassroot
   url: http://yapcna.org/ye2012
+- act_open: 0:0:0 xx/xx/2012
+  begin: 0:0:0 12/05/2012
+  cc: ua
+  city: Kiev
+  conf_id: yr2012
+  continent: Europe
+  country: Ukraine
+  end: 0:0:0 13/05/2012
+  genre: workshop
+  languages:
+    - Ukrainian
+    - Russian
+    - English
+  lc:
+    - uk
+    - ru
+    - en
+  name: Perl Mova + YAPC Russia
+  status: ok
+  type: grassroot
+  url: http://event.yapcrussia.org/yr2012/
 - begin: 0:0:0 14/04/2012
   cc: tw
   city: Taipei
