@@ -154,7 +154,7 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/tbpw2014/
-- act_open: 0:0:0 xx/xx/2013
+- act_open: 0:0:0 10/11/2013
   begin: 0:0:0 21/12/2013
   cc: ru
   city: Saint Petersburg
@@ -164,6 +164,7 @@
   end: 0:0:0 21/12/2013
   genre: workshop
   name: Russian Perl Workshop
+  nickname: Saint Perl 2013
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl5/
@@ -624,6 +625,20 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/opw2013/
+- act_open: 0:0:0 09/11/2012
+  begin: 0:0:0 22/12/2012
+  cc: ru
+  city: Saint Petersburg
+  conf_id: saintperl4
+  continent: Europe
+  country: Russia
+  end: 0:0:0 22/12/2012
+  genre: workshop
+  name: Russian Perl Workshop
+  nickname: Saint Perl 2012
+  status: ok
+  type: grassroot
+  url: http://event.perlrussia.org/saintperl4/
 - act_open: 0:0:0 05/09/2012
   begin: 0:0:0 07/12/2012
   cc: fr
@@ -1085,6 +1100,7 @@
   end: 0:0:0 18/12/2011
   genre: workshop
   name: Russian Perl Workshop
+  nickname: Saint Perl 2011
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl3/
@@ -1605,7 +1621,7 @@
   lc:
     - ru
   name: Russian Perl Workshop
-  nickname: Saint Perl
+  nickname: Saint Perl 2010
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl2/
@@ -2021,7 +2037,7 @@
   lc:
     - ru
   name: Russian Perl Workshop
-  nickname: Saint Perl
+  nickname: Saint Perl 2009
   status: ok
   type: grassroot
   url: http://2009.perlrussia.org/saintperl/
