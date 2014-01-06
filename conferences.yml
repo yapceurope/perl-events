@@ -154,6 +154,19 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/tbpw2014/
+- act_open: 0:0:0 xx/xx/2013
+  begin: 0:0:0 21/12/2013
+  cc: ru
+  city: Saint Petersburg
+  conf_id: saintperl5
+  continent: Europe
+  country: Russia
+  end: 0:0:0 21/12/2013
+  genre: workshop
+  name: Russian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://event.perlrussia.org/saintperl5/
 - act_open: 0:0:0 15/09/2013
   begin: 0:0:0 06/12/2013
   cc: fr
