@@ -102,7 +102,7 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/plpw2014/
-- act_open: 0:0:0 xx/xx/2014
+- act_open: 0:0:0 21/01/2014
   begin: 0:0:0 25/04/2014
   cc: nl
   city: Utrecht
@@ -120,7 +120,7 @@
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://www.perlworkshop.nl/nlpw2014/
 - act_open: 0:0:0 23/05/2013
   begin: 0:0:0 26/03/2014
   cc: de
