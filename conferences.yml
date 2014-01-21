@@ -83,6 +83,23 @@
   status: ok
   type: grassroot
   url: http://event.yapcrussia.org/yr2014/
+- act_open: 0:0:0 21/01/2014
+  begin: 0:0:0 20/05/2014
+  cc: cz
+  city: Prague
+  conf_id: czpw2014
+  continent: Europe
+  country: Czech Republic
+  end: 0:0:0 21/05/2014
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: Czech Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/czpw2014/
 - act_open: 0:0:0 24/12/2013
   begin: 0:0:0 16/05/2014
   cc: pl
