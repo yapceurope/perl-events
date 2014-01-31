@@ -172,6 +172,20 @@
   status: ok
   type: grassroot
   url: http://act.qa-hackathon.org/qa2014/
+- begin: 0:0:0 08/02/2014
+  cc: nl
+  city: Amsterdam
+  conf_id: hack2014amsx
+  continent: Europe
+  cost:
+    - regular: 0
+  country: Netherlands
+  end: 0:0:0 09/02/2014
+  genre: hackathon
+  name: AmsterdamX.pm Hackathon
+  status: ok
+  type: grassroot
+  url: https://wiki.techinc.nl/index.php/AmsterdamX.pm_Hackathon:_Perl_and_Beyond_Day_1
 - act_open: 0:0:0 19/12/2013
   begin: 0:0:0 25/01/2014
   cc: us
