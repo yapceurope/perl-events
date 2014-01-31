@@ -119,6 +119,20 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/plpw2014/
+- begin: 0:0:0 xx/04/2014
+  cc: uk
+  city: Swindon
+  conf_id: hack2014dbic
+  continent: Europe
+  cost:
+    - regular: 0
+  country: United Kingdom
+  end: 0:0:0 xx/04/2014
+  genre: hackathon
+  name: DBIx::Class Hackathon
+  status: ok
+  type: grassroot
+  url: https://github.com/castaway/DBIx-Class-Hackathon
 - act_open: 0:0:0 21/01/2014
   begin: 0:0:0 25/04/2014
   cc: nl
