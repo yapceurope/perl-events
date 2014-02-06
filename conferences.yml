@@ -42,6 +42,21 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 14/01/2014
+  begin: 0:0:0 07/10/2014
+  cc: us
+  city: 'Hancock, NY'
+  conf_id: eic2014
+  continent: America
+  cost:
+    - regular: 0
+  country: United States
+  end: 0:0:0 09/10/2014
+  genre: workshop
+  name: eCommerce Innovation
+  status: ok
+  type: business
+  url: http://act.ecommerce-innovation.com/eic2014/
 - act_open: 0:0:0 04/02/2014
   begin: 0:0:0 05/09/2014
   cc: ch
@@ -419,21 +434,6 @@
   status: ok
   type: business
   url: http://act.ecommerce-innovation.com/eic2013/
-- act_open: 0:0:0 14/01/2014
-  begin: 0:0:0 07/10/2013
-  cc: us
-  city: 'Hancock, NY'
-  conf_id: eic2014
-  continent: America
-  cost:
-    - regular: 0
-  country: United States
-  end: 0:0:0 09/10/2013
-  genre: workshop
-  name: eCommerce Innovation
-  status: ok
-  type: business
-  url: http://act.ecommerce-innovation.com/eic2014/
 - act_open: 0:0:0 27/08/2013
   begin: 0:0:0 04/10/2013
   cc: us
