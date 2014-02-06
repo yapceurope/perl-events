@@ -25,6 +25,23 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 04/02/2014
+  begin: 0:0:0 05/09/2014
+  cc: ch
+  city: Olten
+  conf_id: spw2014
+  continent: Europe
+  country: Switzerland
+  end: 0:0:0 06/09/2014
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Swiss Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.perl-workshop.ch/spw2014/
 - act_open: 00:00:00 27/01/2014
   begin: 10:00:00 22/08/2014
   cc: bg
