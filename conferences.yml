@@ -25,23 +25,6 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_open: 0:0:0 xx/xx/2014
-  begin: 0:0:0 xx/xx/2014
-  cc: no
-  city: Oslo
-  conf_id: mojo2014
-  continent: Europe
-  country: Norway
-  end: 0:0:0 xx/xx/2014
-  genre: workshop
-  languages:
-    - English
-  lc:
-    - en
-  name: Mojoconf
-  status: ok
-  type: grassroot
-  url: ~
 - act_open: 0:0:0 14/01/2014
   begin: 0:0:0 07/10/2014
   cc: us
@@ -151,6 +134,23 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2014/
+- act_open: 0:0:0 xx/xx/2014
+  begin: 0:0:0 23/05/2014
+  cc: no
+  city: Oslo
+  conf_id: mojo2014
+  continent: Europe
+  country: Norway
+  end: 0:0:0 25/05/2014
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Mojoconf
+  status: ok
+  type: grassroot
+  url: http://www.mojoconf.org/mojo2014/
 - act_open: 0:0:0 21/01/2014
   begin: 0:0:0 20/05/2014
   cc: cz
