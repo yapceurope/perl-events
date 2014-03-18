@@ -187,7 +187,7 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/plpw2014/
-- begin: 0:0:0 xx/04/2014
+- begin: 0:0:0 12/04/2014
   cc: uk
   city: Swindon
   conf_id: hack2014dbic
@@ -195,7 +195,7 @@
   cost:
     - regular: 0
   country: United Kingdom
-  end: 0:0:0 xx/04/2014
+  end: 0:0:0 12/04/2014
   genre: hackathon
   name: DBIx::Class Hackathon
   status: ok
