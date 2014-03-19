@@ -187,6 +187,22 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/plpw2014/
+- act_open: 0:0:0 16/02/2014
+  begin: 0:0:0 03/05/2014
+  cc: us
+  city: 'Silver Spring, MD'
+  conf_id: dcbpw2014
+  continent: America
+  cost:
+    - regular: 50 USD
+    - earlybird: 25 USD
+  country: United States
+  end: 0:0:0 04/05/2013
+  genre: workshop
+  name: DC-Baltimore Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://dcbpw.org/dcbpw2014/
 - act_open: 0:0:0 21/01/2014
   begin: 0:0:0 25/04/2014
   cc: nl
