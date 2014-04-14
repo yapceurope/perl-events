@@ -190,22 +190,20 @@
   url: http://www.yapcna.org/yn2014/
 - act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 14/06/2014
-  cc: ua
-  city: Kiev
+  cc: ru
+  city: Saint Petersburg
   conf_id: yr2014
   continent: Europe
-  country: Ukraine
+  country: Russia
   end: 0:0:0 14/06/2014
   genre: workshop
   languages:
-    - Ukrainian
     - Russian
     - English
   lc:
-    - uk
     - ru
     - en
-  name: Perl Mova + YAPC Russia
+  name: YAPC Russia
   status: ok
   type: grassroot
   url: http://event.yapcrussia.org/yr2014/
