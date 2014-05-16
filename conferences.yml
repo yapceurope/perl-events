@@ -162,8 +162,10 @@
   genre: workshop
   languages:
     - English
+    - Czech
   lc:
     - en
+    - cs
   name: Czech Perl Workshop
   status: ok
   type: grassroot
