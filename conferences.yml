@@ -27,6 +27,23 @@
 ---
 - act_open: 0:0:0 xx/xx/2014
   begin: 0:0:0 xx/xx/2014
+  cc: uk
+  city: ~
+  conf_id: dlc2014
+  continent: Europe
+  country: United Kindom
+  end: 0:0:0 xx/xx/2014
+  genre: osdc
+  languages:
+    - English
+  lc:
+    - en
+  name: Dynamic Languages Conference
+  status: ok
+  type: grassroot
+  url: ~
+- act_open: 0:0:0 xx/xx/2014
+  begin: 0:0:0 xx/xx/2014
   cc: gb
   city: London
   conf_id: lpw2014
