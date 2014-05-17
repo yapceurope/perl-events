@@ -25,6 +25,25 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- act_open: 0:0:0 xx/xx/2014
+  begin: 0:0:0 xx/xx/2014
+  cc: gb
+  city: London
+  conf_id: lpw2014
+  continent: Europe
+  cost:
+    regular: 0
+  country: United Kingdom
+  end: 0:0:0 xx/xx/2014
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - act_open: 0:0:0 14/01/2014
   begin: 0:0:0 07/10/2014
   cc: us
