@@ -232,8 +232,8 @@
   conf_id: dcbpw2014
   continent: America
   cost:
-    regular: 50 USD
     earlybird: 25 USD
+    regular: 50 USD
   country: United States
   end: 0:0:0 04/05/2014
   genre: workshop
@@ -539,15 +539,15 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/2013/
-- begin: 0:0:0 14/9/2013
+- begin: 0:0:0 14/09/2013
   cc: DE
   city: Frankfurt am Main
-  conf_id:
+  conf_id: rakudo2013
   continent: Europe
   cost:
     regular: 0
   country: Germany
-  end: 0:0:0 15/9/2013
+  end: 0:0:0 15/09/2013
   genre: workshop
   languages:
     - English
@@ -669,8 +669,8 @@
   conf_id: dcbpw2013
   continent: America
   cost:
-    regular: 50 USD
     earlybird: 25 USD
+    regular: 50 USD
   country: United States
   end: 0:0:0 20/04/2013
   genre: workshop
@@ -909,26 +909,6 @@
   status: ok
   type: grassroot
   url: http://2012.useperl.at/apw2012/
-- attendees: 13
-  begin: 0:0:0 20/4/2012
-  cc: NO
-  city: Oslo
-  conf_id: hack2012perl6
-  continent: Europe
-  cost:
-    regular: 0
-  country: Norway
-  end: 0:0:0 22/4/2012
-  genre: hackathon
-  languages:
-    - English
-  lc:
-    - en
-  name: Perl 6 Patterns
-  status: ok
-  theme: Hacking on Perl 6-related things, socializing, fun
-  type: grassroot
-  url: https://gist.github.com/sjn/1711730
 - act_open: 0:0:0 10/04/2012
   begin: 0:0:0 xx/10/2012
   cc: us
@@ -1161,6 +1141,26 @@
   status: ok
   type: grassroot
   url: http://event.yapcrussia.org/yr2012/
+- attendees: 13
+  begin: 0:0:0 20/04/2012
+  cc: NO
+  city: Oslo
+  conf_id: hack2012perl6
+  continent: Europe
+  cost:
+    regular: 0
+  country: Norway
+  end: 0:0:0 22/04/2012
+  genre: hackathon
+  languages:
+    - English
+  lc:
+    - en
+  name: Perl 6 Patterns
+  status: ok
+  theme: 'Hacking on Perl 6-related things, socializing, fun'
+  type: grassroot
+  url: https://gist.github.com/sjn/1711730
 - begin: 0:0:0 14/04/2012
   cc: tw
   city: Taipei
