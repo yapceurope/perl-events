@@ -110,6 +110,25 @@
   status: ok
   type: grassroot
   url: http://yapc.eu/2014
+- act_open: 0:0:0 21/05/2014
+  begin: 0:0:0 27/06/2014
+  cc: es
+  city: Granada
+  conf_id: granada2014
+  continent: Europe
+  country: Spain
+  end: 0:0:0 27/06/2014
+  genre: workshop
+  languages:
+    - Spanish
+    - English
+  lc:
+    - es
+    - en
+  name: Granada Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://workshop.granada.pm/granada2014/
 - act_open: 0:0:0 05/10/2013
   begin: 0:0:0 23/06/2014
   cc: us
