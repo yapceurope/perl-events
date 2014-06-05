@@ -27,23 +27,6 @@
 ---
 - act_open: 0:0:0 xx/xx/2014
   begin: 0:0:0 xx/xx/2014
-  cc: uk
-  city: ~
-  conf_id: dlc2014
-  continent: Europe
-  country: United Kindom
-  end: 0:0:0 xx/xx/2014
-  genre: osdc
-  languages:
-    - English
-  lc:
-    - en
-  name: Dynamic Languages Conference
-  status: ok
-  type: grassroot
-  url: ~
-- act_open: 0:0:0 xx/xx/2014
-  begin: 0:0:0 xx/xx/2014
   cc: gb
   city: London
   conf_id: lpw2014
@@ -76,6 +59,23 @@
   status: ok
   type: business
   url: http://act.ecommerce-innovation.com/eic2014/
+- act_open: 0:0:0 03/06/2014
+  begin: 0:0:0 13/09/2014
+  cc: uk
+  city: Manchester
+  conf_id: dlc2014
+  continent: Europe
+  country: United Kindom
+  end: 0:0:0 13/09/2014
+  genre: osdc
+  languages:
+    - English
+  lc:
+    - en
+  name: Dynamic Languages Conference
+  status: ok
+  type: grassroot
+  url: http://www.dynamiclanguages.co.uk/dlc2014/
 - act_open: 0:0:0 04/02/2014
   begin: 0:0:0 05/09/2014
   cc: ch
