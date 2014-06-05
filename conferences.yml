@@ -44,6 +44,23 @@
   status: ok
   type: grassroot
   url: ~
+- act_open: 0:0:0 03/06/2014
+  begin: 0:0:0 10/10/2014
+  cc: at
+  city: Salzburg
+  conf_id: apw2014
+  continent: Europe
+  country: Austria
+  end: 0:0:0 13/10/2014
+  genre: workshop
+  languages:
+    - German
+  lc:
+    - de
+  name: Austrian Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.useperl.at/apw2014/
 - act_open: 0:0:0 14/01/2014
   begin: 0:0:0 07/10/2014
   cc: us
