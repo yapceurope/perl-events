@@ -26,7 +26,8 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_open: 0:0:0 xx/xx/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2014
   begin: 0:0:0 xx/xx/2014
   cc: gb
   city: London
@@ -45,7 +46,8 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2014
   begin: 0:0:0 08/11/2014
   cc: es
   city: Barcelona
@@ -66,7 +68,8 @@
   status: ok
   type: grassroot
   url: http://workshop.barcelona.pm/
-- act_open: 0:0:0 03/06/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 03/06/2014
   begin: 0:0:0 10/10/2014
   cc: at
   city: Salzburg
@@ -83,7 +86,8 @@
   status: ok
   type: grassroot
   url: http://act.useperl.at/apw2014/
-- act_open: 0:0:0 14/01/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 14/01/2014
   begin: 0:0:0 07/10/2014
   cc: us
   city: 'Hancock, NY'
@@ -99,7 +103,8 @@
   status: ok
   type: business
   url: http://act.ecommerce-innovation.com/eic2014/
-- act_open: 0:0:0 03/06/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 03/06/2014
   begin: 0:0:0 13/09/2014
   cc: uk
   city: Manchester
@@ -116,7 +121,8 @@
   status: ok
   type: grassroot
   url: http://www.dynamiclanguages.co.uk/dlc2014/
-- act_open: 0:0:0 04/02/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 04/02/2014
   begin: 0:0:0 05/09/2014
   cc: ch
   city: Olten
@@ -133,7 +139,8 @@
   status: ok
   type: grassroot
   url: http://act.perl-workshop.ch/spw2014/
-- act_open: 00:00:00 27/01/2014
+- act_instance: mongueurs.net
+  act_open: 00:00:00 27/01/2014
   begin: 10:00:00 22/08/2014
   cc: bg
   city: Sofia
@@ -150,7 +157,8 @@
   status: ok
   type: grassroot
   url: http://yapc.eu/2014
-- act_open: 0:0:0 21/05/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 21/05/2014
   begin: 0:0:0 27/06/2014
   cc: es
   city: Granada
@@ -169,7 +177,8 @@
   status: ok
   type: grassroot
   url: http://workshop.granada.pm/granada2014/
-- act_open: 0:0:0 05/10/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/10/2013
   begin: 0:0:0 23/06/2014
   cc: us
   city: 'Orlando, FL'
@@ -209,7 +218,8 @@
   status: ok
   type: grassroot
   url: http://event.yapcrussia.org/yr2014/
-- act_open: 0:0:0 04/02/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 04/02/2014
   begin: 0:0:0 13/06/2014
   cc: fr
   city: Paris
@@ -228,7 +238,8 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2014/
-- act_open: 0:0:0 09/02/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 09/02/2014
   begin: 0:0:0 23/05/2014
   cc: no
   city: Oslo
@@ -245,7 +256,8 @@
   status: ok
   type: grassroot
   url: http://www.mojoconf.org/mojo2014/
-- act_open: 0:0:0 21/01/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 21/01/2014
   begin: 0:0:0 20/05/2014
   cc: cz
   city: Prague
@@ -264,7 +276,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/czpw2014/
-- act_open: 0:0:0 24/12/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 24/12/2013
   begin: 0:0:0 16/05/2014
   cc: pl
   city: Poznan
@@ -283,7 +296,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/plpw2014/
-- act_open: 0:0:0 16/02/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 16/02/2014
   begin: 0:0:0 03/05/2014
   cc: us
   city: 'Silver Spring, MD'
@@ -299,7 +313,8 @@
   status: ok
   type: grassroot
   url: http://dcbpw.org/dcbpw2014/
-- act_open: 0:0:0 21/01/2014
+- act_instance: mongueurs.net
+  act_open: 0:0:0 21/01/2014
   begin: 0:0:0 25/04/2014
   cc: nl
   city: Utrecht
@@ -332,7 +347,8 @@
   status: ok
   type: grassroot
   url: https://github.com/castaway/DBIx-Class-Hackathon
-- act_open: 0:0:0 23/05/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 23/05/2013
   begin: 0:0:0 26/03/2014
   cc: de
   city: Hannover
@@ -351,7 +367,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/gpw2014/
-- act_open: 0:0:0 xx/xx/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 13/03/2014
   cc: fr
   city: Lyon
@@ -380,7 +397,8 @@
   status: ok
   type: grassroot
   url: https://wiki.techinc.nl/index.php/AmsterdamX.pm_Hackathon:_Perl_and_Beyond_Day_1
-- act_open: 0:0:0 19/12/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 19/12/2013
   begin: 0:0:0 25/01/2014
   cc: us
   city: 'Tampa, FL'
@@ -413,7 +431,8 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl5/
-- act_open: 0:0:0 15/09/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/09/2013
   begin: 0:0:0 06/12/2013
   cc: fr
   city: Paris
@@ -429,7 +448,8 @@
   status: ok
   type: grassroot
   url: http://patch.pm/p1/
-- act_open: 0:0:0 25/06/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 25/06/2013
   begin: 0:0:0 30/11/2013
   cc: gb
   city: London
@@ -448,7 +468,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2013/
-- act_open: 0:0:0 02/10/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/10/2013
   begin: 0:0:0 23/11/2013
   cc: dk
   city: Copenhagen
@@ -480,7 +501,8 @@
   status: ok
   type: grassroot
   url: http://2013.yapcbrasil.org.br/
-- act_open: 0:0:0 13/09/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 13/09/2013
   begin: 0:0:0 02/11/2013
   cc: at
   city: Salzburg
@@ -497,7 +519,8 @@
   status: ok
   type: grassroot
   url: http://act.useperl.at/apw2013/
-- act_open: 0:0:0 02/09/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/09/2013
   begin: 0:0:0 24/10/2013
   cc: pt
   city: Lisbon
@@ -532,7 +555,8 @@
   status: ok
   type: grassroot
   url: http://osdc.org.nz/
-- act_open: 0:0:0 22/08/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/08/2013
   begin: 0:0:0 08/10/2013
   cc: us
   city: 'Hancock, NY'
@@ -547,7 +571,8 @@
   status: ok
   type: business
   url: http://act.ecommerce-innovation.com/eic2013/
-- act_open: 0:0:0 27/08/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 27/08/2013
   begin: 0:0:0 04/10/2013
   cc: us
   city: 'Oakdale, PA'
@@ -560,7 +585,8 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/ppw2013/
-- act_open: 0:0:0 02/05/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/05/2013
   begin: 0:0:0 04/10/2013
   cc: fr
   city: Paris
@@ -617,7 +643,8 @@
   theme: Rakudo and NQP Internals
   type: grassroot
   url: http://blogs.perl.org/users/liz/2013/08/rakudo-and-nqp-internals-workshop-1415-sep.html
-- act_open: 0:0:0 21/12/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 21/12/2012
   attendees: 331
   begin: 0:0:0 12/08/2013
   cc: ua
@@ -636,7 +663,8 @@
   theme: Future Perl
   type: grassroot
   url: http://yapc.eu/2013
-- act_open: 0:0:0 31/05/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 31/05/2013
   begin: 0:0:0 10/08/2013
   cc: cn
   city: Beijing
@@ -649,7 +677,8 @@
   status: ok
   type: grassroot
   url: http://conference.perlchina.org/bjpw2013/
-- act_open: 0:0:0 19/06/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 19/06/2013
   begin: 0:0:0 26/07/2013
   cc: fr
   city: Paris
@@ -665,7 +694,8 @@
   status: ok
   type: grassroot
   url: http://patch.pm/p0/
-- act_open: 0:0:0 19/02/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 19/02/2013
   begin: 0:0:0 14/06/2013
   cc: fr
   city: Nancy
@@ -684,7 +714,8 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2013/
-- act_open: 0:0:0 29/12/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 29/12/2012
   begin: 0:0:0 03/06/2013
   cc: us
   city: 'Austin, TX'
@@ -702,7 +733,8 @@
   theme: 25 Years of Perl
   type: grassroot
   url: http://www.yapcna.org/yn2013/
-- act_open: 0:0:0 03/02/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 03/02/2013
   begin: 0:0:0 25/05/2013
   cc: pl
   city: Warsaw
@@ -721,7 +753,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/plpw2013/
-- act_open: 0:0:0 22/01/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/01/2013
   begin: 0:0:0 20/04/2013
   cc: us
   city: 'Baltimore, MD'
@@ -749,7 +782,8 @@
   status: ok
   type: grassroot
   url: http://www.osdc.tw/2013/
-- act_open: 0:0:0 28/01/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 28/01/2013
   begin: 0:0:0 19/04/2013
   cc: nl
   city: Arnhem
@@ -768,7 +802,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2013/
-- act_open: 0:0:0 23/12/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 23/12/2012
   begin: 0:0:0 12/04/2013
   cc: uk
   city: Lancaster
@@ -783,7 +818,8 @@
   status: ok
   type: grassroot
   url: http://2013.qa-hackathon.org/
-- act_open: 0:0:0 xx/xx/2013
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 22/03/2013
   cc: ch
   city: ~
@@ -800,7 +836,8 @@
   status: ok
   type: grassroot
   url: http://act.perl-workshop.ch/spw2013/
-- act_open: 0:0:0 16/10/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 16/10/2012
   begin: 0:0:0 13/03/2013
   cc: de
   city: Berlin
@@ -834,7 +871,8 @@
   status: ok
   type: grassroot
   url: https://github.com/nyperlmongers/nyperlhackathon2013/wiki/Home:-New-York-Perl-Hackathon-2013
-- act_open: 0:0:0 27/08/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 27/08/2012
   begin: 0:0:0 24/02/2013
   cc: il
   city: Ramat Gan
@@ -872,7 +910,8 @@
   status: ok
   type: grassroot
   url: http://2013.perlbulgaria.org/sofia2013/
-- act_open: 0:0:0 29/11/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 29/11/2012
   begin: 0:0:0 11/01/2013
   cc: us
   city: 'Orlando, FL'
@@ -905,7 +944,8 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl4/
-- act_open: 0:0:0 05/09/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/09/2012
   begin: 0:0:0 07/12/2012
   cc: fr
   city: Paris
@@ -934,7 +974,8 @@
   status: ok
   type: grassroot
   url: http://2012.osdc.com.au/
-- act_open: 0:0:0 24/05/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 24/05/2012
   begin: 0:0:0 24/11/2012
   cc: gb
   city: London
@@ -953,7 +994,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2012/
-- act_open: 0:0:0 05/09/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/09/2012
   begin: 0:0:0 16/11/2012
   cc: at
   city: Vienna
@@ -970,7 +1012,8 @@
   status: ok
   type: grassroot
   url: http://2012.useperl.at/apw2012/
-- act_open: 0:0:0 10/04/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 10/04/2012
   begin: 0:0:0 xx/10/2012
   cc: us
   city: 'Pittsburgh, PA'
@@ -1009,7 +1052,8 @@
   status: ok
   type: grassroot
   url: http://www.yapcbrasil.org.br/2012/
-- act_open: 0:0:0 10/04/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 10/04/2012
   begin: 0:0:0 13/10/2012
   cc: se
   city: Stockholm
@@ -1029,7 +1073,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/npw2012/
-- act_open: 0:0:0 17/07/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 17/07/2012
   begin: 0:0:0 12/10/2012
   cc: fr
   city: Paris
@@ -1050,7 +1095,8 @@
   status: ok
   type: grassroot
   url: http://act.osdc.fr/osdc2012fr/
-- act_open: 0:0:0 15/05/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/05/2012
   begin: 0:0:0 11/10/2012
   cc: it
   city: Bologna
@@ -1085,7 +1131,8 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/2012/
-- act_open: 0:0:0 17/07/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 17/07/2012
   begin: 0:0:0 22/09/2012
   cc: pt
   city: Braga
@@ -1104,7 +1151,8 @@
   status: ok
   type: grassroot
   url: http://workshop.perl.pt/ptpw2012/
-- act_open: 0:0:0 25/05/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 25/05/2012
   begin: 0:0:0 26/08/2012
   cc: no
   city: Preikestolen
@@ -1117,7 +1165,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/mtmh2012/
-- act_open: 0:0:0 10/01/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 10/01/2012
   begin: 0:0:0 20/08/2012
   cc: de
   city: Frankfurt
@@ -1134,7 +1183,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/ye2012/
-- act_open: 0:0:0 25/03/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 25/03/2012
   begin: 0:0:0 30/06/2012
   cc: us
   city: 'Paoli, PA'
@@ -1147,7 +1197,8 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/qh2012/
-- act_open: 0:0:0 01/03/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 01/03/2012
   begin: 0:0:0 29/06/2012
   cc: fr
   city: Strasbourg
@@ -1238,7 +1289,8 @@
   status: ok
   type: grassroot
   url: http://www.osdc.tw/2012/
-- act_open: 0:0:0 04/01/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 04/01/2012
   begin: 0:0:0 14/04/2012
   cc: nl
   city: The Hague
@@ -1257,7 +1309,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2012/
-- act_open: 0:0:0 02/01/2012
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/01/2012
   begin: 0:0:0 14/04/2012
   cc: us
   city: 'Baltimore, MD'
@@ -1273,7 +1326,8 @@
   status: ok
   type: grassroot
   url: http://dcbpw.org/dcbpw2012/
-- act_open: 0:0:0 21/11/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 21/11/2011
   begin: 0:0:0 30/03/2012
   cc: fr
   city: Paris
@@ -1311,7 +1365,8 @@
   status: ok
   type: grassroot
   url: http://2012.perlbulgaria.org/sofia2012/
-- act_open: 0:0:0 12/07/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 12/07/2011
   begin: 0:0:0 05/03/2012
   cc: de
   city: Erlangen
@@ -1330,7 +1385,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/gpw2012/
-- act_open: 0:0:0 18/11/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 18/11/2011
   begin: 0:0:0 28/02/2012
   cc: il
   city: Ramat Gan
@@ -1364,7 +1420,8 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/perlburg3/
-- act_open: 0:0:0 xx/xx/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 14/01/2012
   cc: us
   city: 'Orlando, FL'
@@ -1409,7 +1466,8 @@
   status: ok
   type: grassroot
   url: http://2011.osdc.com.au/
-- act_open: 0:0:0 25/07/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 25/07/2011
   begin: 0:0:0 12/11/2011
   cc: gb
   city: London
@@ -1442,7 +1500,8 @@
   status: ok
   type: grassroot
   url: http://www.yapcbrasil.org.br/2011/
-- act_open: 0:0:0 13/09/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 13/09/2011
   begin: 0:0:0 04/11/2011
   cc: at/sk
   city: Vienna/Bratislava
@@ -1465,7 +1524,8 @@
   theme: Building bridges
   type: grassroot
   url: http://conferences.yapceurope.org/tcpw2011/
-- act_open: 0:0:0 21/06/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 21/06/2011
   begin: 0:0:0 19/10/2011
   cc: de
   city: Frankfurt/Main
@@ -1484,7 +1544,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/gpw2011/
-- act_open: 0:0:0 20/09/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 20/09/2011
   begin: 0:0:0 15/10/2011
   cc: be
   city: Brussels
@@ -1521,7 +1582,8 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/ya2011/
-- act_open: 0:0:0 02/03/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/03/2011
   begin: 0:0:0 08/10/2011
   cc: us
   city: 'Pittsburgh, PA'
@@ -1557,7 +1619,8 @@
   status: ok
   type: grassroot
   url: http://event.yapcrussia.org/bp2011/
-- act_open: 0:0:0 14/06/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 14/06/2011
   begin: 0:0:0 23/09/2011
   cc: fr
   city: Paris
@@ -1578,7 +1641,8 @@
   status: ok
   type: grassroot
   url: http://act.osdc.fr/osdc2011fr/
-- act_open: 0:0:0 20/07/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 20/07/2011
   begin: 0:0:0 22/09/2011
   cc: pt
   city: Lisbon
@@ -1597,7 +1661,8 @@
   status: ok
   type: grassroot
   url: http://workshop.perl.pt/ptpw2011/
-- act_open: 0:0:0 24/12/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 24/12/2010
   begin: 0:0:0 08/09/2011
   cc: it
   city: Turin
@@ -1616,7 +1681,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2011/
-- act_open: 0:0:0 12/06/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 12/06/2011
   begin: 0:0:0 26/08/2011
   cc: uk
   city: Edinburgh
@@ -1633,7 +1699,8 @@
   status: ok
   type: grassroot
   url: http://www.dynamiclanguages.co.uk/dlc2011
-- act_open: 0:0:0 18/01/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 18/01/2011
   attendees: 278
   begin: 0:0:0 15/08/2011
   cc: lv
@@ -1652,7 +1719,8 @@
   theme: Modern Perl
   type: grassroot
   url: http://yapceurope.lv/
-- act_open: 0:0:0 07/04/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 07/04/2011
   begin: 0:0:0 02/07/2011
   cc: cn
   city: Beijing
@@ -1665,7 +1733,8 @@
   status: ok
   type: grassroot
   url: http://conference.perlchina.org/bjpw2011/
-- act_open: 0:0:0 26/09/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 26/09/2010
   begin: 0:0:0 27/06/2011
   cc: us
   city: 'Asheville, NC'
@@ -1682,7 +1751,8 @@
   status: ok
   type: grassroot
   url: http://www.yapc2011.us/yn2011/
-- act_open: 0:0:0 10/01/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 10/01/2011
   begin: 0:0:0 24/06/2011
   cc: fr
   city: Paris
@@ -1701,7 +1771,9 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2011/
-- begin: 0:0:0 18/06/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 26/04/2011
+  begin: 0:0:0 18/06/2011
   cc: se
   city: Malmö
   conf_id: npw2011
@@ -1751,7 +1823,8 @@
   theme: Agile Development in the Real World
   type: grassroot
   url: http://www.perlworkshop.com.br/
-- act_open: 0:0:0 22/01/2011
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/01/2011
   begin: 0:0:0 16/04/2011
   cc: nl
   city: Amsterdam
@@ -1766,8 +1839,7 @@
   status: ok
   type: grassroot
   url: http://2011.qa-hackathon.org/
-- act_open: 0:0:0 xx/xx/2011
-  begin: 0:0:0 02/04/2011
+- begin: 0:0:0 02/04/2011
   cc: us
   city: Toronto
   conf_id: tpw2011
@@ -1815,7 +1887,8 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 20/12/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 20/12/2010
   begin: 0:0:0 05/03/2011
   cc: nl
   city: The Hague
@@ -1857,7 +1930,8 @@
   status: ok
   type: grassroot
   url: http://2011.perlbulgaria.org/sofia2011/
-- act_open: 0:0:0 17/10/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 17/10/2010
   begin: 0:0:0 05/02/2011
   cc: us
   city: 'Minneapolis, MN'
@@ -1870,7 +1944,8 @@
   status: ok
   type: grassroot
   url: http://www.frozen-perl.org/mpw2011/
-- act_open: 0:0:0 14/11/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 14/11/2010
   begin: 0:0:0 15/01/2011
   cc: us
   city: 'Orlando, FL'
@@ -1888,8 +1963,7 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/opw2011/
-- act_open: 0:0:0 07/12/2009
-  begin: 0:0:0 xx/xx/2010
+- begin: 0:0:0 xx/xx/2010
   cc: uk
   city: Bristol
   conf_id: psdw2010
@@ -1902,11 +1976,10 @@
   lc:
     - en
   name: Perl 6 Discovery Workshop
-  status: unknown
+  status: canceled
   type: grassroot
-  url: http://perl6.org.uk/psdw2010/
-- act_open: 0:0:0 xx/xx/2009
-  begin: 0:0:0 xx/xx/2010
+  url: http://perl6.org.uk/
+- begin: 0:0:0 xx/xx/2010
   cc: ca
   city: Vancouver
   conf_id: vanpw2010
@@ -1940,7 +2013,8 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.org/saintperl/
-- act_open: 0:0:0 15/09/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/09/2010
   begin: 0:0:0 04/12/2010
   cc: gb
   city: London
@@ -1971,7 +2045,8 @@
   status: ok
   type: grassroot
   url: http://2010.osdc.com.au/
-- act_open: 0:0:0 20/10/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 20/10/2010
   begin: 0:0:0 14/11/2010
   cc: is
   city: Reykjavík
@@ -1989,7 +2064,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/npw2010/
-- act_open: 0:0:0 10/08/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 10/08/2010
   begin: 0:0:0 05/11/2010
   cc: at
   city: Vienna
@@ -2032,7 +2108,8 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/ya2010/
-- act_open: 0:0:0 24/08/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 24/08/2010
   begin: 0:0:0 09/10/2010
   cc: us
   city: 'Pittsburgh, PA'
@@ -2045,7 +2122,8 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/ppw2010/
-- act_open: 0:0:0 27/07/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 27/07/2010
   begin: 0:0:0 09/10/2010
   cc: fr
   city: Paris
@@ -2063,7 +2141,8 @@
   type: grassroot
   url: http://act.osdc.fr/osdc2010fr/
   url_lanyrd: http://lanyrd.com/2010/osdcfr/
-- act_open: 0:0:0 22/11/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/11/2009
   begin: 0:0:0 04/08/2010
   cc: it
   city: Pisa
@@ -2081,7 +2160,8 @@
   theme: The Renaissance of Perl
   type: grassroot
   url: http://conferences.yapceurope.org/ye2010/
-- act_open: 0:0:0 06/02/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 06/02/2010
   begin: 0:0:0 26/06/2010
   cc: be
   city: Brussels
@@ -2102,7 +2182,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.be/bpw2010/
-- act_open: 0:0:0 28/01/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 28/01/2010
   begin: 0:0:0 21/06/2010
   cc: us
   city: 'Columbus, OH'
@@ -2119,7 +2200,8 @@
   status: ok
   type: grassroot
   url: http://conferences.mongueurs.net/yn2010/
-- act_open: 0:0:0 16/02/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 16/02/2010
   begin: 0:0:0 12/06/2010
   cc: ua
   city: Kiev
@@ -2140,7 +2222,8 @@
   status: ok
   type: grassroot
   url: http://social.yapcrussia.org/yr2010/
-- act_open: 0:0:0 08/03/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 08/03/2010
   begin: 0:0:0 11/06/2010
   cc: fr
   city: Calais
@@ -2159,7 +2242,8 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2010/
-- act_open: 0:0:0 16/11/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 16/11/2009
   begin: 0:0:0 07/06/2010
   cc: de
   city: Shorndorf
@@ -2178,7 +2262,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/gpw2010/
-- act_open: 0:0:0 20/01/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 20/01/2010
   begin: 0:0:0 04/06/2010
   cc: pt
   city: Porto
@@ -2209,7 +2294,8 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 22/01/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/01/2010
   begin: 0:0:0 10/04/2010
   cc: at
   city: Vienna
@@ -2224,7 +2310,8 @@
   status: ok
   type: grassroot
   url: http://2010.qa-hackathon.org/
-- act_open: 0:0:0 27/01/2010
+- act_instance: mongueurs.net
+  act_open: 0:0:0 27/01/2010
   begin: 0:0:0 06/03/2010
   cc: dk
   city: Copenhagen
@@ -2246,7 +2333,8 @@
   theme: Perl 6 Hackathon
   type: grassroot
   url: http://conferences.yapceurope.org/hack2010dk/
-- act_open: 0:0:0 06/11/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 06/11/2009
   begin: 0:0:0 05/03/2010
   cc: nl
   city: Arnhem
@@ -2288,7 +2376,8 @@
   status: ok
   type: grassroot
   url: http://2010.perlrussia.org/perlburg/
-- act_open: 0:0:0 04/11/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 04/11/2009
   begin: 0:0:0 06/02/2010
   cc: us
   city: 'Minneapolis, MN'
@@ -2301,7 +2390,8 @@
   status: ok
   type: grassroot
   url: http://www.frozen-perl.org/mpw2010/
-- act_open: 0:0:0 19/11/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 19/11/2009
   begin: 0:0:0 30/01/2010
   cc: bg
   city: Sofia
@@ -2323,7 +2413,8 @@
   status: ok
   type: grassroot
   url: http://event.perlbulgaria.org/sofia2010/
-- act_open: 0:0:0 05/11/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/11/2009
   begin: 0:0:0 16/01/2010
   cc: us
   city: 'Orlando, FL'
@@ -2360,7 +2451,8 @@
   status: ok
   type: grassroot
   url: http://2009.perlrussia.org/saintperl/
-- act_open: 0:0:0 19/09/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 19/09/2009
   begin: 0:0:0 05/12/2009
   cc: gb
   city: London
@@ -2411,7 +2503,8 @@
   status: ok
   type: grassroot
   url: http://2009.osdc.com.au/
-- act_open: 0:0:0 23/06/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 23/06/2009
   begin: 0:0:0 21/11/2009
   cc: lv
   city: Riga
@@ -2442,7 +2535,8 @@
   status: ok
   type: grassroot
   url: http://www.yapcbrasil.org.br/2009/
-- act_open: 0:0:0 18/05/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 18/05/2009
   begin: 0:0:0 22/10/2009
   cc: it
   city: Pisa
@@ -2461,7 +2555,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2009/
-- act_open: 0:0:0 16/08/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 16/08/2009
   begin: 0:0:0 17/10/2009
   cc: by
   city: Minsk
@@ -2483,7 +2578,8 @@
   status: ok
   type: grassroot
   url: http://event.perlbelarus.org/minsk2009/
-- act_open: 0:0:0 18/05/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 18/05/2009
   begin: 0:0:0 02/10/2009
   cc: fr
   city: Paris
@@ -2500,7 +2596,8 @@
   status: ok
   type: grassroot
   url: http://act.osdc.fr/osdc2009fr/
-- act_open: 0:0:0 02/07/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/07/2009
   begin: 0:0:0 19/09/2009
   cc: cn
   city: Beijing
@@ -2513,7 +2610,8 @@
   status: ok
   type: grassroot
   url: http://conference.perlchina.org/bjpw2009/
-- act_open: 0:0:0 23/06/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 23/06/2009
   begin: 0:0:0 10/09/2009
   cc: jp
   city: Tokyo
@@ -2526,7 +2624,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapcasia.org/ya2009/
-- act_open: 0:0:0 30/10/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 30/10/2008
   attendees: 332
   begin: 0:0:0 03/08/2009
   cc: pt
@@ -2560,7 +2659,8 @@
   status: ok
   type: grassroot
   url: http://www.perl.org.br/YAPC/SA2009/
-- act_open: 0:0:0 02/03/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/03/2009
   begin: 0:0:0 22/06/2009
   cc: us
   city: 'Pittsburgh, PA'
@@ -2577,7 +2677,8 @@
   status: ok
   type: grassroot
   url: http://yapc10.org/yn2009/
-- act_open: 0:0:0 20/01/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 20/01/2009
   begin: 0:0:0 12/06/2009
   cc: fr
   city: Paris
@@ -2641,8 +2742,7 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 30/10/2008
-  begin: 0:0:0 17/04/2009
+- begin: 0:0:0 17/04/2009
   cc: no
   city: Oslo
   conf_id: hack2009no
@@ -2659,7 +2759,8 @@
   theme: Perl 6/Enlightened Perl hackathon
   type: grassroot
   url: http://www.perlfoundation.org/perl6/index.cgi?oslo_perl_6_hackaton_2009
-- act_open: 0:0:0 13/08/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 13/08/2008
   begin: 0:0:0 16/04/2009
   cc: no
   city: Oslo
@@ -2688,7 +2789,8 @@
   status: ok
   type: grassroot
   url: http://qa-hackathon.org/
-- act_open: 0:0:0 06/11/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 06/11/2008
   begin: 0:0:0 07/03/2009
   cc: ua
   city: Kiev
@@ -2710,7 +2812,8 @@
   status: ok
   type: grassroot
   url: http://event.perlukraine.org/upw2009/
-- act_open: 0:0:0 05/01/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/01/2009
   begin: 0:0:0 06/03/2009
   cc: nl
   city: Arnhem
@@ -2729,7 +2832,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2009/
-- act_open: 0:0:0 15/12/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/12/2008
   begin: 0:0:0 28/02/2009
   cc: be
   city: Leuven
@@ -2750,7 +2854,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.be/bpw2009/
-- act_open: 0:0:0 16/01/2009
+- act_instance: mongueurs.net
+  act_open: 0:0:0 16/01/2009
   begin: 0:0:0 25/02/2009
   cc: de
   city: Frankfurt/Main
@@ -2769,7 +2874,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/gpw2009/
-- act_open: 0:0:0 29/08/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 29/08/2008
   begin: 0:0:0 07/02/2009
   cc: us
   city: 'Minneapolis, MN'
@@ -2782,8 +2888,7 @@
   status: ok
   type: grassroot
   url: http://www.frozen-perl.org/mpw2009/
-- act_open: 0:0:0 01/07/2008
-  begin: 0:0:0 01/02/2009
+- begin: 0:0:0 01/02/2009
   cc: il
   city: ~
   conf_id: osdc2009il
@@ -2795,7 +2900,8 @@
   status: canceled
   type: grassroot
   url: http://act.osdc.org.il/osdc2009il/
-- act_open: 0:0:0 17/12/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 17/12/2008
   begin: 0:0:0 31/01/2009
   cc: bg
   city: Sofia
@@ -2817,7 +2923,8 @@
   status: ok
   type: grassroot
   url: http://event.perlbulgaria.org/sofia2009/
-- act_open: 0:0:0 28/10/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 28/10/2008
   begin: 0:0:0 17/01/2009
   cc: us
   city: 'Orlando, FL'
@@ -2847,7 +2954,8 @@
   status: ok
   type: grassroot
   url: http://www.osdc.com.au/2008/
-- act_open: 0:0:0 15/08/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/08/2008
   begin: 0:0:0 29/11/2008
   cc: gb
   city: London
@@ -2866,7 +2974,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2008/
-- act_open: 0:0:0 25/09/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 25/09/2008
   begin: 0:0:0 08/11/2008
   cc: cn
   city: Beijing
@@ -2879,7 +2988,8 @@
   status: ok
   type: grassroot
   url: http://conference.perlchina.org/bjpw2008/
-- act_open: 0:0:0 05/09/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/09/2008
   begin: 0:0:0 07/11/2008
   cc: at/sk
   city: Vienna/Bratislava
@@ -2892,7 +3002,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/tcpw2008/
-- act_open: 0:0:0 29/08/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 29/08/2008
   begin: 0:0:0 02/11/2008
   cc: ru
   city: Rostov on Don
@@ -2923,7 +3034,8 @@
   status: ok
   type: grassroot
   url: http://perl.org.br/YAPC/BR2008/WebHome
-- act_open: 0:0:0 12/04/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 12/04/2008
   begin: 0:0:0 18/10/2008
   cc: by
   city: Minsk
@@ -2945,7 +3057,8 @@
   status: ok
   type: grassroot
   url: http://event.perlbelarus.org/minsk2008/
-- act_open: 0:0:0 15/07/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/07/2008
   begin: 0:0:0 11/10/2008
   cc: us
   city: 'Pittsburgh, PA'
@@ -2958,7 +3071,8 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/ppw2008/
-- act_open: 0:0:0 30/06/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 30/06/2008
   begin: 0:0:0 26/09/2008
   cc: ru
   city: Vladivostok
@@ -2985,7 +3099,8 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 10/03/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 10/03/2008
   begin: 0:0:0 18/09/2008
   cc: it
   city: Pisa
@@ -3019,7 +3134,8 @@
   status: ok
   type: grassroot
   url: http://event.perl.kr/kpw2008
-- act_open: 0:0:0 01/12/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 01/12/2007
   begin: 0:0:0 13/08/2008
   cc: dk
   city: Copenhagen
@@ -3038,7 +3154,8 @@
   type: grassroot
   url: http://conferences.yapceurope.org/ye2008
   url_lanyrd: http://lanyrd.com/2008/yapceurope/
-- act_open: 0:0:0 17/12/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 17/12/2007
   begin: 0:0:0 16/06/2008
   cc: us
   city: 'Chicago, IL'
@@ -3052,7 +3169,8 @@
   type: grassroot
   url: http://conferences.mongueurs.net/yn2008/
   url_lanyrd: http://lanyrd.com/2008/yapcna/
-- act_open: 0:0:0 11/02/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 11/02/2008
   begin: 0:0:0 06/06/2008
   cc: pt
   city: Braga
@@ -3071,7 +3189,8 @@
   status: ok
   type: grassroot
   url: http://workshop.perl.pt/ptpw2008/
-- act_open: 0:0:0 17/03/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 17/03/2008
   begin: 0:0:0 30/05/2008
   cc: fr
   city: Albi
@@ -3093,7 +3212,8 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2008/
-- act_open: 0:0:0 13/04/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 13/04/2008
   begin: 0:0:0 24/05/2008
   cc: se
   city: Stockholm
@@ -3106,7 +3226,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/npw2008/
-- act_open: 0:0:0 27/11/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 27/11/2007
   begin: 0:0:0 17/05/2008
   cc: ru
   city: Moscow
@@ -3120,7 +3241,8 @@
   status: ok
   type: grassroot
   url: http://event.perlrussia.ru/yr2008/
-- act_open: 0:0:0 06/02/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 06/02/2008
   begin: 0:0:0 15/05/2008
   cc: jp
   city: Tokyo
@@ -3147,7 +3269,8 @@
   status: ok
   type: grassroot
   url: http://perl.org.br/YAPC/SA2008/WebHomeEn
-- act_open: 0:0:0 11/04/2008
+- act_instance: mongueurs.net
+  act_open: 0:0:0 11/04/2008
   begin: 0:0:0 15/04/2008
   cc: hr
   city: Zagreb
@@ -3202,7 +3325,8 @@
   status: ok
   type: grassroot
   url: http://archief.perlworkshop.nl/wiki/wiki.cgi?Home
-- act_open: 0:0:0 28/11/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 28/11/2007
   begin: 0:0:0 23/02/2008
   cc: ua
   city: Kiev
@@ -3224,7 +3348,8 @@
   status: ok
   type: grassroot
   url: http://event.perlukraine.org/upw2008/
-- act_open: 0:0:0 01/09/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 01/09/2007
   begin: 0:0:0 16/02/2008
   cc: us
   city: 'Minneapolis, MN'
@@ -3267,7 +3392,8 @@
   status: canceled
   type: grassroot
   url: http://act.perl.org.il/ilpw2007/hackathon.html
-- act_open: 0:0:0 15/09/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/09/2007
   begin: 0:0:0 31/12/2007
   cc: il
   city: Ramat Efal
@@ -3298,7 +3424,8 @@
   status: ok
   type: grassroot
   url: http://perlcast.com/hackchicago2007/
-- act_open: 0:0:0 04/10/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 04/10/2007
   begin: 0:0:0 01/12/2007
   cc: gb
   city: London
@@ -3334,7 +3461,8 @@
   status: ok
   type: grassroot
   url: http://www.osdc.com.au/index2007.html
-- act_open: 0:0:0 29/08/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 29/08/2007
   begin: 0:0:0 16/11/2007
   cc: fr
   city: Lyon
@@ -3369,7 +3497,8 @@
   status: ok
   type: grassroot
   url: http://perl.org.br/YAPC/BR2007/WebHome
-- act_open: 0:0:0 12/09/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 12/09/2007
   begin: 0:0:0 27/10/2007
   cc: be
   city: Brussels
@@ -3407,7 +3536,8 @@
   status: ok
   type: grassroot
   url: http://2007.perlrussia.ru/en/
-- act_open: 0:0:0 22/06/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/06/2007
   begin: 0:0:0 13/10/2007
   cc: us
   city: 'Pittsburgh, PA'
@@ -3420,7 +3550,8 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/ppw2007/
-- act_open: 0:0:0 15/11/2006
+- act_instance: mongueurs.net
+  act_open: 0:0:0 15/11/2006
   attendees: 340
   begin: 0:0:0 28/08/2007
   cc: at
@@ -3440,7 +3571,8 @@
   theme: Social Perl
   type: grassroot
   url: http://conferences.yapceurope.org/2007/
-- act_open: 0:0:0 25/01/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 25/01/2007
   begin: 0:0:0 25/06/2007
   cc: us
   city: 'Houston, TX'
@@ -3454,7 +3586,8 @@
   type: grassroot
   url: http://conferences.mongueurs.net/yn2007/
   url_lanyrd: http://lanyrd.com/2007/yapcna/
-- act_open: 0:0:0 05/02/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/02/2007
   begin: 0:0:0 28/04/2007
   cc: dk
   city: Copenhagen
@@ -3544,7 +3677,8 @@
   status: canceled
   type: grassroot
   url: http://www.neperlworkshop.org/
-- act_open: 0:0:0 27/01/2007
+- act_instance: mongueurs.net
+  act_open: 0:0:0 27/01/2007
   begin: 0:0:0 02/03/2007
   cc: nl
   city: Arnhem
@@ -3626,7 +3760,8 @@
   status: ok
   type: grassroot
   url: http://www.osdc.com.au/2006.html
-- act_open: 0:0:0 02/03/2006
+- act_instance: mongueurs.net
+  act_open: 0:0:0 02/03/2006
   begin: 0:0:0 25/11/2006
   cc: fr
   city: Paris
@@ -3717,7 +3852,8 @@
   type: grassroot
   url: http://www.yapc.org/America/previous-years/2006/
   url_lanyrd: http://lanyrd.com/2006/yapcna/
-- act_open: 0:0:0 26/02/2006
+- act_instance: mongueurs.net
+  act_open: 0:0:0 26/02/2006
   begin: 0:0:0 22/06/2006
   cc: it
   city: Pisa
@@ -3732,7 +3868,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2006/
-- act_open: 0:0:0 04/05/2006
+- act_instance: mongueurs.net
+  act_open: 0:0:0 04/05/2006
   begin: 0:0:0 15/06/2006
   cc: no
   city: Oslo
@@ -3749,7 +3886,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.no/npw2006/
-- act_open: 0:0:0 09/05/2006
+- act_instance: mongueurs.net
+  act_open: 0:0:0 09/05/2006
   begin: 0:0:0 08/06/2006
   cc: at
   city: Vienna
@@ -3877,7 +4015,8 @@
   status: ok
   type: grassroot
   url: ~
-- act_open: 0:0:0 06/10/2005
+- act_instance: mongueurs.net
+  act_open: 0:0:0 06/10/2005
   begin: 0:0:0 22/10/2005
   cc: se
   city: Stockholm
@@ -3890,7 +4029,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.no/2005/
-- act_open: 0:0:0 06/10/2005
+- act_instance: mongueurs.net
+  act_open: 0:0:0 06/10/2005
   begin: 0:0:0 22/10/2005
   cc: hu
   city: Budapest
@@ -3909,7 +4049,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/hpw2005/
-- act_open: 0:0:0 22/03/2005
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/03/2005
   attendees: 215
   begin: 0:0:0 31/08/2005
   cc: pt
@@ -3940,7 +4081,8 @@
   type: grassroot
   url: http://www.yapc.org/America/previous-years/2005/
   url_lanyrd: http://lanyrd.com/2005/yapcna/
-- act_open: 0:0:0 12/04/2005
+- act_instance: mongueurs.net
+  act_open: 0:0:0 12/04/2005
   begin: 0:0:0 23/06/2005
   cc: it
   city: Pisa
@@ -3956,7 +4098,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/ipw2005/
-- act_open: 0:0:0 22/03/2005
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/03/2005
   begin: 0:0:0 09/06/2005
   cc: fr
   city: Marseilles
@@ -3976,7 +4119,8 @@
   status: ok
   type: grassroot
   url: http://conferences.mongueurs.net/2005/
-- act_open: 0:0:0 22/03/2005
+- act_instance: mongueurs.net
+  act_open: 0:0:0 22/03/2005
   begin: 0:0:0 09/06/2005
   cc: at
   city: Vienna
@@ -4186,7 +4330,8 @@
   status: ok
   type: grassroot
   url: http://www.yapc.org/America/previous-years/2004/
-- act_open: 0:0:0 04/03/2004
+- act_instance: mongueurs.net
+  act_open: 0:0:0 04/03/2004
   begin: 0:0:0 06/06/2004
   cc: fr
   city: Paris
@@ -4288,7 +4433,8 @@
   status: ok
   type: grassroot
   url: http://www.perl.org.il/YAPC/2004/
-- act_open: 0:0:0 14/04/2003
+- act_instance: mongueurs.net
+  act_open: 0:0:0 14/04/2003
   attendees: 220
   begin: 0:0:0 23/07/2003
   cc: fr
