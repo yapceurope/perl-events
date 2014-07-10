@@ -1162,7 +1162,9 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2012/
-- begin: 0:0:0 13/06/2012
+- act_instance: yapcna.org
+  act_open: xx/xx/2012
+  begin: 0:0:0 13/06/2012
   cc: us
   city: 'Madison, WI'
   conf_id: yn2012
