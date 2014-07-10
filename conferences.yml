@@ -189,7 +189,8 @@
   status: ok
   type: grassroot
   url: http://www.yapcna.org/yn2014/
-- act_open: 0:0:0 xx/xx/2013
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 13/06/2014
   cc: ru
   city: Saint Petersburg
@@ -397,7 +398,8 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/tbpw2014/
-- act_open: 0:0:0 10/11/2013
+- act_instance: perlrussia.org
+  act_open: 0:0:0 10/11/2013
   begin: 0:0:0 21/12/2013
   cc: ru
   city: Saint Petersburg
@@ -847,7 +849,8 @@
   status: ok
   type: grassroot
   url: http://act.perl.org.il/ilpw2013/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 09/02/2013
   cc: bg
   city: Sofia
@@ -887,7 +890,8 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/opw2013/
-- act_open: 0:0:0 09/11/2012
+- act_instance: perlrussia.org
+  act_open: 0:0:0 09/11/2012
   begin: 0:0:0 22/12/2012
   cc: ru
   city: Saint Petersburg
@@ -1180,7 +1184,8 @@
   status: ok
   type: grassroot
   url: http://2012.yapcna.org/
-- act_open: 0:0:0 xx/xx/2012
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/2012
   begin: 0:0:0 12/05/2012
   cc: ua
   city: Kiev
@@ -1283,7 +1288,8 @@
   status: ok
   type: grassroot
   url: http://2012.qa-hackathon.org/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 10/03/2012
   cc: bg
   city: Sofia
@@ -1339,7 +1345,8 @@
   status: ok
   type: grassroot
   url: http://act.perl.org.il/ilpw2012/
-- act_open: 0:0:0 xx/xx/xxx
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 18/02/2012
   cc: ru
   city: Ekaterinburg
@@ -1375,7 +1382,8 @@
   status: ok
   type: grassroot
   url: http://www.perloasis.info/opw2012/
-- act_open: 0:0:0 01/11/2011
+- act_instance: perlrussia.org
+  act_open: 0:0:0 01/11/2011
   begin: 0:0:0 18/12/2011
   cc: ru
   city: Saint Petersburg
@@ -1526,7 +1534,9 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/ppw2011/
-- begin: 0:0:0 01/10/2011
+- act_instance: perlrussia.org
+  act_open: xx/xx/2011
+  begin: 0:0:0 01/10/2011
   cc: ua
   city: Partenit
   conf_id: bp2011
@@ -1707,7 +1717,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/npw2011/
-- act_open: 0:0:0 xx/xx/2011
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 13/05/2011
   cc: ru
   city: Moscow
@@ -1770,10 +1781,11 @@
     - en
   name: Toronto Perl Workshop
   nickname: Freshwater Perl
-  status: ok
+  status: canceled
   type: grassroot
   url: ~
-- act_open: 0:0:0 xx/xx/xxx
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 02/04/2011
   cc: ru
   city: Ekaterinburg
@@ -1822,7 +1834,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2011/
-- act_open: 0:0:0 15/01/2011
+- act_instance: perlrussia.org
+  act_open: 0:0:0 15/01/2011
   begin: 0:0:0 26/02/2011
   cc: bg
   city: Sofia
@@ -1905,10 +1918,12 @@
   lc:
     - en
   name: Vancouver Perl Workshop
-  status: unknown
+  status: canceled
   type: grassroot
   url: http://vanpw.org/vanpw2010/
-- begin: 0:0:0 18/12/2010
+- act_instance: perlrussia.org
+  act_open: xx/xx/2010
+  begin: 0:0:0 18/12/2010
   cc: ru
   city: Saint Petersburg
   conf_id: saintperl2
@@ -2254,7 +2269,8 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2010/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 20/02/2010
   cc: ru
   city: Ekaterinburg
@@ -2325,10 +2341,12 @@
   status: ok
   type: grassroot
   url: http://perloasis.org/opw2010/
-- begin: 0:0:0 18/12/2009
+- act_instance: perlrussia.org
+  act_open: xx/xx/2009
+  begin: 0:0:0 18/12/2009
   cc: ru
   city: Saint Petersburg
-  conf_id: saintperl2009
+  conf_id: saintperl
   continent: Europe
   country: Russia
   end: 0:0:0 18/12/2009
@@ -2361,7 +2379,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2009/
-- act_open: 0:0:0 xx/xx/2009
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 28/11/2009
   cc: kz
   city: Kostanay
@@ -2577,7 +2596,8 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/fpw2009/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 16/05/2009
   cc: ru
   city: Moscow
@@ -2591,7 +2611,8 @@
   status: ok
   type: grassroot
   url: http://event.yapcrussia.org/mayperl2/
-- act_open: 0:0:0 xx/xx/xxxx
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 13/05/2009
   cc: uz
   city: Tashkent
