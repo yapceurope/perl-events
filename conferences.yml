@@ -991,7 +991,8 @@
   status: ok
   type: grassroot
   url: http://event.perl.kr/kpw2012/
-- act_open: 0:0:0 xx/xx/2012
+- act_instance: yapcbrasil.org.br
+  act_open: 0:0:0 xx/xx/2012
   begin: 0:0:0 19/10/2012
   cc: br
   city: São Paulo
@@ -1417,7 +1418,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/lpw2011/
-- act_open: 0:0:0 xx/xx/2011
+- act_instance: yapcbrasil.org.br
+  act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 04/11/2011
   cc: br
   city: Rio de Janeiro
@@ -1987,7 +1989,8 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/apw2010/
-- act_open: 0:0:0 xx/xx/2010
+- act_instance: yapcbrasil.org.br
+  act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 25/10/2010
   cc: br
   city: Fortaleza
@@ -2404,7 +2407,8 @@
   status: unknown
   type: grassroot
   url: http://conferences.yapceurope.org/baltic2009/
-- act_open: 0:0:0 xx/xx/2009
+- act_instance: yapcbrasil.org.br
+  act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 30/10/2009
   cc: br
   city: Rio de Janeiro
