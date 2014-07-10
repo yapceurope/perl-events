@@ -5,6 +5,7 @@
 #
 # Fields:
 # - act_open: date of opening of the Act conference website
+# - act_instance: name of the Act instance hosting the conference website
 # - attendees: number of attendees
 # - begin: beginning date of the conference
 # - cc: country code (iso 3166)
