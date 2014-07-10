@@ -1702,6 +1702,20 @@
   status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/npw2011/
+- act_open: 0:0:0 xx/xx/2011
+  begin: 0:0:0 13/05/2011
+  cc: ru
+  city: Moscow
+  conf_id: yr2011
+  continent: Europe
+  country: Russia
+  end: 0:0:0 15/05/2011
+  genre: yapc
+  name: YAPC Russia
+  nickname: May Perl + Perl Mova
+  status: ok
+  type: grassroot
+  url: http://event.yapcrussia.org/mayperl4/
 - begin: 0:0:0 07/05/2011
   cc: br
   city: São paulo
