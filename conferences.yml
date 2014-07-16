@@ -103,6 +103,18 @@
   status: ok
   type: business
   url: http://act.ecommerce-innovation.com/eic2014/
+- begin: 0:0:0 19/09/2014
+  cc: br
+  city: Itapema
+  conf_id: ybr2014
+  continent: America
+  country: Brazil
+  end: 0:0:0 20/09/2014
+  genre: yapc
+  name: YAPC Brasil
+  status: ok
+  type: grassroot
+  url: http://2014.yapcbrasil.org.br/
 - act_instance: mongueurs.net
   act_open: 0:0:0 03/06/2014
   begin: 0:0:0 13/09/2014
