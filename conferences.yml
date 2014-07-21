@@ -27,8 +27,8 @@
 # - url: main conference website
 ---
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2014
-  begin: 0:0:0 xx/xx/2014
+  act_open: 0:0:0 20/07/2014
+  begin: 0:0:0 08/11/2014
   cc: gb
   city: London
   conf_id: lpw2014
@@ -36,7 +36,7 @@
   cost:
     regular: 0
   country: United Kingdom
-  end: 0:0:0 xx/xx/2014
+  end: 0:0:0 08/11/2014
   genre: workshop
   languages:
     - English
@@ -45,7 +45,7 @@
   name: London Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.yapc.eu/lpw2014/
 - act_instance: mongueurs.net
   act_open: 0:0:0 xx/xx/2014
   begin: 0:0:0 08/11/2014
