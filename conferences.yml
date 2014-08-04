@@ -26,6 +26,22 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- begin: 0:0:0 08/06/2015
+  cc: us
+  city: 'Salt Lake City, UT'
+  conf_id: yn2015
+  continent: America
+  country: United States
+  end: 0:0:0 10/06/2015
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC North America
+  status: ok
+  type: grassroot
+  url: ~
 - act_instance: mongueurs.net
   act_open: 0:0:0 20/07/2014
   begin: 0:0:0 08/11/2014
