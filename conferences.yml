@@ -36,7 +36,7 @@
   country: Germany
   end: 0:0:0 xx/xx/2015
   genre: hackathon
-  name: QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: ~
@@ -437,7 +437,7 @@
   country: France
   end: 0:0:0 16/03/2014
   genre: hackathon
-  name: QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: http://act.qa-hackathon.org/qa2014/
@@ -872,7 +872,7 @@
   country: United Kingdom
   end: 0:0:0 14/04/2013
   genre: hackathon
-  name: QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: http://2013.qa-hackathon.org/
@@ -1396,7 +1396,7 @@
   country: France
   end: 0:0:0 01/04/2012
   genre: hackathon
-  name: QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: http://2012.qa-hackathon.org/
@@ -1893,7 +1893,7 @@
   country: Netherlands
   end: 0:0:0 18/04/2011
   genre: hackathon
-  name: QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: http://2011.qa-hackathon.org/
@@ -2364,7 +2364,7 @@
   country: Austria
   end: 0:0:0 12/04/2010
   genre: hackathon
-  name: QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: http://2010.qa-hackathon.org/
@@ -2843,7 +2843,7 @@
   country: United Kingdom
   end: 0:0:0 30/03/2009
   genre: hackathon
-  name: QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: http://qa-hackathon.org/
@@ -3367,7 +3367,7 @@
   country: Norway
   end: 0:0:0 07/04/2008
   genre: hackathon
-  name: Oslo QA Hackathon
+  name: Perl QA Hackathon
   status: ok
   type: grassroot
   url: http://perl-qa.hexten.net/wiki/index.php/Oslo_QA_Hackathon_2008
