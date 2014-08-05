@@ -426,7 +426,7 @@
   type: grassroot
   url: http://act.yapc.eu/gpw2014/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2013
+  act_open: 0:0:0 24/12/2013
   begin: 0:0:0 13/03/2014
   cc: fr
   city: Lyon
@@ -877,7 +877,7 @@
   type: grassroot
   url: http://2013.qa-hackathon.org/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2013
+  act_open: 0:0:0 15/01/2013
   begin: 0:0:0 22/03/2013
   cc: ch
   city: ~
@@ -1479,7 +1479,7 @@
   type: grassroot
   url: http://event.perlrussia.org/perlburg3/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2011
+  act_open: 0:0:0 26/09/2011
   begin: 0:0:0 14/01/2012
   cc: us
   city: 'Orlando, FL'
