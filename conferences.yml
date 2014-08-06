@@ -148,7 +148,7 @@
 - act_instance: mongueurs.net
   act_open: 0:0:0 03/06/2014
   begin: 0:0:0 13/09/2014
-  cc: uk
+  cc: gb
   city: Manchester
   conf_id: dlc2014
   continent: Europe
@@ -392,7 +392,7 @@
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2014/
 - begin: 0:0:0 12/04/2014
-  cc: uk
+  cc: gb
   city: Swindon
   conf_id: hack2014dbic
   continent: Europe
@@ -863,7 +863,7 @@
 - act_instance: mongueurs.net
   act_open: 0:0:0 23/12/2012
   begin: 0:0:0 12/04/2013
-  cc: uk
+  cc: gb
   city: Lancaster
   conf_id: qa2013
   continent: Europe
@@ -1742,7 +1742,7 @@
 - act_instance: mongueurs.net
   act_open: 0:0:0 12/06/2011
   begin: 0:0:0 26/08/2011
-  cc: uk
+  cc: gb
   city: Edinburgh
   conf_id: dlc2011
   continent: Europe
@@ -2022,7 +2022,7 @@
   type: grassroot
   url: http://www.perloasis.info/opw2011/
 - begin: 0:0:0 xx/xx/2010
-  cc: uk
+  cc: gb
   city: Bristol
   conf_id: psdw2010
   continent: Europe
