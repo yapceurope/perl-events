@@ -133,6 +133,18 @@
   status: ok
   type: business
   url: http://act.ecommerce-innovation.com/eic2014/
+- begin: 0:0:0 20/09/2014
+  cc: gb
+  city: London
+  conf_id: hack2014gb
+  continent: America
+  country: United Kingdom
+  end: 0:0:0 20/09/2014
+  genre: hackathon
+  name: London Perl Hack Day
+  status: ok
+  type: grassroot
+  url: http://www.meetup.com/London-Perl-Mongers/events/194285872/
 - begin: 0:0:0 19/09/2014
   cc: br
   city: Itapema
