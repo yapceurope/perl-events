@@ -77,7 +77,7 @@
   type: grassroot
   url: http://act.yapc.eu/lpw2014/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2014
+  act_open: 0:0:0 19/08/2014
   begin: 0:0:0 08/11/2014
   cc: es
   city: Barcelona
@@ -97,7 +97,7 @@
   name: Barcelona Perl Workshop
   status: ok
   type: grassroot
-  url: http://workshop.barcelona.pm/
+  url: http://workshop.barcelona.pm/barcelona2014/
 - act_instance: mongueurs.net
   act_open: 0:0:0 03/06/2014
   begin: 0:0:0 10/10/2014
