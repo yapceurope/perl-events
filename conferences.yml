@@ -57,6 +57,24 @@
   type: grassroot
   url: ~
 - act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2014
+  begin: 0:0:0 xx/05/2015
+  cc: no
+  city: Oslo
+  conf_id: osdc2015no
+  continent: Europe
+  country: Norway
+  end: 0:0:0 xx/05/2015
+  genre: osdc
+  languages:
+    - English
+  lc:
+    - en
+  name: OSDC.no
+  status: ok
+  type: grassroot
+  url: ~
+- act_instance: mongueurs.net
   act_open: 0:0:0 20/07/2014
   begin: 0:0:0 08/11/2014
   cc: gb
