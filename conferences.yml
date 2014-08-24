@@ -133,6 +133,26 @@
   status: ok
   type: business
   url: http://act.ecommerce-innovation.com/eic2014/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2014
+  begin: 0:0:0 xx/09/2014
+  cc: fr
+  city: Paris
+  conf_id: osdc2014fr
+  continent: Europe
+  country: France
+  end: 0:0:0 xx/09/2014
+  genre: osdc
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: OSDC.fr
+  status: ok
+  type: grassroot
+  url: ~
 - begin: 0:0:0 20/09/2014
   cc: gb
   city: London
