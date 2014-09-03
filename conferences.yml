@@ -75,6 +75,29 @@
   type: grassroot
   url: http://act.osdc.no/osdc2015no/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/xxxx
+  begin: 0:0:0 22/11/2014
+  cc: bg
+  city: Sofia
+  conf_id: sofia2014
+  continent: Europe
+  cost:
+    regular: 0
+  country: Bulgaria
+  end: 0:0:0 22/11/2014
+  genre: workshop
+  languages:
+    - Bulgarian
+    - English
+  lc:
+    - bg
+    - en
+  name: Bulgarian Perl Workshop
+  nickname: BG Perl
+  status: ok
+  type: grassroot
+  url: ~
+- act_instance: mongueurs.net
   act_open: 0:0:0 20/07/2014
   begin: 0:0:0 08/11/2014
   cc: gb
