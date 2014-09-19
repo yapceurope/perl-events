@@ -75,6 +75,23 @@
   type: grassroot
   url: http://act.osdc.no/osdc2015no/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 xx/09/2014
+  begin: 0:0:0 27/11/2014
+  cc: fr
+  city: Lyon
+  conf_id: p2
+  continent: Europe
+  cost:
+    regular: 0
+  country: France
+  end: 0:0:0 30/11/2014
+  genre: hackathon
+  name: French Perl Hackathon
+  nickname: patch -p2
+  status: ok
+  type: grassroot
+  url: ~
+- act_instance: mongueurs.net
   act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 22/11/2014
   cc: bg
@@ -153,23 +170,6 @@
   status: ok
   type: grassroot
   url: http://workshop.barcelona.pm/barcelona2014/
-- act_instance: mongueurs.net
-  act_open: 0:0:0 xx/09/2014
-  begin: 0:0:0 xx/10/2014
-  cc: fr
-  city: Lyon
-  conf_id: p2
-  continent: Europe
-  cost:
-    regular: 0
-  country: France
-  end: 0:0:0 xx/10/2014
-  genre: hackathon
-  name: French Perl Hackathon
-  nickname: patch -p2
-  status: ok
-  type: grassroot
-  url: ~
 - act_instance: mongueurs.net
   act_open: 0:0:0 03/06/2014
   begin: 0:0:0 10/10/2014
