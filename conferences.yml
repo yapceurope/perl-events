@@ -75,7 +75,7 @@
   type: grassroot
   url: http://act.osdc.no/osdc2015no/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/09/2014
+  act_open: 0:0:0 22/09/2014
   begin: 0:0:0 27/11/2014
   cc: fr
   city: Lyon
@@ -90,7 +90,7 @@
   nickname: patch -p2
   status: ok
   type: grassroot
-  url: ~
+  url: http://patch.pm/p2/
 - act_instance: mongueurs.net
   act_open: 0:0:0 xx/xx/xxxx
   begin: 0:0:0 22/11/2014
