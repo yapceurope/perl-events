@@ -303,9 +303,9 @@
   lc:
     - en
   name: Dynamic Languages Conference
-  status: ok
+  status: canceled
   type: grassroot
-  url: http://www.dynamiclanguages.co.uk/dlc2014/
+  url: ~
 - act_instance: mongueurs.net
   act_open: 0:0:0 04/02/2014
   begin: 0:0:0 05/09/2014
