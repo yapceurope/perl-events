@@ -2719,7 +2719,7 @@
   lc:
     - en
   name: Baltic Perl Workshop
-  status: unknown
+  status: ok
   type: grassroot
   url: http://conferences.yapceurope.org/baltic2009/
 - act_instance: yapcbrasil.org.br
