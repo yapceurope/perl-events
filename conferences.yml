@@ -44,20 +44,6 @@
   status: ok
   type: grassroot
   url: ~
-- begin: 0:0:0 xx/xx/2015
-  cc: de
-  city: Berlin
-  conf_id: qa2015
-  continent: Europe
-  cost:
-    regular: 0
-  country: Germany
-  end: 0:0:0 xx/xx/2015
-  genre: hackathon
-  name: Perl QA Hackathon
-  status: ok
-  type: grassroot
-  url: ~
 - begin: 0:0:0 08/06/2015
   cc: us
   city: 'Salt Lake City, UT'
@@ -92,6 +78,20 @@
   status: ok
   type: grassroot
   url: http://act.osdc.no/osdc2015no/
+- begin: 0:0:0 16/04/2015
+  cc: de
+  city: Berlin
+  conf_id: qa2015
+  continent: Europe
+  cost:
+    regular: 0
+  country: Germany
+  end: 0:0:0 19/04/2015
+  genre: hackathon
+  name: Perl QA Hackathon
+  status: ok
+  type: grassroot
+  url: http://act.qa-hackathon.org/qa2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 xx/xx/2014
   begin: 0:0:0 10/04/2015
