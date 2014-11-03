@@ -44,6 +44,22 @@
   status: ok
   type: grassroot
   url: ~
+- begin: 0:0:0 20/08/2015
+  cc: jp
+  city: Tokyo
+  conf_id: ya2015
+  continent: Asia
+  country: Japan
+  end: 0:0:0 22/08/2015
+  genre: yapc
+  languages:
+    - Japanase
+  lc:
+    - ja
+  name: YAPC Asia
+  status: ok
+  type: grassroot
+  url: http://yapcasia.org/2015/
 - begin: 0:0:0 08/06/2015
   cc: us
   city: 'Salt Lake City, UT'
