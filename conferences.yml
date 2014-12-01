@@ -60,7 +60,9 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/2015/
-- begin: 0:0:0 08/06/2015
+- act_instance: mongueurs.net
+  act_open: 0:0:0 11/11/2014
+  begin: 0:0:0 08/06/2015
   cc: us
   city: 'Salt Lake City, UT'
   conf_id: yn2015
@@ -75,7 +77,7 @@
   name: YAPC North America
   status: ok
   type: grassroot
-  url: ~
+  url: http://www.yapcna.org/yn2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 26/08/2014
   begin: 0:0:0 08/05/2015
