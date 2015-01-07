@@ -97,7 +97,9 @@
   status: ok
   type: grassroot
   url: http://act.osdc.no/osdc2015no/
-- begin: 0:0:0 16/04/2015
+- act_instance: mongueurs.net
+  act_open: 0:0:0 05/01/2015
+  begin: 0:0:0 16/04/2015
   cc: de
   city: Berlin
   conf_id: qa2015
