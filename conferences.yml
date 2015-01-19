@@ -3430,6 +3430,7 @@
   url: http://event.perl.kr/kpw2008
 - act_instance: mongueurs.net
   act_open: 0:0:0 01/12/2007
+  attendees: 286
   begin: 0:0:0 13/08/2008
   cc: dk
   city: Copenhagen
