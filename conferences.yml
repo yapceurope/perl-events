@@ -128,7 +128,7 @@
   type: grassroot
   url: http://dcbpw.org/dcbpw2015/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2014
+  act_open: 0:0:0 05/01/2014
   begin: 0:0:0 10/04/2015
   cc: nl
   city: Utrecht
@@ -146,7 +146,7 @@
   name: Dutch Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://www.perlworkshop.nl/nlpw2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 22/09/2014
   begin: 0:0:0 27/11/2014
