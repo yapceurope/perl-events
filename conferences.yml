@@ -116,6 +116,26 @@
   type: grassroot
   url: http://act.osdc.no/osdc2015no/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 26/01/2015
+  begin: 0:0:0 06/05/2015
+  cc: de
+  city: Dresden
+  conf_id: gpw2015
+  continent: Europe
+  country: Germany
+  end: 0:0:0 08/05/2015
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/gpw2015/
+- act_instance: mongueurs.net
   act_open: 0:0:0 05/01/2015
   begin: 0:0:0 16/04/2015
   cc: de
