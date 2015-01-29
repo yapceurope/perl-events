@@ -45,6 +45,24 @@
   theme: Art+Engineering
   type: grassroot
   url: http://act.yapc.eu/ye2015/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 26/01/2015
+  begin: 0:0:0 28/08/2015
+  cc: ch
+  city: Olten
+  conf_id: spw2015
+  continent: Europe
+  country: Switzerland
+  end: 0:0:0 29/08/2015
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Swiss Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.perl-workshop.ch/spw2015/
 - begin: 0:0:0 20/08/2015
   cc: jp
   city: Tokyo
