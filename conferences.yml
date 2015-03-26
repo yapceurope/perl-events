@@ -135,6 +135,20 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/gpw2015/
+- begin: 0:0:0 02/05/2015
+  cc: us
+  city: 'New York, NY'
+  conf_id: hack2015ny
+  continent: America
+  cost:
+    regular: 0
+  country: United States
+  end: 0:0:0 02/05/2015
+  genre: hackathon
+  name: New York Perl Hackathon
+  status: ok
+  type: grassroot
+  url: https://github.com/nyperlmongers/nyperlhackathon2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 05/01/2015
   begin: 0:0:0 16/04/2015
