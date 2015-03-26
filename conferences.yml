@@ -1178,7 +1178,7 @@
   name: New York Perl Hackathon
   status: ok
   type: grassroot
-  url: https://github.com/nyperlmongers/nyperlhackathon2013/wiki/Home:-New-York-Perl-Hackathon-2013
+  url: https://github.com/nyperlmongers/nyperlhackathon2013/
 - act_instance: mongueurs.net
   act_open: 0:0:0 27/08/2012
   begin: 0:0:0 24/02/2013
