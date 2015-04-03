@@ -97,6 +97,26 @@
   status: ok
   type: grassroot
   url: http://www.yapcna.org/yn2015/
+- act_instance: perlrussia.org
+  act_open: 0:0:0 xx/xx/2015
+  begin: 0:0:0 16/05/2015
+  cc: ru
+  city: Moscow
+  conf_id: yr2015
+  continent: Europe
+  country: Russia
+  end: 0:0:0 17/05/2015
+  genre: workshop
+  languages:
+    - Russian
+    - English
+  lc:
+    - ru
+    - en
+  name: YAPC Russia
+  status: ok
+  type: grassroot
+  url: http://event.yapcrussia.org/yr2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 26/08/2014
   begin: 0:0:0 08/05/2015
