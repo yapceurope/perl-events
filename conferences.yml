@@ -175,6 +175,22 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/gpw2015/
+- begin: 0:0:0 04/05/2015
+  cc: no
+  city: New York
+  conf_id: mojo2015
+  continent: America
+  country: United States
+  end: 0:0:0 06/06/2015
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Mojoconf
+  status: ok
+  type: grassroot
+  url: https://www.mojoconf.com/2015
 - begin: 0:0:0 02/05/2015
   cc: us
   city: 'New York, NY'
