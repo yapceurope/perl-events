@@ -27,11 +27,11 @@
 # - url: main conference website
 ---
 - act_instance: mongueurs.net
-  act_open: 0:0:0 23/04/2015
+  act_open: 0:0:0 19/03/2015
   begin: 0:0:0 26/06/2015
   cc: fr
   city: Paris
-  conf_id: fr2015
+  conf_id: fpw2015
   continent: Europe
   country: France
   end: 0:0:0 27/06/2015
