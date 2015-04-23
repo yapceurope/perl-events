@@ -603,7 +603,7 @@
   name: Mojoconf
   status: ok
   type: grassroot
-  url: http://www.mojoconf.org/mojo2014/
+  url: http://act.yapc.eu/mojo2014/
 - act_instance: mongueurs.net
   act_open: 0:0:0 21/01/2014
   begin: 0:0:0 20/05/2014
