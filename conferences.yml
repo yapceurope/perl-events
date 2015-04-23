@@ -27,26 +27,6 @@
 # - url: main conference website
 ---
 - act_instance: mongueurs.net
-  act_open: 0:0:0 19/03/2015
-  begin: 0:0:0 26/06/2015
-  cc: fr
-  city: Paris
-  conf_id: fpw2015
-  continent: Europe
-  country: France
-  end: 0:0:0 27/06/2015
-  genre: workshop
-  languages:
-    - French
-    - English
-  lc:
-    - fr
-    - en
-  name: French Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://journeesperl.fr/fpw2015/
-- act_instance: mongueurs.net
   act_open: 0:0:0 16/12/2014
   begin: 0:0:0 02/09/2015
   cc: es
@@ -99,6 +79,26 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/2015/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 19/03/2015
+  begin: 0:0:0 26/06/2015
+  cc: fr
+  city: Paris
+  conf_id: fpw2015
+  continent: Europe
+  country: France
+  end: 0:0:0 27/06/2015
+  genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://journeesperl.fr/fpw2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 11/11/2014
   begin: 0:0:0 08/06/2015
