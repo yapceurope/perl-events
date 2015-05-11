@@ -119,7 +119,7 @@
   url: http://www.yapcna.org/yn2015/
 - begin: 0:0:0 06/06/2015
   cc: no
-  city: New York
+  city: New York City, NY
   conf_id: mini2015
   continent: America
   country: United States
@@ -135,7 +135,7 @@
   url: http://mini-conf.com/
 - begin: 0:0:0 04/06/2015
   cc: no
-  city: New York
+  city: New York City, NY
   conf_id: mojo2015
   continent: America
   country: United States
@@ -209,7 +209,7 @@
   url: http://act.yapc.eu/gpw2015/
 - begin: 0:0:0 02/05/2015
   cc: us
-  city: 'New York, NY'
+  city: New York City, NY
   conf_id: hack2015ny
   continent: America
   cost:
@@ -1239,7 +1239,7 @@
 - attendees: 25
   begin: 0:0:0 02/03/2013
   cc: us
-  city: 'New York, NY'
+  city: New York City, NY
   conf_id: hack2013ny
   continent: America
   cost:
