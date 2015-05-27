@@ -26,42 +26,6 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_instance: perlrussia.org
-  act_open: 0:0:0 25/05/2015
-  begin: 0:0:0 15/08/2015
-  cc: ru
-  city: Ryazan
-  conf_id: ryazan2015
-  continent: Europe
-  country: Russia
-  end: 0:0:0 16/08/2015
-  genre: workshop
-  languages:
-    - Russian
-  lc:
-    - ru
-  name: Russian Perl Workshop 2015
-  status: ok
-  type: grassroot
-  url: http://event.yapcrussia.org/ryazan2015/
-- act_instance: perlrussia.org
-  act_open: 0:0:0 25/05/2015
-  begin: 0:0:0 25/07/2015
-  cc: ru
-  city: Odessa
-  conf_id: odessa2015
-  continent: Europe
-  country: Ukraine
-  end: 0:0:0 26/07/2015
-  genre: workshop
-  languages:
-    - Russian
-  lc:
-    - ru
-  name: Ukrainian Perl Workshop "Perl Mama" 2015
-  status: ok
-  type: grassroot
-  url: http://perlmama.od.ua/odessa2015/
 - begin: 0:0:0 09/03/2016
   cc: de
   city: Nuremberg
@@ -133,6 +97,42 @@
   status: ok
   type: grassroot
   url: http://yapcasia.org/2015/
+- act_instance: perlrussia.org
+  act_open: 0:0:0 25/05/2015
+  begin: 0:0:0 15/08/2015
+  cc: ru
+  city: Ryazan
+  conf_id: ryazan2015
+  continent: Europe
+  country: Russia
+  end: 0:0:0 16/08/2015
+  genre: workshop
+  languages:
+    - Russian
+  lc:
+    - ru
+  name: Russian Perl Workshop 2015
+  status: ok
+  type: grassroot
+  url: http://event.yapcrussia.org/ryazan2015/
+- act_instance: perlrussia.org
+  act_open: 0:0:0 25/05/2015
+  begin: 0:0:0 25/07/2015
+  cc: ru
+  city: Odessa
+  conf_id: odessa2015
+  continent: Europe
+  country: Ukraine
+  end: 0:0:0 26/07/2015
+  genre: workshop
+  languages:
+    - Russian
+  lc:
+    - ru
+  name: Ukrainian Perl Workshop "Perl Mama" 2015
+  status: ok
+  type: grassroot
+  url: http://perlmama.od.ua/odessa2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 19/03/2015
   begin: 0:0:0 26/06/2015
