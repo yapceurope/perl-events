@@ -129,7 +129,8 @@
     - Russian
   lc:
     - ru
-  name: Ukrainian Perl Workshop "Perl Mama" 2015
+  name: Ukrainian Perl Workshop
+  nickname: Perl Mama
   status: ok
   type: grassroot
   url: http://perlmama.od.ua/odessa2015/
