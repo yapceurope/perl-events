@@ -45,6 +45,20 @@
   type: grassroot
   url: ~
 - act_instance: mongueurs.net
+  act_open: 0:0:0 29/06/2015
+  begin: 0:0:0 09/10/2015
+  cc: us
+  city: 'Pittsburgh, PA'
+  conf_id: ppw2015
+  continent: America
+  country: United States
+  end: 0:0:0 11/10/2015
+  genre: workshop
+  name: Pittsburgh Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://pghpw.org/ppw2015/
+- act_instance: mongueurs.net
   act_open: 0:0:0 16/12/2014
   begin: 0:0:0 02/09/2015
   cc: es
