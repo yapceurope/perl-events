@@ -64,6 +64,20 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2015/
+- begin: 0:0:0 19/10/2015
+  cc: us
+  city: Vienna
+  conf_id: dancer2015
+  continent: Europe
+  cost:
+    regular: 0
+  country: Austria
+  end: 0:0:0 22/10/2015
+  genre: workshop
+  name: Perl Dancer
+  status: ok
+  type: business
+  url: http://www.perl.dance/
 - act_instance: mongueurs.net
   act_open: 0:0:0 29/06/2015
   begin: 0:0:0 09/10/2015
