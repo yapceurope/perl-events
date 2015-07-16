@@ -92,6 +92,18 @@
   status: ok
   type: grassroot
   url: http://pghpw.org/ppw2015/
+- begin: 0:0:0 18/09/2015
+  cc: br
+  city: Taubaté
+  conf_id: ybr2015
+  continent: America
+  country: Brazil
+  end: 0:0:0 20/09/2015
+  genre: yapc
+  name: YAPC Brasil
+  status: ok
+  type: grassroot
+  url: http://yapcbrasil2015.org/
 - act_instance: mongueurs.net
   act_open: 0:0:0 16/12/2014
   begin: 0:0:0 02/09/2015
