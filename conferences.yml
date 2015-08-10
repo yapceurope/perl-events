@@ -64,6 +64,28 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2015/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2015
+  begin: 0:0:0 07/11/2015
+  cc: es
+  city: Barcelona
+  conf_id: barcelona2015
+  continent: Europe
+  country: Spain
+  end: 0:0:0 07/11/2015
+  genre: workshop
+  languages:
+    - Catalan
+    - Spanish
+    - English
+  lc:
+    - ca
+    - es
+    - en
+  name: Barcelona Perl Workshop
+  status: ok
+  type: grassroot
+  url: ~
 - begin: 0:0:0 19/10/2015
   cc: us
   city: Vienna
