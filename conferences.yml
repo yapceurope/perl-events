@@ -127,7 +127,7 @@
   type: grassroot
   url: http://yapcbrasil2015.org/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/08/2015
+  act_open: 0:0:0 13/08/2015
   begin: 0:0:0 12/09/2015
   cc: fr
   city: Lyon
@@ -142,7 +142,7 @@
   nickname: patch -p3
   status: ok
   type: grassroot
-  url: ~
+  url: http://patch.pm/p3/
 - act_instance: mongueurs.net
   act_open: 0:0:0 16/12/2014
   begin: 0:0:0 02/09/2015
