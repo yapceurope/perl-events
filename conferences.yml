@@ -26,7 +26,9 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- begin: 0:0:0 09/03/2016
+- act_instance: mongueurs.net
+  act_open: 0:0:0 26/08/2015
+  begin: 0:0:0 09/03/2016
   cc: de
   city: Nuremberg
   conf_id: gpw2016
@@ -43,7 +45,7 @@
   name: German Perl Workshop
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.yapc.eu/gpw2016/
 - act_instance: mongueurs.net
   act_open: 0:0:0 29/06/2015
   begin: 0:0:0 12/12/2015
