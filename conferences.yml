@@ -27,6 +27,23 @@
 # - url: main conference website
 ---
 - act_instance: mongueurs.net
+  begin: 0:0:0 24/08/2016
+  cc: ro
+  city: Cluj-Napoca
+  conf_id: ye2016
+  continent: Europe
+  country: Romamia
+  end: 0:0:0 26/08/2016
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC Europe
+  status: ok
+  type: grassroot
+  url: ~
+- act_instance: mongueurs.net
   act_open: 0:0:0 26/08/2015
   begin: 0:0:0 09/03/2016
   cc: de
