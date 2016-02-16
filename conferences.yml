@@ -44,6 +44,26 @@
   type: grassroot
   url: ~
 - act_instance: mongueurs.net
+  act_open: 0:0:0 31/01/2016
+  begin: 0:0:0 01/04/2016
+  cc: nl
+  city: Amsterdam
+  conf_id: nlpw2016
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 01/04/2015
+  genre: workshop
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/nlpw2016/
+- act_instance: mongueurs.net
   act_open: 0:0:0 26/08/2015
   begin: 0:0:0 09/03/2016
   cc: de
