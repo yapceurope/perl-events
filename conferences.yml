@@ -467,7 +467,7 @@
   name: Perl QA Hackathon
   status: ok
   type: grassroot
-  url: ~
+  url: http://act.qa-hackathon.org/qa2016/
 - act_instance: mongueurs.net
   act_open: 0:0:0 05/01/2015
   begin: 0:0:0 16/04/2015
