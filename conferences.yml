@@ -454,7 +454,7 @@
   url: https://github.com/nyperlmongers/nyperlhackathon2015/
 - act_instance: mongueurs.net
   act_open: 0:0:0 09/02/2016
-  begin: 0:0:0 21/04/2015
+  begin: 0:0:0 21/04/2016
   cc: gb
   city: Rugby
   conf_id: qa2016
@@ -2354,7 +2354,7 @@
   conf_id: bjpw2011
   continent: Asia
   country: China
-  end: 0:0:0 02/07/2013
+  end: 0:0:0 02/07/2011
   genre: workshop
   name: Beijing Perl Workshop
   status: ok
