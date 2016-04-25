@@ -26,23 +26,6 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
-- act_instance: mongueurs.net
-  act_open: 0:0:0 23/04/2016
-  begin: 0:0:0 02/09/2016
-  cc: at
-  city: Innsbruck
-  conf_id: alpineperl2016
-  continent: Europe
-  cost:
-    regular: 0
-    business: 90 EUR
-  country: Austria
-  end: 0:0:0 03/09/2016
-  genre: grassroot
-  name: Alpine Perl Workshop
-  status: ok
-  type: business
-  url: http://act.yapc.eu/alpineperl2016/
 - begin: 0:0:0 21/09/2016
   cc: at
   city: Vienna
@@ -57,6 +40,23 @@
   status: ok
   type: business
   url: http://www.perl.dance/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 23/04/2016
+  begin: 0:0:0 02/09/2016
+  cc: at
+  city: Innsbruck
+  conf_id: alpineperl2016
+  continent: Europe
+  cost:
+    business: 90 EUR
+    regular: 0
+  country: Austria
+  end: 0:0:0 03/09/2016
+  genre: grassroot
+  name: Alpine Perl Workshop
+  status: ok
+  type: business
+  url: http://act.yapc.eu/alpineperl2016/
 - act_instance: mongueurs.net
   begin: 0:0:0 24/08/2016
   cc: ro
