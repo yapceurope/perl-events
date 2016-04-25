@@ -97,6 +97,18 @@
   status: ok
   type: grassroot
   url: http://act.qa-hackathon.org/qa2016/
+- begin: 0:0:0 16/04/2016
+  cc: us
+  city: 'Baltimore, MD'
+  conf_id: dcbpw2016
+  continent: America
+  country: United States
+  end: 0:0:0 17/04/2016
+  genre: workshop
+  name: DC-Baltimore Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://dcbpw.org/dcbpw2016/
 - act_instance: mongueurs.net
   act_open: 0:0:0 31/01/2016
   begin: 0:0:0 01/04/2016
