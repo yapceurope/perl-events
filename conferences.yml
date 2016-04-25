@@ -26,6 +26,20 @@
 # - type: grassroot | business
 # - url: main conference website
 ---
+- begin: 0:0:0 21/09/2016
+  cc: us
+  city: Vienna
+  conf_id: dancer2016
+  continent: Europe
+  cost:
+    regular: 0
+  country: Austria
+  end: 0:0:0 22/09/2016
+  genre: workshop
+  name: Perl Dancer
+  status: ok
+  type: business
+  url: http://www.perl.dance/
 - act_instance: mongueurs.net
   begin: 0:0:0 24/08/2016
   cc: ro
