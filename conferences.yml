@@ -27,7 +27,7 @@
 # - url: main conference website
 ---
 - begin: 0:0:0 21/09/2016
-  cc: us
+  cc: at
   city: Vienna
   conf_id: dancer2016
   continent: Europe
@@ -206,7 +206,7 @@
   type: grassroot
   url: http://workshop.barcelona.pm/barcelona2015/
 - begin: 0:0:0 19/10/2015
-  cc: us
+  cc: at
   city: Vienna
   conf_id: dancer2015
   continent: Europe
