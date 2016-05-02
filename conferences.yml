@@ -78,6 +78,7 @@
   type: business
   url: http://act.yapc.eu/alpineperl2016/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 29/04/2016
   begin: 0:0:0 24/08/2016
   cc: ro
   city: Cluj-Napoca
