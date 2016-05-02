@@ -599,7 +599,7 @@
   type: grassroot
   url: http://patch.pm/p2/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2014
   begin: 0:0:0 22/11/2014
   cc: bg
   city: Sofia
@@ -1578,7 +1578,7 @@
   type: grassroot
   url: http://act.perl.org.il/ilpw2013/
 - act_instance: perlrussia.org
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2013
   begin: 0:0:0 09/02/2013
   cc: bg
   city: Sofia
@@ -2033,7 +2033,7 @@
   type: grassroot
   url: http://2012.qa-hackathon.org/
 - act_instance: perlrussia.org
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2012
   begin: 0:0:0 10/03/2012
   cc: bg
   city: Sofia
@@ -2092,7 +2092,7 @@
   type: grassroot
   url: http://act.perl.org.il/ilpw2012/
 - act_instance: perlrussia.org
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2012
   begin: 0:0:0 18/02/2012
   cc: ru
   city: Ekaterinburg
@@ -2547,7 +2547,7 @@
   type: grassroot
   url: ~
 - act_instance: perlrussia.org
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2011
   begin: 0:0:0 02/04/2011
   cc: ru
   city: Ekaterinburg
@@ -3048,7 +3048,7 @@
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2010/
 - act_instance: perlrussia.org
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2010
   begin: 0:0:0 20/02/2010
   cc: ru
   city: Ekaterinburg
@@ -3388,7 +3388,7 @@
   type: grassroot
   url: http://journeesperl.fr/fpw2009/
 - act_instance: perlrussia.org
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 16/05/2009
   cc: ru
   city: Moscow
@@ -3403,7 +3403,7 @@
   type: grassroot
   url: http://event.yapcrussia.org/mayperl2/
 - act_instance: perlrussia.org
-  act_open: 0:0:0 xx/xx/xxxx
+  act_open: 0:0:0 xx/xx/2009
   begin: 0:0:0 13/05/2009
   cc: uz
   city: Tashkent
