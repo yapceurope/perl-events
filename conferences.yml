@@ -46,6 +46,26 @@
   status: ok
   type: grassroot
   url: ~
+- act_instance: mongueurs.net
+  act_open: 0:0:0 11/08/2016
+  begin: 0:0:0 03/12/2016
+  cc: gb
+  city: London
+  conf_id: lpw2016
+  continent: Europe
+  cost:
+    regular: 0
+  country: United Kingdom
+  end: 0:0:0 03/12/2016
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: London Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/lpw2016/
 - begin: 0:0:0 21/09/2016
   cc: at
   city: Vienna
