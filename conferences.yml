@@ -138,6 +138,24 @@
   type: grassroot
   url: http://act.yapc.eu/ye2016/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 01/12/2016
+  begin: 0:0:0 09/08/2017
+  cc: nl
+  city: Amsterdam
+  conf_id: ye2017
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 11/08/2017
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: YAPC Europe
+  status: ok
+  type: grassroot
+  url: http://yapc.amsterdam/
+- act_instance: mongueurs.net
   act_open: 0:0:0 28/01/2016
   begin: 0:0:0 24/06/2016
   cc: fr
