@@ -84,6 +84,22 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/lpw2016/
+- begin: 0:0:0 11/11/2016
+  cc: nl
+  city: Amsterdam
+  conf_id: hack2016p5p
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 14/11/2016
+  genre: hackathon
+  languages:
+    - English
+  lc:
+    - en
+  name: P5P Hackathon
+  status: ok
+  type: grassroot
+  url: ~
 - act_instance: mongueurs.net
   act_open: 0:0:0 11/08/2016
   begin: 0:0:0 05/11/2016
