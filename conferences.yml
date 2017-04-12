@@ -28,6 +28,27 @@
 ---
 - act_instance: mongueurs.net
   act_open: 0:0:0 xx/xx/2016
+  begin: 10:0:0 03/06/2017
+  cc: es
+  city: Madrid
+  conf_id: mpw2017
+  continent: Europe
+  country: Spain
+  end: 20:0:0 03/06/2017
+  genre: workshop
+  languages:
+    - Spanish
+    - English
+  lc:
+    - es
+    - en
+  name: Spanish Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://madrid.pm.org/workshop/
+
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2016
   begin: 0:0:0 xx/xx/2017
   cc: de
   city: ~
