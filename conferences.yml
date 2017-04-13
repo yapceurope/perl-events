@@ -28,11 +28,11 @@
 ---
 
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2016
+  act_open: 0:0:0 12/04/2017
   begin: 10:0:0 09/06/2017
-  cc: es
+  cc: fr
   city: Paris
-  conf_id: fpw2017
+  conf_id: jp2017
   continent: Europe
   country: France
   end: 20:0:0 10/06/2017
@@ -46,10 +46,9 @@
   name: French Perl Workshop
   status: ok
   type: grassroot
-  url: http://journeesperl.fr/jp2017/index.html
-
+  url: http://journeesperl.fr/jp2017/
 - act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2016
+  act_open: 0:0:0 12/04/2017
   begin: 10:0:0 03/06/2017
   cc: es
   city: Madrid
@@ -68,7 +67,6 @@
   status: ok
   type: grassroot
   url: http://madrid.pm.org/workshop/
-
 - act_instance: mongueurs.net
   act_open: 0:0:0 xx/xx/2016
   begin: 0:0:0 xx/xx/2017
