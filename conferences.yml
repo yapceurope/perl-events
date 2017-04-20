@@ -209,7 +209,7 @@
   lc:
     - es
     - en
-  name: Spanish Perl Workshop
+  name: Madrid Perl Workshop
   status: ok
   type: grassroot
   url: http://madrid.pm.org/workshop/
