@@ -27,6 +27,24 @@
 # - url: main conference website
 ---
 - act_instance: mongueurs.net
+  act_open: 0:0:0 01/06/2017
+  begin: 0:0:0 25/08/2017
+  cc: ch
+  city: Villars-sur-Ollon
+  conf_id: spw2017
+  continent: Europe
+  country: Switzerland
+  end: 0:0:0 26/08/2017
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Swiss Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.perl-workshop.ch/spw2017/
+- act_instance: mongueurs.net
   act_open: 0:0:0 12/04/2017
   begin: 10:0:0 09/06/2017
   cc: fr
