@@ -27,6 +27,24 @@
 # - url: main conference website
 ---
 - act_instance: mongueurs.net
+#  act_open: 0:0:0 01/06/2017
+  begin: 0:0:0 25/08/2018
+  cc: gb
+  city: Glasgow
+  conf_id: tcpig
+  continent: Europe
+  country: United Kingdom
+  end: 0:0:0 26/08/2018
+  genre: conference
+  languages:
+    - English
+  lc:
+    - en
+  name: The Perl Conference in Glasgow
+  status: ok
+  type: grassroot
+#  url: http://act.perl-workshop.ch/spw2017/
+- act_instance: mongueurs.net
   act_open: 0:0:0 01/06/2017
   begin: 0:0:0 25/08/2017
   cc: ch
