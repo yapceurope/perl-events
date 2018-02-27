@@ -27,6 +27,24 @@
 # - url: main conference website
 ---
 - act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2018
+  begin: 0:0:0 07/09/2018
+  cc: ch
+  city: Bern
+  conf_id: spw2018
+  continent: Europe
+  country: Switzerland
+  end: 0:0:0 08/09/2018
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Swiss Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.perl-workshop.ch/spw2018/
+- act_instance: mongueurs.net
   act_open: 0:0:0 01/06/2018
   begin: 0:0:0 15/08/2018
   cc: gb
@@ -43,6 +61,100 @@
   name: The Perl Conference in Glasgow
   status: ok
   type: grassroot
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2018
+  begin: 10:0:0 18/05/2018
+  cc: fr
+  city: Paris
+  conf_id: jp2018
+  continent: Europe
+  country: France
+  end: 0:0:0 19/05/2018
+  genre: workshop
+  languages:
+    - French
+    - English
+  lc:
+    - fr
+    - en
+  name: French Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://journeesperl.fr/jp2018/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2018
+  begin: 0:0:0 03/05/2018
+  cc: nl
+  city: Utrecht
+  conf_id: nlpw2018
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 04/05/2018
+  genre: workshop
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/nlpw2018/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2018
+  begin: 0:0:0 19/04/2018
+  cc: no
+  city: Oslo
+  conf_id: pts2018
+  continent: Europe
+  cost:
+    regular: 0
+  country: Norway
+  end: 0:0:0 22/04/2018
+  genre: hackathon
+  name: Perl Toolchain Summit
+  status: ok
+  type: grassroot
+  url: http://act.qa-hackathon.org/pts2018/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2018
+  begin: 0:0:0 03/04/2018
+  cc: de
+  city: Gummersbach
+  conf_id: gpw2018
+  continent: Europe
+  country: Germany
+  end: 0:0:0 07/04/2018
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/gpw2018/
+- begin: 0:0:0 03/03/2018
+  cc: jp
+  city: 'Onnason, Okinawa'
+  conf_id: 2018okinawa
+  continent: Asia
+  country: Japan
+  end: 0:0:0 03/03/2018
+  genre: yapc
+  languages:
+    - Japanese
+    - English
+  lc:
+    - ja
+    - en
+  name: Yapc::Okinawa 2018
+  status: ok
+  type: grassroot
+  url: http://yapcjapan.org/2018okinawa/
 - act_instance: mongueurs.net
   act_open: 0:0:0 01/06/2017
   begin: 0:0:0 25/08/2017
