@@ -156,6 +156,26 @@
   type: grassroot
   url: http://yapcjapan.org/2018okinawa/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2018
+  begin: 0:0:0 16/02/2018
+  cc: es
+  city: Granada
+  conf_id: granada2018
+  continent: Europe
+  country: Spain
+  end: 0:0:0 17/02/2018
+  genre: workshop
+  languages:
+    - Spanish
+    - English
+  lc:
+    - es
+    - en
+  name: Granada Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://workshop.granada.pm/granada2018/
+- act_instance: mongueurs.net
   act_open: 0:0:0 01/06/2017
   begin: 0:0:0 25/08/2017
   cc: ch
