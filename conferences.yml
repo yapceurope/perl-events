@@ -194,6 +194,45 @@
   type: grassroot
   url: http://act.perl-workshop.ch/spw2017/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2016
+  attendees: 287
+  begin: 0:0:0 09/08/2017
+  cc: nl
+  city: Amsterdam
+  conf_id: ye2017
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 11/08/2017
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: The Perl Conference in Amsterdam
+  status: ok
+  type: grassroot
+  url: http://perlconference.amsterdam/
+- act_instance: mongueurs.net
+  act_open: 0:0:0 xx/xx/2016
+  begin: 0:0:0 26/06/2017
+  cc: de
+  city: Hamburg
+  conf_id: gpw2017
+  continent: Europe
+  country: Germany
+  end: 0:0:0 28/06/2017
+  genre: workshop
+  languages:
+    - German
+    - English
+  lc:
+    - de
+    - en
+  name: German Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://act.yapc.eu/gpw2017/
+- act_instance: mongueurs.net
   act_open: 0:0:0 12/04/2017
   begin: 10:0:0 09/06/2017
   cc: fr
@@ -249,46 +288,6 @@
   status: ok
   type: grassroot
   url: http://act.qa-hackathon.org/qa2017/
-
-- act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2016
-  begin: 0:0:0 26/06/2017
-  cc: de
-  city: Hamburg 
-  conf_id: gpw2017
-  continent: Europe
-  country: Germany
-  end: 0:0:0 28/06/2017
-  genre: workshop
-  languages:
-    - German
-    - English
-  lc:
-    - de
-    - en
-  name: German Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://act.yapc.eu/gpw2017/
-- act_instance: mongueurs.net
-  act_open: 0:0:0 xx/xx/2016
-  begin: 0:0:0 09/08/2017
-  cc: nl
-  city: Amsterdam
-  conf_id: ye2017
-  continent: Europe
-  country: Netherlands
-  end: 0:0:0 11/08/2017
-  genre: yapc
-  languages:
-    - English
-  lc:
-    - en
-  name: The Perl Conference in Amsterdam
-  status: ok
-  type: grassroot
-  attendees: 287
-  url: http://perlconference.amsterdam/
 - act_instance: mongueurs.net
   act_open: 0:0:0 11/08/2016
   begin: 0:0:0 03/12/2016
@@ -380,6 +379,7 @@
   url: http://act.yapc.eu/alpineperl2016/
 - act_instance: mongueurs.net
   act_open: 0:0:0 29/04/2016
+  attendees: 290
   begin: 0:0:0 24/08/2016
   cc: ro
   city: Cluj-Napoca
@@ -396,7 +396,6 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/ye2016/
-  attendees: 290
 - act_instance: mongueurs.net
   act_open: 0:0:0 28/01/2016
   begin: 0:0:0 24/06/2016
@@ -604,6 +603,7 @@
   url: http://patch.pm/p3/
 - act_instance: mongueurs.net
   act_open: 0:0:0 16/12/2014
+  attendees: '~ 261'
   begin: 0:0:0 02/09/2015
   cc: es
   city: Granada
@@ -621,7 +621,6 @@
   theme: Art+Engineering
   type: grassroot
   url: http://act.yapc.eu/ye2015/
-  attendees: '~ 261'
 - act_instance: mongueurs.net
   act_open: 0:0:0 26/01/2015
   begin: 0:0:0 28/08/2015
@@ -1135,6 +1134,7 @@
   url: http://yapcasia.org/2014/
 - act_instance: mongueurs.net
   act_open: 00:00:00 27/01/2014
+  attendees: '~ 171'
   begin: 10:00:00 22/08/2014
   cc: bg
   city: Sofia
@@ -1151,7 +1151,6 @@
   status: ok
   type: grassroot
   url: http://yapc.eu/2014
-  attendees: '~ 171'
 - act_instance: mongueurs.net
   act_open: 0:0:0 21/05/2014
   begin: 0:0:0 27/06/2014
@@ -2162,6 +2161,7 @@
   url: http://act.yapc.eu/mtmh2012/
 - act_instance: mongueurs.net
   act_open: 0:0:0 10/01/2012
+  attendees: '~ 330'
   begin: 0:0:0 20/08/2012
   cc: de
   city: Frankfurt
@@ -2178,7 +2178,6 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/ye2012/
-  attendees: '~ 330'
 - act_instance: mongueurs.net
   act_open: 0:0:0 25/03/2012
   begin: 0:0:0 30/06/2012
@@ -3139,6 +3138,7 @@
   url_lanyrd: http://lanyrd.com/2010/osdcfr/
 - act_instance: mongueurs.net
   act_open: 0:0:0 22/11/2009
+  attendees: '~ 243'
   begin: 0:0:0 04/08/2010
   cc: it
   city: Pisa
@@ -3156,7 +3156,6 @@
   theme: The Renaissance of Perl
   type: grassroot
   url: http://conferences.yapceurope.org/ye2010/
-  attendees: '~ 243'
 - act_instance: mongueurs.net
   act_open: 0:0:0 06/02/2010
   begin: 0:0:0 26/06/2010
