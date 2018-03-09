@@ -61,6 +61,7 @@
   name: The Perl Conference in Glasgow
   status: ok
   type: grassroot
+  url: http://act.perlconference.org/tpc-2018-glasgow/
 - act_instance: mongueurs.net
   act_open: 0:0:0 15/02/2018
   begin: 10:0:0 18/05/2018
