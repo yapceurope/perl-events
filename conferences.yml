@@ -63,6 +63,26 @@
   type: grassroot
   url: http://act.perlconference.org/tpc-2018-glasgow/
 - act_instance: mongueurs.net
+  act_open: 0:0:0 13/02/2018
+  begin: 0:0:0 07/07/2018
+  cc: nl
+  city: Arnhem
+  conf_id: nlpw2018
+  continent: Europe
+  country: Netherlands
+  end: 0:0:0 07/07/2018
+  genre: workshop
+  languages:
+    - Dutch
+    - English
+  lc:
+    - nl
+    - en
+  name: Dutch Perl Workshop
+  status: ok
+  type: grassroot
+  url: http://www.perlworkshop.nl/nlpw2018/
+- act_instance: mongueurs.net
   act_open: 0:0:0 15/02/2018
   begin: 10:0:0 18/05/2018
   cc: fr
@@ -82,26 +102,6 @@
   status: ok
   type: grassroot
   url: http://journeesperl.fr/jp2018/
-- act_instance: mongueurs.net
-  act_open: 0:0:0 13/02/2018
-  begin: 0:0:0 03/05/2018
-  cc: nl
-  city: Utrecht
-  conf_id: nlpw2018
-  continent: Europe
-  country: Netherlands
-  end: 0:0:0 04/05/2018
-  genre: workshop
-  languages:
-    - Dutch
-    - English
-  lc:
-    - nl
-    - en
-  name: Dutch Perl Workshop
-  status: ok
-  type: grassroot
-  url: http://www.perlworkshop.nl/nlpw2018/
 - act_instance: mongueurs.net
   act_open: 0:0:0 13/01/2018
   begin: 0:0:0 19/04/2018
