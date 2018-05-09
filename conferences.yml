@@ -94,7 +94,7 @@
     - English
   lc:
     - en
-  name: The Perl Conference
+  name: The Perl Conference in Salt Lake City
   status: ok
   type: grassroot
   url: https://perlconference.us/tpc-2018-slc/
@@ -261,7 +261,7 @@
     - English
   lc:
     - en
-  name: The Perl Conference
+  name: The Perl Conference in DC
   status: ok
   type: grassroot
   url: http://www.perlconference.us/tpc-2017-dc/
