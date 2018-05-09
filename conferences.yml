@@ -82,6 +82,22 @@
   status: ok
   type: grassroot
   url: http://www.perlworkshop.nl/nlpw2018/
+- begin: 0:0:0 17/06/2018
+  cc: us
+  city: 'Salt Lake City, UT'
+  conf_id: tpc-2018-slc
+  continent: America
+  country: United States
+  end: 0:0:0 22/06/2018
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: The Perl Conference
+  status: ok
+  type: grassroot
+  url: https://perlconference.us/tpc-2018-slc/
 - act_instance: mongueurs.net
   act_open: 0:0:0 15/02/2018
   begin: 10:0:0 18/05/2018
@@ -233,6 +249,22 @@
   status: ok
   type: grassroot
   url: http://act.yapc.eu/gpw2017/
+- begin: 0:0:0 18/06/2017
+  cc: us
+  city: 'Alexandria, VA'
+  conf_id: tpc-2017-dc
+  continent: America
+  country: United States
+  end: 0:0:0 23/06/2017
+  genre: yapc
+  languages:
+    - English
+  lc:
+    - en
+  name: The Perl Conference
+  status: ok
+  type: grassroot
+  url: http://www.perlconference.us/tpc-2017-dc/
 - act_instance: mongueurs.net
   act_open: 0:0:0 12/04/2017
   begin: 10:0:0 09/06/2017
