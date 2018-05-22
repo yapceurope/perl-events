@@ -44,6 +44,24 @@
   status: ok
   type: grassroot
   url: http://act.perl-workshop.ch/spw2018/
+- act_instance: mongueurs.met
+  act_open: 0:0:0 24/04/2018
+  begin: 0:0:0 06/09/2018
+  cc: no
+  city: Oslo
+  conf_id: npw2018
+  continent: Europe
+  country: Norway
+  end: 0:0:0 07/09/2018
+  genre: workshop
+  languages:
+    - English
+  lc:
+    - en
+  name: Nordic Perl Workshop & Mojoconf
+  status: ok
+  type: grassroot
+  url: http://oslo.pm/npw2018/
 - act_instance: mongueurs.net
   act_open: 0:0:0 01/06/2018
   begin: 0:0:0 15/08/2018
